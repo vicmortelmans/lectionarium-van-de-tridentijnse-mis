@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="nl" xml:lang="nl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>$if(subtitle)$$subtitle$$elseif(title)$$title$$else$Lectionarium van de Tridentijnse Mis$endif$</title>
+  <style>
+    $styles.html()$
+  </style>
+$for(css)$
+  <link rel="stylesheet" href="/$css$" />
+$endfor$
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+$for(header-includes)$
+  $header-includes$
+$endfor$
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9K3ZPTT2NZ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-9K3ZPTT2NZ');
+  </script>
+</head>
+<body>
+  <header>
+    <p class="bottom-line-1"><a href="/toc.html">INHOUDSTAFEL</a></p>
+  </header>
+  <article>
+    <section>
+      <p class="top-line-1">LECTIONARIUM</p>
+      <p class="top-line-2">van de</p>
+      <p class="top-line-3">TRIDENTIJNSE MIS</p>
+      $if(part)$
+      <p class="part">$part$</p>
+      <p class="part">–</p>
+      $endif$
+      $if(title)$
+      <h1 class="title">$title$</h1>
+      $endif$
+      $if(subtitle)$
+      <p class="subtitle">$subtitle$</p>
+      $endif$
+      $body$
+    </section>
+  </article>
+  <footer>
+    $if(next-url)$<p class="bottom-line-1"><a href="$next-url$">$next-title$. $next-subtitle$</a></p>$endif$
+    <p class="bottom-line-1"><a href="toc.html">INHOUDSTAFEL</a></p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,8 @@
+## H. Markus, Evangelist
+
+*Ezechiël 1:10-14*
+Hun gezichten hadden deze vorm: Een mensengezicht aan de buitenkant, een leeuwenkop aan de rechterzijde van het viertal, een stierenkop aan de linkerzijde van het viertal, en bij alle vier een adelaarskop aan de binnenkant. Hun vleugels waren naar boven uitgespreid; ieder had er twee die elkander raakten, en twee die hun lijven bedekten. Ieder ging recht voor zich uit: ze gingen waarheen de geest hen dreef, zonder zich bij die beweging te keren. Tussen de wezens was iets, dat op brandende kolen vuur, op fakkels leek, en dat tussen de wezens heen en weer schoot. Het vuur blonk, en van het vuur schoot een bliksemstraal uit; en de wezens gingen heen en weer als de bliksem. 
+
+*Het Evangelie volgens Lucas 10:1-9*
+Daarna stelde de Heer nog twee en zeventig anderen aan, en zond ze twee aan twee voor Zich uit naar elke stad of plaats, waar Hij zelf naar toe wilde gaan. En Hij sprak tot hen: De oogst is groot, maar werklieden zijn er weinig. Vraagt dus den Heer van de oogst, dat Hij werklieden zendt in zijn oogst. — Gaat heen; zie, Ik zend u als lammeren midden onder de wolven. Draagt geen beurs mee, geen reiszak, geen schoenen; en groet niemand onderweg. — Wanneer gij een huis binnenkomt, zegt dan eerst: Vrede aan dit huis! En als daar een kind van de vrede woont, zal uw vrede op hem rusten; zo niet, dan keert hij terug op u. Blijft in dat huis; eet en drinkt wat men er heeft; want de arbeider heeft recht op zijn loon. Gaat niet van het ene huis naar het andere. — En in welke stad gij ook komt, waar men u ontvangt, eet wat u wordt voorgezet; geneest de zieken die er zijn, en zegt hun: Het koninkrijk Gods is nabij. 
+

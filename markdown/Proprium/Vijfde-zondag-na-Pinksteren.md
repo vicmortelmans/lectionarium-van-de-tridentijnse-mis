@@ -1,0 +1,8 @@
+## Vijfde zondag na Pinksteren
+
+*De eerste brief van Petrus 3:8-15a*
+Ten slotte, weest allen eensgezind, deelnemend voor elkander, vol broederliefde, barmhartig, bescheiden; vergeldt geen kwaad met kwaad, of schelden met schelden, maar zegent elkander veeleer; gij zijt toch geroepen, om zegen te erven. Immers: "Wie het leven wil liefhebben, En goede dagen wil zien: Beware zijn tong voor het kwaad, En zijn lippen voor leugen; Hij vluchte het kwaad, doe enkel wat goed is, Zoeke de vrede en jage hem na. Want de ogen des Heren zijn op de vromen gericht, Zijn oren naar hun smeken gekeerd; Maar ‘s Heren aanschijn blikt grimmig tegen de bozen." En wie zal u kwaad doen, wanneer gij ijverig zijt in het goede? Maar al zoudt gij ook lijden om de gerechtigheid, zalig zijt gij! "Vreest niet voor hen, en laat u niet ontrusten." Heiligt Christus, den Heer, in uw harten; weest altijd tot verantwoording bereid aan iedereen, die u rekenschap vraagt van de hoop, die in u leeft. 
+
+*Het Evangelie volgens Matteüs 5:20-24*
+Ik zeg u: Zo uw gerechtigheid niet groter is dan die van schriftgeleerden en farizeën, dan zult gij het rijk der hemelen niet binnengaan. Gij hebt gehoord, dat tot de ouden gezegd is: Gij zult niet doden; en wie doodslag begaat, zal schuldig zijn voor het gerecht. Maar Ik zeg u: Wie vertoornd is op zijn broeder, zal schuldig zijn voor het gerecht. Wie tot zijn broeder zegt: Raka, zal schuldig zijn voor de Hoge Raad. En wie zegt: Dwaas, zal strafbaar zijn met het helse vuur. Als ge dus uw offergave brengt naar het altaar, en u daar herinnert, dat uw broeder iets tegen u heeft, laat dan uw offer voor het altaar, en ga u eerst met uw broeder verzoenen; kom dan terug, en draag uw offer op. 
+
