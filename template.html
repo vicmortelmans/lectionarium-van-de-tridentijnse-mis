@@ -16,18 +16,10 @@ $endfor$
 $for(header-includes)$
   $header-includes$
 $endfor$
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9K3ZPTT2NZ"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-9K3ZPTT2NZ');
-  </script>
 </head>
-<body>
+<body onload="document.getElementById('today').href = '/' + new Date().toISOString().split('T')[0] + '.html';">
   <header>
-    <p class="bottom-line-1"><a href="/toc.html">INHOUDSTAFEL</a></p>
+    <p class="bottom-line-1"><a href="/toc.html">INHOUDSTAFEL</a> | <a href="#" id="today">LEZINGEN VAN VANDAAG</a></p>
   </header>
   <article>
     <section>
@@ -49,7 +41,7 @@ $endfor$
   </article>
   <footer>
     $if(next-url)$<p class="bottom-line-1"><a href="$next-url$">$next-title$. $next-subtitle$</a></p>$endif$
-    <p class="bottom-line-1"><a href="toc.html">INHOUDSTAFEL</a></p>
+    <p class="bottom-line-1"><a href="/toc.html">INHOUDSTAFEL</a> | <a href="/index.html">INFO</a></p>
   </footer>
 </body>
 </html>

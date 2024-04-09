@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendar xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <year value="2024">
+        <day>
+            <coordinates>A011</coordinates>
+            <date>2023-12-03</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Sunday, December 3, 2023</date>
+                <date lang="fr">dimanche 3 décembre 2023</date>
+                <date lang="nl">zondag 3 december 2023</date>
+            </i18n>
+            <rss>Sun, 03 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A012</coordinates>
+            <date>2023-12-04</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Monday, December 4, 2023</date>
+                <date lang="fr">lundi 4 décembre 2023</date>
+                <date lang="nl">maandag 4 december 2023</date>
+            </i18n>
+            <rss>Mon, 04 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A013</coordinates>
+            <date>2023-12-05</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Tuesday, December 5, 2023</date>
+                <date lang="fr">mardi 5 décembre 2023</date>
+                <date lang="nl">dinsdag 5 december 2023</date>
+            </i18n>
+            <rss>Tue, 05 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A014</coordinates>
+            <date>2023-12-06</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Wednesday, December 6, 2023</date>
+                <date lang="fr">mercredi 6 décembre 2023</date>
+                <date lang="nl">woensdag 6 december 2023</date>
+            </i18n>
+            <rss>Wed, 06 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A015</coordinates>
+            <date>2023-12-07</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Thursday, December 7, 2023</date>
+                <date lang="fr">jeudi 7 décembre 2023</date>
+                <date lang="nl">donderdag 7 december 2023</date>
+            </i18n>
+            <rss>Thu, 07 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>Z1208</coordinates>
+            <date>2023-12-08</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Friday, December 8, 2023</date>
+                <date lang="fr">vendredi 8 décembre 2023</date>
+                <date lang="nl">vrijdag 8 december 2023</date>
+            </i18n>
+            <rss>Fri, 08 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A017</coordinates>
+            <date>2023-12-09</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Saturday, December 9, 2023</date>
+                <date lang="fr">samedi 9 décembre 2023</date>
+                <date lang="nl">zaterdag 9 december 2023</date>
+            </i18n>
+            <rss>Sat, 09 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A021</coordinates>
+            <date>2023-12-10</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Sunday, December 10, 2023</date>
+                <date lang="fr">dimanche 10 décembre 2023</date>
+                <date lang="nl">zondag 10 december 2023</date>
+            </i18n>
+            <rss>Sun, 10 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A022</coordinates>
+            <date>2023-12-11</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Monday, December 11, 2023</date>
+                <date lang="fr">lundi 11 décembre 2023</date>
+                <date lang="nl">maandag 11 december 2023</date>
+            </i18n>
+            <rss>Mon, 11 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A023</coordinates>
+            <date>2023-12-12</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Tuesday, December 12, 2023</date>
+                <date lang="fr">mardi 12 décembre 2023</date>
+                <date lang="nl">dinsdag 12 december 2023</date>
+            </i18n>
+            <rss>Tue, 12 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A024</coordinates>
+            <date>2023-12-13</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Wednesday, December 13, 2023</date>
+                <date lang="fr">mercredi 13 décembre 2023</date>
+                <date lang="nl">woensdag 13 december 2023</date>
+            </i18n>
+            <rss>Wed, 13 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A025</coordinates>
+            <date>2023-12-14</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Thursday, December 14, 2023</date>
+                <date lang="fr">jeudi 14 décembre 2023</date>
+                <date lang="nl">donderdag 14 december 2023</date>
+            </i18n>
+            <rss>Thu, 14 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A026</coordinates>
+            <date>2023-12-15</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Friday, December 15, 2023</date>
+                <date lang="fr">vendredi 15 décembre 2023</date>
+                <date lang="nl">vrijdag 15 december 2023</date>
+            </i18n>
+            <rss>Fri, 15 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A027</coordinates>
+            <date>2023-12-16</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Saturday, December 16, 2023</date>
+                <date lang="fr">samedi 16 décembre 2023</date>
+                <date lang="nl">zaterdag 16 december 2023</date>
+            </i18n>
+            <rss>Sat, 16 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A031</coordinates>
+            <date>2023-12-17</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Sunday, December 17, 2023</date>
+                <date lang="fr">dimanche 17 décembre 2023</date>
+                <date lang="nl">zondag 17 december 2023</date>
+            </i18n>
+            <rss>Sun, 17 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A032</coordinates>
+            <date>2023-12-18</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Monday, December 18, 2023</date>
+                <date lang="fr">lundi 18 décembre 2023</date>
+                <date lang="nl">maandag 18 december 2023</date>
+            </i18n>
+            <rss>Mon, 18 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A033</coordinates>
+            <date>2023-12-19</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Tuesday, December 19, 2023</date>
+                <date lang="fr">mardi 19 décembre 2023</date>
+                <date lang="nl">dinsdag 19 december 2023</date>
+            </i18n>
+            <rss>Tue, 19 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A034</coordinates>
+            <date>2023-12-20</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Wednesday, December 20, 2023</date>
+                <date lang="fr">mercredi 20 décembre 2023</date>
+                <date lang="nl">woensdag 20 december 2023</date>
+            </i18n>
+            <rss>Wed, 20 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>Z1221</coordinates>
+            <date>2023-12-21</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Thursday, December 21, 2023</date>
+                <date lang="fr">jeudi 21 décembre 2023</date>
+                <date lang="nl">donderdag 21 december 2023</date>
+            </i18n>
+            <rss>Thu, 21 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A036</coordinates>
+            <date>2023-12-22</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Friday, December 22, 2023</date>
+                <date lang="fr">vendredi 22 décembre 2023</date>
+                <date lang="nl">vrijdag 22 december 2023</date>
+            </i18n>
+            <rss>Fri, 22 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>A037</coordinates>
+            <date>2023-12-23</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Saturday, December 23, 2023</date>
+                <date lang="fr">samedi 23 décembre 2023</date>
+                <date lang="nl">zaterdag 23 december 2023</date>
+            </i18n>
+            <rss>Sat, 23 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>Z1224</coordinates>
+            <date>2023-12-24</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Sunday, December 24, 2023</date>
+                <date lang="fr">dimanche 24 décembre 2023</date>
+                <date lang="nl">zondag 24 december 2023</date>
+            </i18n>
+            <rss>Sun, 24 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>Z1225</coordinates>
+            <date>2023-12-25</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Monday, December 25, 2023</date>
+                <date lang="fr">lundi 25 décembre 2023</date>
+                <date lang="nl">maandag 25 december 2023</date>
+            </i18n>
+            <rss>Mon, 25 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>Z1226</coordinates>
+            <date>2023-12-26</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Tuesday, December 26, 2023</date>
+                <date lang="fr">mardi 26 décembre 2023</date>
+                <date lang="nl">dinsdag 26 december 2023</date>
+            </i18n>
+            <rss>Tue, 26 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>Z1227</coordinates>
+            <date>2023-12-27</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Wednesday, December 27, 2023</date>
+                <date lang="fr">mercredi 27 décembre 2023</date>
+                <date lang="nl">woensdag 27 december 2023</date>
+            </i18n>
+            <rss>Wed, 27 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>Z1228</coordinates>
+            <date>2023-12-28</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Thursday, December 28, 2023</date>
+                <date lang="fr">jeudi 28 décembre 2023</date>
+                <date lang="nl">donderdag 28 december 2023</date>
+            </i18n>
+            <rss>Thu, 28 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>B5</coordinates>
+            <date>2023-12-29</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Friday, December 29, 2023</date>
+                <date lang="fr">vendredi 29 décembre 2023</date>
+                <date lang="nl">vrijdag 29 december 2023</date>
+            </i18n>
+            <rss>Fri, 29 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>B6</coordinates>
+            <date>2023-12-30</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Saturday, December 30, 2023</date>
+                <date lang="fr">samedi 30 décembre 2023</date>
+                <date lang="nl">zaterdag 30 december 2023</date>
+            </i18n>
+            <rss>Sat, 30 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>C1</coordinates>
+            <date>2023-12-31</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Sunday, December 31, 2023</date>
+                <date lang="fr">dimanche 31 décembre 2023</date>
+                <date lang="nl">zondag 31 december 2023</date>
+            </i18n>
+            <rss>Sun, 31 Dec 2023 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>Z0101</coordinates>
+            <date>2024-01-01</date>
+            <cyear>2024</cyear>
+            <month>01</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Monday, January 1, 2024</date>
+                <date lang="fr">lundi 1 janvier 2024</date>
+                <date lang="nl">maandag 1 januari 2024</date>
+            </i18n>
+            <rss>Mon, 01 Jan 2024 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>HNJ</coordinates>
+            <date>2024-01-02</date>
+            <cyear>2024</cyear>
+            <month>01</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Tuesday, January 2, 2024</date>
+                <date lang="fr">mardi 2 janvier 2024</date>
+                <date lang="nl">dinsdag 2 januari 2024</date>
+            </i18n>
+            <rss>Tue, 02 Jan 2024 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>Z0103</coordinates>
+            <date>2024-01-03</date>
+            <cyear>2024</cyear>
+            <month>01</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Wednesday, January 3, 2024</date>
+                <date lang="fr">mercredi 3 janvier 2024</date>
+                <date lang="nl">woensdag 3 januari 2024</date>
+            </i18n>
+            <rss>Wed, 03 Jan 2024 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>Z0104</coordinates>
+            <date>2024-01-04</date>
+            <cyear>2024</cyear>
+            <month>01</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Thursday, January 4, 2024</date>
+                <date lang="fr">jeudi 4 janvier 2024</date>
+                <date lang="nl">donderdag 4 januari 2024</date>
+            </i18n>
+            <rss>Thu, 04 Jan 2024 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>Z0105</coordinates>
+            <date>2024-01-05</date>
+            <cyear>2024</cyear>
+            <month>01</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Friday, January 5, 2024</date>
+                <date lang="fr">vendredi 5 janvier 2024</date>
+                <date lang="nl">vrijdag 5 januari 2024</date>
+            </i18n>
+            <rss>Fri, 05 Jan 2024 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>Z0106</coordinates>
+            <date>2024-01-06</date>
+            <cyear>2024</cyear>
+            <month>01</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Saturday, January 6, 2024</date>
+                <date lang="fr">samedi 6 janvier 2024</date>
+                <date lang="nl">zaterdag 6 januari 2024</date>
+            </i18n>
+            <rss>Sat, 06 Jan 2024 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>E011</coordinates>
+            <date>2024-01-07</date>
+            <cyear>2024</cyear>
+            <month>01</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Sunday, January 7, 2024</date>
+                <date lang="fr">dimanche 7 janvier 2024</date>
+                <date lang="nl">zondag 7 januari 2024</date>
+            </i18n>
+            <rss>Sun, 07 Jan 2024 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>E012</coordinates>
+            <date>2024-01-08</date>
+            <cyear>2024</cyear>
+            <month>01</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Monday, January 8, 2024</date>
+                <date lang="fr">lundi 8 janvier 2024</date>
+                <date lang="nl">maandag 8 januari 2024</date>
+            </i18n>
+            <rss>Mon, 08 Jan 2024 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>E013</coordinates>
+            <date>2024-01-09</date>
+            <cyear>2024</cyear>
+            <month>01</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Tuesday, January 9, 2024</date>
+                <date lang="fr">mardi 9 janvier 2024</date>
+                <date lang="nl">dinsdag 9 januari 2024</date>
+            </i18n>
+            <rss>Tue, 09 Jan 2024 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>E014</coordinates>
+            <date>2024-01-10</date>
+            <cyear>2024</cyear>
+            <month>01</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Wednesday, January 10, 2024</date>
+                <date lang="fr">mercredi 10 janvier 2024</date>
+                <date lang="nl">woensdag 10 januari 2024</date>
+            </i18n>
+            <rss>Wed, 10 Jan 2024 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>E015</coordinates>
+            <date>2024-01-11</date>
+            <cyear>2024</cyear>
+            <month>01</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Thursday, January 11, 2024</date>
+                <date lang="fr">jeudi 11 janvier 2024</date>
+                <date lang="nl">donderdag 11 januari 2024</date>
+            </i18n>
+            <rss>Thu, 11 Jan 2024 00:00:00 +0000</rss>
+        </day>
+        <day>
+            <coordinates>E016</coordinates>
+            <date>2024-01-12</date>
+            <cyear>2024</cyear>
+            <month>01</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Friday, January 12, 2024</date>
+                <date lang="fr">vendredi 12 janvier 2024</date>
+                <date lang="nl">vrijdag 12 januari 2024</date>
+            </i18n>
+            <rss>Fri, 12 Jan 2024 00:00:00 +0000</rss>
+        </day>
+    </year>
+</calendar>

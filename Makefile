@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-all: mkdir markdown_files toc_postprocess copy_cname copy_resources htmls sitemap 
+all: mkdir markdown_files toc_postprocess copy_cname copy_resources htmls calendar sitemap 
 
 mkdir:
 	mkdir -p docs
@@ -43,6 +43,9 @@ docs/%.html: markdown/%.md
 	  -o $@ $<
 
 htmls: $(patsubst markdown/%.md,docs/%.html,$(wildcard markdown/*.md) $(wildcard markdown/Ordinarium/*.md) $(wildcard markdown/Proprium/*.md)) 
+
+calendar:
+	java net.sf.saxon.Transform -s:calendar-eo.xml -xsl:calendar-redirects.xslt -o:dummy.xml
 
 clean: 
 	rm -rf markdown

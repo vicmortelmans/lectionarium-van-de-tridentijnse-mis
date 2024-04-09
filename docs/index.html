@@ -18,18 +18,10 @@
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9K3ZPTT2NZ"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-9K3ZPTT2NZ');
-  </script>
 </head>
-<body>
+<body onload="document.getElementById('today').href = '/' + new Date().toISOString().split('T')[0] + '.html';">
   <header>
-    <p class="bottom-line-1"><a href="/toc.html">INHOUDSTAFEL</a></p>
+    <p class="bottom-line-1"><a href="/toc.html">INHOUDSTAFEL</a> | <a href="#" id="today">LEZINGEN VAN VANDAAG</a></p>
   </header>
   <article>
     <section>
@@ -40,11 +32,12 @@
                         a { background: none !important; } /* remove underline */
                         </style>
                         <p>De teksten in dit lectionarium komen overeen met de lezingen die worden voorgeschreven in het missaal van de Tridentijnse Mis, onder het pontificaat van paus Benedictus XVI ook gekend als de Buitengewone Vorm van de Latijnse Ritus. De Nederlandse vertalingen zijn genomen uit de Petrus Canisius bijbelvertaling, een vertaling uit de grondtekst in opdracht van de Apologetische Vereniging ‘Petrus Canisius’ ondernomen met goedkeuring van de hoogwaardige bisschoppen van Nederland (oorspronkelijke uitgave 1939). De integrale tekst van deze vertaling vindt men op <a href="https://bijbel.gelovenleren.net">https://bijbel.gelovenleren.net</a>.</p>
+                        <p>Contact: <a href="mailto:info@gelovenleren.net">info@gelovenleren.net</a></p>
     </section>
   </article>
   <footer>
     
-    <p class="bottom-line-1"><a href="toc.html">INHOUDSTAFEL</a></p>
+    <p class="bottom-line-1"><a href="/toc.html">INHOUDSTAFEL</a> | <a href="/index.html">INFO</a></p>
   </footer>
 </body>
 </html>
