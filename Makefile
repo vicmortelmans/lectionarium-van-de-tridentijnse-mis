@@ -35,9 +35,6 @@ docs/%.html: markdown/%.md
 	  -c resources/mc.css \
 	  --template=template.html \
 	  --filter=./md_to_html_link.py\
-	  -V "next-title=`grep $* next-titles.txt | cut -d : -f 2`" \
-	  -V "next-subtitle=`grep $* next-subtitles.txt | cut -d : -f 2`" \
-	  -V "next-url=`grep $*: next-urls.txt | cut -d : -f 2`" \
 	  -f markdown \
 	  -t html5 \
 	  -o $@ $<

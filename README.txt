@@ -12,3 +12,4 @@ To generate the website:
 
 `make htmls` (not sure why `make` doesn't do this...)
 
+Hosted on github pages (branch: master, directory: docs)
