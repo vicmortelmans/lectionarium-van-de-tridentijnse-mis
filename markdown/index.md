@@ -12,6 +12,6 @@ De teksten in dit lectionarium komen overeen met de lezingen die worden voorgesc
 
 Deze publicatie is ook beschikbaar als boek. Het formaat is 11,5 bij 16,7 cm dus ongeveer zoals een volksmissaal en telt 309 pagina's. 
 
-<a href="" target="_blank"><img src="https://www.boekenbestellen.nl/open-social/website/buynow/btn_buynow_b_orange.png" border="0" style="cursor:pointer"></a>
+<a href="https://www.boekenbestellen.nl/boek/lectionarium-van-de-tridentijnse-mis/65808" target="_blank"><img src="https://www.boekenbestellen.nl/open-social/website/buynow/btn_buynow_b_orange.png" border="0" style="cursor:pointer"></a>
 
 Contact: <a href="mailto:info@gelovenleren.net">info@gelovenleren.net</a>
