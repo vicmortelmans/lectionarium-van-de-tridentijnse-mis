@@ -1,0 +1,498 @@
+[
+  {
+    "code": {
+      "vatican": { "id": "null" },
+      "bibliacatolica_com": {
+        "default": "true",
+        "id": "18"
+      }
+    },
+    "input": {
+      "input1": "NAB",
+      "input2": "New American Bible"
+    },
+    "language": "en",
+    "copyright": "Copyright © 1991, 1986, 1970 Confraternity of Christian Doctrine, Inc., Washington, DC"
+  },
+  {
+    "input": {
+      "input1": "AKJV",
+      "input2": "American King James Version"
+    },
+    "language": "en",
+    "copyright": "Copyright status: Public domain"
+  },
+  {
+    "code": {
+      "getbible": { "id": "asv" }
+    },
+    "input": {
+      "input1": "ASV",
+      "input2": "American Standard Version (1901)"
+    },
+    "language": "en",
+    "copyright": "Copyright status: Public domain"
+  },
+  {
+    "code": {
+      "getbible": { "id": "basicenglish" }
+    },
+    "input": { "input1": "Bible in Basic English (1949/1964)" },
+    "language": "en",
+    "copyright": "Copyright status: Public domain"
+  },
+  {
+    "input": { "input1": "Bible in Worldwide English" },
+    "language": "en"
+  },
+  {
+    "input": {
+      "input1": "ACV",
+      "input2": "A Conservative Version"
+    },
+    "language": "en",
+    "copyright": "Copyright status: Public domain"
+  },
+  {
+    "code": {
+      "getbible": { "id": "darby" }
+    },
+    "input": { "input1": "Darby Bible" },
+    "language": "en",
+    "copyright": "Copyright status: Public Domain"
+  },
+  {
+    "input": {
+      "input1": "DRA",
+      "input2": "Douay-Rheims American Edition (1899)"
+    },
+    "language": "en",
+    "copyright": "Copyright status: Public Domain"
+  },
+  {
+    "input": {
+      "input1": "ESV",
+      "input2": "English Standard Version"
+    },
+    "language": "en",
+    "copyright": "Copyright 2001 by Crossway Bibles, a division of Good News Publishers"
+  },
+  {
+    "code": {
+      "biblija3_net": {
+        "default": "true",
+        "id": "id32"
+      }
+    },
+    "input": {
+      "input1": "CEV",
+      "input2": "Contemporary English Version"
+    },
+    "language": "en",
+    "copyright": "Copyright 1999 American Bible Society"
+  },
+  {
+    "code": {
+      "biblija3_net": {
+        "default": "true",
+        "id": "id14"
+      },
+      "unbound_biola_edu": { "id": "web" },
+      "getbible": { "id": "web" }
+    },
+    "input": {
+      "input1": "WEB",
+      "input2": "World English Bible"
+    },
+    "language": "en",
+    "copyright": "Copyright status: Public domain"
+  },
+  {
+    "code": {
+      "biblija3_net": {
+        "default": "true",
+        "id": "id7"
+      },
+      "bibliacatolica_com": { "id": "07" },
+      "getbible": { "id": "kjv" }
+    },
+    "input": {
+      "input1": "KJV",
+      "input2": "King James Version"
+    },
+    "language": "en",
+    "copyright": "Crown copyright (UK)"
+  },
+  {
+    "code": {
+      "unbound_biola_edu": {
+        "default": "true",
+        "id": "douay_rheims_ucs2"
+      },
+      "bibliacatolica_com": { "id": "06" },
+      "getbible": { "id": "douayrheims" }
+    },
+    "input": {
+      "input1": "DR",
+      "input2": "Douay-Rheims"
+    },
+    "language": "en",
+    "copyright": "Copyright status: Public Domain"
+  },
+  {
+    "code": {
+      "bibliacatolica_com": {
+        "default": "true",
+        "id": "25"
+      }
+    },
+    "input": { "input1": "New Jerusalem Bible" },
+    "language": "en"
+  },
+  {
+    "code": {
+      "can": {
+        "default": "true",
+        "id": "null"
+      }
+    },
+    "input": {
+      "input1": "CAN",
+      "input2": "Petrus Canisiusvertaling"
+    },
+    "language": "nl",
+    "copyright": "unknown"
+  },
+  {
+    "code": {
+      "rkbijbel": {
+        "default": "true",
+        "id": "willibrord1975"
+      }
+    },
+    "input": {
+      "input1": "WV95",
+      "input2": "Willibrordvertaling revised edition"
+    },
+    "language": "nl",
+    "copyright": "Copyright © 1995 Katholieke Bijbelstichting (Catholic Bible Foundation)"
+  },
+  {
+    "code": {
+      "biblija3_net": {
+        "default": "true",
+        "id": "id37"
+      },
+      "unbound_biola_edu": { "id": "dutch_svv_ucs2" },
+      "getbible": { "id": "statenvertaling" }
+    },
+    "input": {
+      "input1": "SV-J",
+      "input2": "Statenvertaling (Jongbloed edition)"
+    },
+    "language": "nl",
+    "copyright": "Copyright status: Public domain"
+  },
+  {
+    "input": {
+      "input1": "NBV",
+      "input2": "De Nieuwe Bijbelvertaling"
+    },
+    "language": "nl",
+    "copyright": "Copyright © 2004/2007 Nederlands Bijbelgenootschap (Dutch Bible Society)"
+  },
+  {
+    "code": {
+      "unbound_biola_edu": {
+        "default": "true",
+        "id": "afrikaans_1953_ucs2"
+      },
+      "getbible": { "id": "aov" }
+    },
+    "input": { "input1": "Afrikaans Bybel (1933/1953)" },
+    "language": "af",
+    "copyright": "Copyright 1933, 1953, Bybelgenootskap van Suid Afrika"
+  },
+  {
+    "input": { "input1": "Bulgarian New Testament from 1914, known as 'Tsarigrad Edition'" },
+    "language": "bg",
+    "copyright": "Copyright by the youth group of the Church of God in Sofia, 1997"
+  },
+  {
+    "code": {
+      "getbible": { "id": "bulgarian1940" }
+    },
+    "input": { "input1": "Bulgarian Bible" },
+    "language": "bg"
+  },
+  {
+    "input": { "input1": "Czech Bible Kralicka" },
+    "language": "cz"
+  },
+  {
+    "code": {
+      "getbible": { "id": "bkr" }
+    },
+    "input": { "input1": "Czech Nova kralicka Bible" },
+    "language": "cz",
+    "copyright": "Copyright Sdruzeni pro Novou Bibli kralickou"
+  },
+  {
+    "code": {
+      "getbible": { "id": "danish" }
+    },
+    "input": { "input1": "Danske Bibel" },
+    "language": "da",
+    "copyright": "Copyright Old Testament: Det Danske Bibelselskab 1931; copyright New Testament: public domain"
+  },
+  {
+    "code": {
+      "diebibel_de": {
+        "default": "true",
+        "id": "EUE"
+      }
+    },
+    "input": { "input1": "Einheitsübersetzung" },
+    "language": "de",
+    "copyright": "Copyright Katholischen Bibelanstalt, Stuttgart"
+  },
+  {
+    "code": {
+      "getbible": { "id": "byzantine" }
+    },
+    "input": { "input1": "Byzantine/Majority Text (2000)" },
+    "language": "el"
+  },
+  {
+    "input": { "input1": "Esperanto Bible" },
+    "language": "eo"
+  },
+  {
+    "code": {
+      "bibliacatolica_com": {
+        "default": "true",
+        "id": "03"
+      }
+    },
+    "input": { "input1": "La Biblia de Jerusalén" },
+    "language": "es"
+  },
+  {
+    "code": {
+      "bibliacatolica_com": {
+        "default": "true",
+        "id": "20"
+      },
+      "getbible": { "id": "sse" }
+    },
+    "input": { "input1": "La Santa Biblia" },
+    "language": "es"
+  },
+  {
+    "code": {
+      "biblija3_net": {
+        "default": "true",
+        "id": "id22"
+      }
+    },
+    "input": {
+      "input1": "DHH",
+      "input2": "“Dios Habla Hoy” Version"
+    },
+    "language": "es",
+    "copyright": "Copyright 2002 United Bible Societies and Sociedad Bíblica de España (Bible Society of Spain)"
+  },
+  {
+    "code": {
+      "biblija3_net": {
+        "default": "true",
+        "id": "id20"
+      },
+      "getbible": { "id": "valera" }
+    },
+    "input": {
+      "input1": "RVR95",
+      "input2": "“Reina Valera” Version"
+    },
+    "language": "es",
+    "copyright": "Copyright 1995 United Bible Societies"
+  },
+  {
+    "code": {
+      "getbible": { "id": "estonian" }
+    },
+    "input": { "input1": "Estonian Bible" },
+    "language": "et"
+  },
+  {
+    "code": {
+      "getbible": { "id": "pyharaamattu1933" }
+    },
+    "input": { "input1": "Finnish Pyh Raamattu (1933/1938)" },
+    "language": "fi",
+    "copyright": "Copyright status: Public domain"
+  },
+  {
+    "code": {
+      "getbible": { "id": "pyharaamattu1992" }
+    },
+    "input": { "input1": "Finnish Pyh Raamattu (1992)" },
+    "language": "fi",
+    "copyright": "Copyright by Kirkon keskusrahasto, HELSINKI"
+  },
+  {
+    "code": {
+      "unbound_biola_edu": {
+        "default": "true",
+        "id": "french_jerusalem_ucs2"
+      },
+      "bibliacatolica_com": { "id": "05" }
+    },
+    "input": { "input1": "Bible de Jérusalem" },
+    "language": "fr",
+    "copyright": "Copyright status: Public domain"
+  },
+  {
+    "code": {
+      "biblija3_net": {
+        "default": "true",
+        "id": "id9"
+      },
+      "getbible": { "id": "ls1910" }
+    },
+    "input": {
+      "input1": "SEG",
+      "input2": "Louis Segond"
+    },
+    "language": "fr",
+    "copyright": "Copyright status: Public domain"
+  },
+  {
+    "input": { "input1": "French Haitian Creole Version" },
+    "language": "ht"
+  },
+  {
+    "code": {
+      "bibliacatolica_com": {
+        "default": "true",
+        "id": "13"
+      }
+    },
+    "input": { "input1": "Katolikus Biblia" },
+    "language": "hu"
+  },
+  {
+    "code": {
+      "laparola_net": {
+        "default": "true",
+        "id": "C.E.I."
+      },
+      "bibliacatolica_com": { "id": "04" }
+    },
+    "input": { "input1": "La Sacra Bibbia (CEI)" },
+    "language": "it"
+  },
+  {
+    "code": {
+      "bibliacatolica_com": {
+        "default": "true",
+        "id": "23"
+      }
+    },
+    "input": { "input1": "La Bibbia" },
+    "language": "it"
+  },
+  {
+    "code": {
+      "unbound_biola_edu": { "id": "croatian_ucs2" }
+    },
+    "input": { "input1": "Croatian Bible" },
+    "language": "hr"
+  },
+  {
+    "code": {
+      "biblija3_net": {
+        "default": "true",
+        "id": "id8"
+      },
+      "unbound_biola_edu": { "id": "latin_nova_vulgata_ucs2" },
+      "bibliacatolica_com": { "id": "09" },
+      "getbible": { "id": "newvulgate" }
+    },
+    "input": {
+      "input1": "VUL",
+      "input2": "Vulgate (Latin Bible)"
+    },
+    "language": "lat",
+    "copyright": "Copyright status: Public domain"
+  },
+  {
+    "code": {
+      "getbible": { "id": "bibelselskap" }
+    },
+    "input": {
+      "input1": "Norsk",
+      "input2": "Den Norske Bibelen"
+    },
+    "language": "no"
+  },
+  {
+    "code": {
+      "bibliacatolica_com": {
+        "default": "true",
+        "id": "02"
+      }
+    },
+    "input": {
+      "input1": "CNBB",
+      "input2": "Bíblia da Conferência Nacional dos Bispos do Brasil"
+    },
+    "language": "pt"
+  },
+  {
+    "code": {
+      "bibliacatolica_com": {
+        "default": "true",
+        "id": "24"
+      },
+      "getbible": { "id": "almeida" }
+    },
+    "input": { "input1": "Biblia Sagrada" },
+    "language": "pt"
+  },
+  {
+    "code": {
+      "biblija3_net": {
+        "default": "true",
+        "id": "id10"
+      }
+    },
+    "input": {
+      "input1": "RUS",
+      "input2": "Russian Synodal Version"
+    },
+    "language": "ru",
+    "copyright": "Copyright status: Public domain. Distribution: Bible Society of Russia"
+  },
+  {
+    "code": {
+      "unbound_biola_edu": { "id": "albanian_ucs2" }
+    },
+    "input": { "input1": "Albanian Bible" },
+    "language": "sq"
+  },
+  {
+    "code": {
+      "getbible": { "id": "cns" }
+    },
+    "input": { "input1": "Chinese Union Version Simplified" },
+    "language": "zh-cn"
+  },
+  {
+    "code": {
+      "getbible": { "id": "cnt" }
+    },
+    "input": { "input1": "Chinese Union Version Traditional" },
+    "language": "zh-tw"
+  }
+]

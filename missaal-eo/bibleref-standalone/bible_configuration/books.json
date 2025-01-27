@@ -1,0 +1,3296 @@
+[
+  {
+    "input": [
+      "genesis",
+      "1 mz",
+      "1 mojz",
+      "gen",
+      "gn",
+      "ge",
+      "post",
+      "has",
+      "geneza",
+      "1 mojzes",
+      "genesis",
+      "1 mose",
+      "génesis"
+    ],
+    "code": {
+      "crosswire_org": "genesis",
+      "vatican": "Genesis",
+      "diebibel_de": "1.mose",
+      "unbound_biola_edu": "01O",
+      "usccb_org": "genesis",
+      "laparola_net": "Genesi",
+      "bibliacatolica_com": "1",
+      "osis": "Gen",
+      "biblija_net": "Gn",
+      "can": "1",
+      "rkbijbel": "genesis"
+    },
+    "spoken": {
+      "nl": "genesis",
+      "en": "genesis"
+    },
+    "language": {
+      "nl": "gen",
+      "en": "gen",
+      "fr": "gn"
+    }
+  },
+  {
+    "input": [
+      "exodus",
+      "2 mz",
+      "2 mojz",
+      "exo",
+      "ex",
+      "exod",
+      "izl",
+      "ir",
+      "eksodus",
+      "2 mojzes",
+      "exodus",
+      "2 mose",
+      "éxodo"
+    ],
+    "code": {
+      "crosswire_org": "exodus",
+      "vatican": "Exodus",
+      "diebibel_de": "2.mose",
+      "unbound_biola_edu": "02O",
+      "usccb_org": "exodus",
+      "laparola_net": "Esodo",
+      "bibliacatolica_com": "2",
+      "osis": "Exod",
+      "biblija_net": "Ex",
+      "can": "2",
+      "rkbijbel": "exodus"
+    },
+    "spoken": {
+      "nl": "exodus",
+      "en": "exodus"
+    },
+    "language": {
+      "nl": "ex",
+      "en": "ex",
+      "fr": "ex"
+    }
+  },
+  {
+    "input": [
+      "leviticus",
+      "3 mz",
+      "3 mojz",
+      "lev",
+      "lév",
+      "lv",
+      "lb",
+      "leu",
+      "levitik",
+      "3 mojzes",
+      "leviticus",
+      "3 mose",
+      "levítico"
+    ],
+    "code": {
+      "crosswire_org": "leviticus",
+      "vatican": "Leviticus",
+      "diebibel_de": "3.mose",
+      "unbound_biola_edu": "03O",
+      "usccb_org": "leviticus",
+      "laparola_net": "Levitico",
+      "bibliacatolica_com": "3",
+      "osis": "Lev",
+      "biblija_net": "Lv",
+      "can": "3",
+      "rkbijbel": "leviticus"
+    },
+    "spoken": {
+      "nl": "leviticus",
+      "en": "leviticus"
+    },
+    "language": {
+      "nl": "lev",
+      "en": "lev",
+      "fr": "lv"
+    }
+  },
+  {
+    "input": [
+      "numeri",
+      "numbers",
+      "4 mz",
+      "4 mojz",
+      "num",
+      "nm",
+      "nu",
+      "nb",
+      "nomb",
+      "br",
+      "zen",
+      "numeri",
+      "4 mojzes",
+      "numbers",
+      "4 mose",
+      "números"
+    ],
+    "code": {
+      "crosswire_org": "numbers",
+      "vatican": "Numbers",
+      "diebibel_de": "4.mose",
+      "unbound_biola_edu": "04O",
+      "usccb_org": "numbers",
+      "laparola_net": "Numeri",
+      "bibliacatolica_com": "4",
+      "osis": "Num",
+      "biblija_net": "Nm",
+      "can": "4",
+      "rkbijbel": "numeri"
+    },
+    "spoken": {
+      "nl": "numeri",
+      "en": "numbers"
+    },
+    "language": {
+      "nl": "num",
+      "en": "num",
+      "fr": "nb"
+    }
+  },
+  {
+    "input": [
+      "deuteronomium",
+      "deuteronomy",
+      "5 mz",
+      "5 mojz",
+      "deu",
+      "dt",
+      "deut",
+      "pnz",
+      "devteronomij",
+      "5 mojzes",
+      "deuteronomium",
+      "deuteronomy",
+      "5 mose",
+      "deuteronomio"
+    ],
+    "code": {
+      "crosswire_org": "deuteronomy",
+      "vatican": "Deuteronomy",
+      "diebibel_de": "5.mose",
+      "unbound_biola_edu": "05O",
+      "usccb_org": "deuteronomy",
+      "laparola_net": "Deuteronomio",
+      "bibliacatolica_com": "5",
+      "osis": "Deut",
+      "biblija_net": "Dt",
+      "can": "5",
+      "rkbijbel": "deuteronomium"
+    },
+    "spoken": {
+      "nl": "deuteronomium",
+      "en": "deuteronomy"
+    },
+    "language": {
+      "nl": "deut",
+      "en": "deut",
+      "fr": "dt"
+    }
+  },
+  {
+    "input": [
+      "jozua",
+      "joshua",
+      "joz",
+      "jos",
+      "josh",
+      "ios",
+      "jš",
+      "jozue",
+      "joshua",
+      "jozua",
+      "josua",
+      "josué"
+    ],
+    "code": {
+      "crosswire_org": "joshua",
+      "vatican": "Joshua",
+      "diebibel_de": "jos",
+      "unbound_biola_edu": "06O",
+      "usccb_org": "joshua",
+      "laparola_net": "Giosuè",
+      "bibliacatolica_com": "6",
+      "osis": "Josh",
+      "biblija_net": "Josh",
+      "can": "6",
+      "rkbijbel": "jozua"
+    },
+    "spoken": {
+      "nl": "jozua",
+      "en": "joshua"
+    },
+    "language": {
+      "nl": "joz",
+      "en": "josh",
+      "fr": "jos"
+    }
+  },
+  {
+    "input": [
+      "rechters",
+      "judges",
+      "sod",
+      "sodn",
+      "jdg",
+      "judg",
+      "jg",
+      "jug",
+      "jdc",
+      "jue",
+      "jt",
+      "idc",
+      "re",
+      "ri",
+      "richt",
+      "epa",
+      "sodniki",
+      "judges",
+      "rechters",
+      "richteren",
+      "richter",
+      "jueces",
+      "juges"
+    ],
+    "code": {
+      "crosswire_org": "judges",
+      "vatican": "Judges",
+      "diebibel_de": "ri",
+      "unbound_biola_edu": "07O",
+      "usccb_org": "judges",
+      "laparola_net": "Giudici",
+      "bibliacatolica_com": "7",
+      "osis": "Judg",
+      "biblija_net": "Judg",
+      "can": "7",
+      "rkbijbel": "rechters"
+    },
+    "spoken": {
+      "nl": "rechters",
+      "en": "judges"
+    },
+    "language": {
+      "nl": "ri",
+      "en": "judg",
+      "fr": "jg"
+    }
+  },
+  {
+    "input": [
+      "ruth",
+      "rut",
+      "ru",
+      "rth",
+      "rt",
+      "ruta"
+    ],
+    "code": {
+      "crosswire_org": "ruth",
+      "vatican": "Ruth",
+      "diebibel_de": "buch%20rut",
+      "unbound_biola_edu": "08O",
+      "usccb_org": "ruth",
+      "laparola_net": "Rut",
+      "bibliacatolica_com": "8",
+      "osis": "Ruth",
+      "biblija_net": "Rt",
+      "can": "8",
+      "rkbijbel": "ruth"
+    },
+    "spoken": {
+      "nl": "ruth",
+      "en": "ruth"
+    },
+    "language": {
+      "nl": "ruth",
+      "en": "ruth",
+      "fr": "rt"
+    }
+  },
+  {
+    "input": [
+      "het eerste boek samuël",
+      "the first book of samuel",
+      "1 samuel",
+      "1 sam",
+      "1 sa",
+      "1 s",
+      "1 sm",
+      "1 rg",
+      "1 regn",
+      "1 samuel",
+      "1 samuël",
+      "1samuel",
+      "1sam",
+      "1sa",
+      "1s",
+      "1sm",
+      "1rg",
+      "1regn",
+      "1samuel",
+      "1samuël"
+    ],
+    "code": {
+      "crosswire_org": "1samuel",
+      "vatican": "1 Samuel",
+      "diebibel_de": "1.sam",
+      "unbound_biola_edu": "09O",
+      "usccb_org": "1samuel",
+      "laparola_net": "1 Samuele",
+      "bibliacatolica_com": "9",
+      "osis": "1Sam",
+      "biblija_net": "1 Sa",
+      "can": "9",
+      "rkbijbel": "1samuel"
+    },
+    "spoken": {
+      "nl": "het eerste boek samuël",
+      "en": "the first book of samuel"
+    },
+    "language": {
+      "nl": "1 sam",
+      "en": "1 sam",
+      "fr": "1 s"
+    }
+  },
+  {
+    "input": [
+      "het tweede boek samuël",
+      "the second book of samuel",
+      "2 samuel",
+      "2 sam",
+      "2 sa",
+      "2 s",
+      "2 sm",
+      "2 rg",
+      "2 regn",
+      "2 samuel",
+      "2 samuël",
+      "2samuel",
+      "2sam",
+      "2sa",
+      "2s",
+      "2sm",
+      "2rg",
+      "2regn",
+      "2samuel",
+      "2samuël"
+    ],
+    "code": {
+      "crosswire_org": "2samuel",
+      "vatican": "2 Samuel",
+      "diebibel_de": "2.sam",
+      "unbound_biola_edu": "10O",
+      "usccb_org": "2samuel",
+      "laparola_net": "2 Samuele",
+      "bibliacatolica_com": "10",
+      "osis": "2Sam",
+      "biblija_net": "2 Sa",
+      "can": "10",
+      "rkbijbel": "2samuel"
+    },
+    "spoken": {
+      "nl": "het tweede boek samuël",
+      "en": "the second book of samuel"
+    },
+    "language": {
+      "nl": "2 sam",
+      "en": "2 sam",
+      "fr": "2 s"
+    }
+  },
+  {
+    "input": [
+      "het eerste boek koningen",
+      "the first book of kings",
+      "1 kings",
+      "1 kr",
+      "1 kra",
+      "1 kralj",
+      "1 ki",
+      "1 kgs",
+      "1 r",
+      "1 re",
+      "3 rg",
+      "3 regn",
+      "1 kon",
+      "1 kön",
+      "1 erg",
+      "1 rois",
+      "1 kings",
+      "1 kralji",
+      "1 koningen",
+      "1 königen",
+      "1 reyes",
+      "1kings",
+      "1kr",
+      "1kra",
+      "1kralj",
+      "1ki",
+      "1kgs",
+      "1r",
+      "1re",
+      "3rg",
+      "3regn",
+      "1kon",
+      "1kön",
+      "1erg",
+      "1rois",
+      "1kings",
+      "1kralji",
+      "1koningen",
+      "1königen",
+      "1reyes"
+    ],
+    "code": {
+      "crosswire_org": "1kings",
+      "vatican": "1 Kings",
+      "diebibel_de": "1.k%C3%B6n",
+      "unbound_biola_edu": "11O",
+      "usccb_org": "1kings",
+      "laparola_net": "1 Re",
+      "bibliacatolica_com": "11",
+      "osis": "1Kgs",
+      "biblija_net": "1 Kgs",
+      "can": "11",
+      "rkbijbel": "1koningen"
+    },
+    "spoken": {
+      "nl": "het eerste boek koningen",
+      "en": "the first book of kings"
+    },
+    "language": {
+      "nl": "1 kon",
+      "en": "1 kings",
+      "fr": "1 r"
+    }
+  },
+  {
+    "input": [
+      "het tweede boek koningen",
+      "the second book of kings",
+      "2 kings",
+      "2 kr",
+      "2 kra",
+      "2 kralj",
+      "2 ki",
+      "2 kgs",
+      "2 r",
+      "2 re",
+      "4 rg",
+      "4 regn",
+      "2 kon",
+      "2 kön",
+      "2 erg",
+      "2 rois",
+      "2 kings",
+      "2 kralji",
+      "2 koningen",
+      "2 königen",
+      "2 reyes",
+      "2kings",
+      "2kr",
+      "2kra",
+      "2kralj",
+      "2ki",
+      "2kgs",
+      "2r",
+      "2re",
+      "4rg",
+      "4regn",
+      "2kon",
+      "2kön",
+      "2erg",
+      "2rois",
+      "2kings",
+      "2kralji",
+      "2koningen",
+      "2königen",
+      "2reyes"
+    ],
+    "code": {
+      "crosswire_org": "2kings",
+      "vatican": "2 Kings",
+      "diebibel_de": "2.k%C3%B6n",
+      "unbound_biola_edu": "12O",
+      "usccb_org": "2kings",
+      "laparola_net": "2 Re",
+      "bibliacatolica_com": "12",
+      "osis": "2Kgs",
+      "biblija_net": "2 Kgs",
+      "can": "12",
+      "rkbijbel": "2koningen"
+    },
+    "spoken": {
+      "nl": "het tweede boek koningen",
+      "en": "the second book of kings"
+    },
+    "language": {
+      "nl": "2 kon",
+      "en": "2 kings",
+      "fr": "2 r"
+    }
+  },
+  {
+    "input": [
+      "het eerste boek kronieken",
+      "the first book of chronicles",
+      "1 chronicles",
+      "1 krn",
+      "1 kron",
+      "1 let",
+      "1 ljet",
+      "1 ch",
+      "1 cr",
+      "1 cro",
+      "1 kro",
+      "1 chron",
+      "1 chr",
+      "1 kroniška",
+      "1 letopisi",
+      "1 chronicles",
+      "1 kronieken",
+      "1 chronik",
+      "1 crónicas",
+      "1chronicles",
+      "1krn",
+      "1kron",
+      "1let",
+      "1ljet",
+      "1ch",
+      "1cr",
+      "1cro",
+      "1kro",
+      "1chron",
+      "1chr",
+      "1kroniška",
+      "1letopisi",
+      "1chronicles",
+      "1kronieken",
+      "1chronik",
+      "1crónicas"
+    ],
+    "code": {
+      "crosswire_org": "1chronicles",
+      "vatican": "1 Chronicles",
+      "diebibel_de": "1.chr",
+      "unbound_biola_edu": "13O",
+      "usccb_org": "1chronicles",
+      "laparola_net": "1 Cronache",
+      "bibliacatolica_com": "13",
+      "osis": "1Chr",
+      "biblija_net": "1 Ch",
+      "can": "13",
+      "rkbijbel": "1kronieken"
+    },
+    "spoken": {
+      "nl": "het eerste boek kronieken",
+      "en": "the first book of chronicles"
+    },
+    "language": {
+      "nl": "1 kron",
+      "en": "1 chr",
+      "fr": "1 ch"
+    }
+  },
+  {
+    "input": [
+      "het tweede boek kronieken",
+      "the second book of chronicles",
+      "2 chronicles",
+      "2 krn",
+      "2 kron",
+      "2 let",
+      "2 ljet",
+      "2 ch",
+      "2 cr",
+      "2 cro",
+      "2 kro",
+      "2 chron",
+      "2 chr",
+      "2 kroniška",
+      "2 letopisi",
+      "2 chronicles",
+      "2 kronieken",
+      "2 chronik",
+      "2 crónicas",
+      "2chronicles",
+      "2krn",
+      "2kron",
+      "2let",
+      "2ljet",
+      "2ch",
+      "2cr",
+      "2cro",
+      "2kro",
+      "2chron",
+      "2chr",
+      "2kroniška",
+      "2letopisi",
+      "2chronicles",
+      "2kronieken",
+      "2chronik",
+      "2crónicas"
+    ],
+    "code": {
+      "crosswire_org": "2chronicles",
+      "vatican": "2 Chronicles",
+      "diebibel_de": "2.chr",
+      "unbound_biola_edu": "14O",
+      "usccb_org": "2chronicles",
+      "laparola_net": "2 Cronache",
+      "bibliacatolica_com": "14",
+      "osis": "2Chr",
+      "biblija_net": "2 Ch",
+      "can": "14",
+      "rkbijbel": "2kronieken"
+    },
+    "spoken": {
+      "nl": "het tweede boek kronieken",
+      "en": "the second book of chronicles"
+    },
+    "language": {
+      "nl": "2 kron",
+      "en": "2 chr",
+      "fr": "2 ch"
+    }
+  },
+  {
+    "input": [
+      "ezra",
+      "ezr",
+      "ezdr",
+      "esra",
+      "esr",
+      "esd",
+      "1 ezr",
+      "1 esr",
+      "ezdra",
+      "esdras"
+    ],
+    "code": {
+      "crosswire_org": "ezra",
+      "vatican": "Ezra",
+      "diebibel_de": "esra",
+      "unbound_biola_edu": "15O",
+      "usccb_org": "ezra",
+      "laparola_net": "Esdra",
+      "bibliacatolica_com": "15",
+      "osis": "Ezra",
+      "biblija_net": "Esr",
+      "can": "15",
+      "rkbijbel": "ezra"
+    },
+    "spoken": {
+      "nl": "ezra",
+      "en": "ezra"
+    },
+    "language": {
+      "nl": "ezra",
+      "en": "ezra",
+      "fr": "esd"
+    }
+  },
+  {
+    "input": [
+      "nehemia",
+      "nehemiah",
+      "neh",
+      "néh",
+      "ne",
+      "né",
+      "2 ezr",
+      "2 esr",
+      "nehemija",
+      "nehemiah",
+      "nehemia",
+      "nehemías"
+    ],
+    "code": {
+      "crosswire_org": "nehemiah",
+      "vatican": "Nehemiah",
+      "diebibel_de": "neh",
+      "unbound_biola_edu": "16O",
+      "usccb_org": "nehemiah",
+      "laparola_net": "Neemia",
+      "bibliacatolica_com": "16",
+      "osis": "Neh",
+      "biblija_net": "Ne",
+      "can": "16",
+      "rkbijbel": "nehemia"
+    },
+    "spoken": {
+      "nl": "nehemia",
+      "en": "nehemiah"
+    },
+    "language": {
+      "nl": "neh",
+      "en": "neh",
+      "fr": "ne"
+    }
+  },
+  {
+    "input": [
+      "ester",
+      "esther",
+      "est",
+      "ester",
+      "esth",
+      "esther",
+      "estera"
+    ],
+    "code": {
+      "crosswire_org": "esther",
+      "vatican": "Esther",
+      "diebibel_de": "est",
+      "unbound_biola_edu": "17O",
+      "usccb_org": "esther",
+      "laparola_net": "Ester",
+      "bibliacatolica_com": "19",
+      "osis": "Esth",
+      "biblija_net": "Esth",
+      "can": "17",
+      "rkbijbel": "ester"
+    },
+    "spoken": {
+      "nl": "ester",
+      "en": "esther"
+    },
+    "language": {
+      "nl": "est",
+      "en": "esth",
+      "fr": "est"
+    }
+  },
+  {
+    "input": [
+      "job",
+      "hi",
+      "jb",
+      "iob",
+      "hiob",
+      "ijob"
+    ],
+    "code": {
+      "crosswire_org": "job",
+      "vatican": "Job",
+      "diebibel_de": "hiob",
+      "unbound_biola_edu": "18O",
+      "usccb_org": "job",
+      "laparola_net": "Giobbe",
+      "bibliacatolica_com": "20",
+      "osis": "Job",
+      "biblija_net": "Jb",
+      "can": "18",
+      "rkbijbel": "job"
+    },
+    "spoken": {
+      "nl": "job",
+      "en": "job"
+    },
+    "language": {
+      "nl": "job",
+      "en": "job",
+      "fr": "jb"
+    }
+  },
+  {
+    "input": [
+      "de psalmen",
+      "psalms",
+      "ps",
+      "psa",
+      "psg",
+      "sal",
+      "sl",
+      "psalm",
+      "psalmi",
+      "psalmen",
+      "salmos"
+    ],
+    "code": {
+      "diebibel_de": "ps",
+      "unbound_biola_edu": "19O",
+      "usccb_org": "psalms",
+      "laparola_net": "Salmi",
+      "bibliacatolica_com": "21",
+      "osis": "Ps",
+      "biblija_net": "Ps",
+      "can": "19",
+      "rkbijbel": "psalmen"
+    },
+    "spoken": {
+      "nl": "de psalmen",
+      "en": "psalms"
+    },
+    "language": {
+      "nl": "ps",
+      "en": "ps",
+      "fr": "ps"
+    }
+  },
+  {
+    "input": [
+      "spreuken",
+      "proverbs",
+      "prg",
+      "preg",
+      "pro",
+      "prov",
+      "pr",
+      "prv",
+      "prou",
+      "spr",
+      "izr",
+      "esz",
+      "pregovori",
+      "proverbs",
+      "spreuken",
+      "sprüche",
+      "sprichwörter",
+      "proverbios"
+    ],
+    "code": {
+      "crosswire_org": "proverbs",
+      "vatican": "Proverbs",
+      "diebibel_de": "spr",
+      "unbound_biola_edu": "20O",
+      "usccb_org": "proverbs",
+      "laparola_net": "Proverbi",
+      "bibliacatolica_com": "24",
+      "osis": "Prov",
+      "biblija_net": "Pr",
+      "can": "20",
+      "rkbijbel": "spreuken"
+    },
+    "spoken": {
+      "nl": "spreuken",
+      "en": "proverbs"
+    },
+    "language": {
+      "nl": "spr",
+      "en": "prov",
+      "fr": "pr"
+    }
+  },
+  {
+    "input": [
+      "prediker",
+      "ecclesiastes",
+      "prd",
+      "prid",
+      "prop",
+      "ec",
+      "ecc",
+      "eccl",
+      "ecl",
+      "qo",
+      "qoh",
+      "coh",
+      "koh",
+      "pred",
+      "pridigar",
+      "ecclesiastes",
+      "prediger",
+      "qoheleth",
+      "qohéleth",
+      "eclesiastés"
+    ],
+    "code": {
+      "crosswire_org": "ecclesiastes",
+      "vatican": "Ecclesiastes",
+      "diebibel_de": "pred",
+      "unbound_biola_edu": "21O",
+      "usccb_org": "ecclesiastes",
+      "laparola_net": "Qoelet",
+      "bibliacatolica_com": "25",
+      "osis": "Eccl",
+      "biblija_net": "Ec",
+      "can": "21",
+      "rkbijbel": "prediker"
+    },
+    "spoken": {
+      "nl": "prediker",
+      "en": "ecclesiastes"
+    },
+    "language": {
+      "nl": "pred",
+      "en": "ecc",
+      "fr": "qo"
+    }
+  },
+  {
+    "input": [
+      "hooglied",
+      "song of solomon",
+      "vp",
+      "sng",
+      "song",
+      "sgs",
+      "ss",
+      "cant",
+      "cnt",
+      "ct",
+      "kt",
+      "hoogl",
+      "hl",
+      "hld",
+      "pj",
+      "visokapesem",
+      "visokap",
+      "canticles",
+      "hooglied",
+      "hoheslied",
+      "cantares"
+    ],
+    "code": {
+      "crosswire_org": "song",
+      "vatican": "The Song of Songs",
+      "diebibel_de": "hld",
+      "unbound_biola_edu": "22O",
+      "usccb_org": "song",
+      "laparola_net": "Cantico dei Cantici",
+      "bibliacatolica_com": "26",
+      "osis": "Song",
+      "biblija_net": "Song",
+      "can": "22",
+      "rkbijbel": "hooglied"
+    },
+    "spoken": {
+      "nl": "hooglied",
+      "en": "song of solomon"
+    },
+    "language": {
+      "nl": "hoogl",
+      "en": "song",
+      "fr": "ct"
+    }
+  },
+  {
+    "input": [
+      "jesaja",
+      "isaiah",
+      "iz",
+      "izai",
+      "izaija",
+      "isa",
+      "is",
+      "jes",
+      "js",
+      "es",
+      "és",
+      "isaiah",
+      "jesaja",
+      "isaías"
+    ],
+    "code": {
+      "crosswire_org": "isaiah",
+      "vatican": "Isaiah",
+      "diebibel_de": "jes",
+      "unbound_biola_edu": "23O",
+      "usccb_org": "isaiah",
+      "laparola_net": "Isaia",
+      "bibliacatolica_com": "29",
+      "osis": "Isa",
+      "biblija_net": "Is",
+      "can": "23",
+      "rkbijbel": "jesaja"
+    },
+    "spoken": {
+      "nl": "jesaja",
+      "en": "isaiah"
+    },
+    "language": {
+      "nl": "jes",
+      "en": "isa",
+      "fr": "is"
+    }
+  },
+  {
+    "input": [
+      "jeremia",
+      "jeremiah",
+      "jer",
+      "jér",
+      "jr",
+      "ier",
+      "jeremija",
+      "jeremiah",
+      "jeremia",
+      "jeremías"
+    ],
+    "code": {
+      "crosswire_org": "jeremiah",
+      "vatican": "Jeremiah",
+      "diebibel_de": "jer",
+      "unbound_biola_edu": "24O",
+      "usccb_org": "jeremiah",
+      "laparola_net": "Geremia",
+      "bibliacatolica_com": "30",
+      "osis": "Jer",
+      "biblija_net": "Jr",
+      "can": "24",
+      "rkbijbel": "jeremia"
+    },
+    "spoken": {
+      "nl": "jeremia",
+      "en": "jeremiah"
+    },
+    "language": {
+      "nl": "jer",
+      "en": "jer",
+      "fr": "jr"
+    }
+  },
+  {
+    "input": [
+      "klaagliederen",
+      "lamentations",
+      "žal",
+      "lam",
+      "la",
+      "lm",
+      "thr",
+      "klaagl",
+      "kl",
+      "klgl",
+      "klgld",
+      "tuž",
+      "nk",
+      "žalostinke",
+      "lamentations",
+      "klaagliederen",
+      "klagelieder",
+      "lamentaciones"
+    ],
+    "code": {
+      "crosswire_org": "lamentations",
+      "vatican": "Lamentations",
+      "diebibel_de": "klgl",
+      "unbound_biola_edu": "25O",
+      "usccb_org": "lamentations",
+      "laparola_net": "Lamentazioni",
+      "bibliacatolica_com": "31",
+      "osis": "Lam",
+      "biblija_net": "La",
+      "can": "25",
+      "rkbijbel": "klaagliederen"
+    },
+    "spoken": {
+      "nl": "klaagliederen",
+      "en": "lamentations"
+    },
+    "language": {
+      "nl": "klaagl",
+      "en": "lam",
+      "fr": "lm"
+    }
+  },
+  {
+    "input": [
+      "ezechiël",
+      "ezekiel",
+      "ezk",
+      "ez",
+      "eze",
+      "ezec",
+      "ezek",
+      "ézék",
+      "hes",
+      "ezekiel",
+      "ezekijel",
+      "ezechiël",
+      "ezechiel",
+      "hesekiel",
+      "ézékiel",
+      "ezequiel"
+    ],
+    "code": {
+      "crosswire_org": "ezekiel",
+      "vatican": "Ezekiel",
+      "diebibel_de": "hes",
+      "unbound_biola_edu": "26O",
+      "usccb_org": "ezekiel",
+      "laparola_net": "Ezechiele",
+      "bibliacatolica_com": "33",
+      "osis": "Ezek",
+      "biblija_net": "Ez",
+      "can": "26",
+      "rkbijbel": "ezechiel"
+    },
+    "spoken": {
+      "nl": "ezechiël",
+      "en": "ezekiel"
+    },
+    "language": {
+      "nl": "eze",
+      "en": "ezek",
+      "fr": "ez"
+    }
+  },
+  {
+    "input": [
+      "daniël",
+      "daniel",
+      "dan",
+      "da",
+      "dn",
+      "daniel",
+      "danijel",
+      "daniël"
+    ],
+    "code": {
+      "crosswire_org": "daniel",
+      "vatican": "Daniel",
+      "diebibel_de": "dan",
+      "unbound_biola_edu": "27O",
+      "usccb_org": "daniel",
+      "laparola_net": "Daniele",
+      "bibliacatolica_com": "34",
+      "osis": "Dan",
+      "biblija_net": "Da",
+      "can": "27",
+      "rkbijbel": "daniel"
+    },
+    "spoken": {
+      "nl": "daniël",
+      "en": "daniel"
+    },
+    "language": {
+      "nl": "dan",
+      "en": "dan",
+      "fr": "dn"
+    }
+  },
+  {
+    "input": [
+      "hosea",
+      "oz",
+      "ozea",
+      "hos",
+      "ho",
+      "os",
+      "hoš",
+      "ozej",
+      "hosea",
+      "osee",
+      "osée",
+      "oseas"
+    ],
+    "code": {
+      "crosswire_org": "hosea",
+      "vatican": "Hosea",
+      "diebibel_de": "hos",
+      "unbound_biola_edu": "28O",
+      "usccb_org": "hosea",
+      "laparola_net": "Osea",
+      "bibliacatolica_com": "35",
+      "osis": "Hos",
+      "biblija_net": "Ho",
+      "can": "28",
+      "rkbijbel": "hosea"
+    },
+    "spoken": {
+      "nl": "hosea",
+      "en": "hosea"
+    },
+    "language": {
+      "nl": "hos",
+      "en": "hos",
+      "fr": "os"
+    }
+  },
+  {
+    "input": [
+      "joël",
+      "joel",
+      "jl",
+      "jol",
+      "joel",
+      "ioel",
+      "joël"
+    ],
+    "code": {
+      "crosswire_org": "joel",
+      "vatican": "Joel",
+      "diebibel_de": "joel",
+      "unbound_biola_edu": "29O",
+      "usccb_org": "joel",
+      "laparola_net": "Gioele",
+      "bibliacatolica_com": "36",
+      "osis": "Joel",
+      "biblija_net": "Jl",
+      "can": "29",
+      "rkbijbel": "joel"
+    },
+    "spoken": {
+      "nl": "joël",
+      "en": "joel"
+    },
+    "language": {
+      "nl": "joël",
+      "en": "joel",
+      "fr": "jl"
+    }
+  },
+  {
+    "input": [
+      "amos",
+      "am",
+      "amo",
+      "amós"
+    ],
+    "code": {
+      "crosswire_org": "amos",
+      "vatican": "Amos",
+      "diebibel_de": "am",
+      "unbound_biola_edu": "30O",
+      "usccb_org": "amos",
+      "laparola_net": "Amos",
+      "bibliacatolica_com": "37",
+      "osis": "Amos",
+      "biblija_net": "Am",
+      "can": "30",
+      "rkbijbel": "amos"
+    },
+    "spoken": {
+      "nl": "amos",
+      "en": "amos"
+    },
+    "language": {
+      "nl": "am",
+      "en": "am",
+      "fr": "am"
+    }
+  },
+  {
+    "input": [
+      "obadja",
+      "obadiah",
+      "abd",
+      "ab",
+      "oba",
+      "obd",
+      "obad",
+      "ob",
+      "abdija",
+      "obadija",
+      "obadiah",
+      "obadja",
+      "abdías"
+    ],
+    "code": {
+      "crosswire_org": "obadiah",
+      "vatican": "Obadiah",
+      "diebibel_de": "obd",
+      "unbound_biola_edu": "31O",
+      "usccb_org": "obadiah",
+      "laparola_net": "Abdia",
+      "bibliacatolica_com": "38",
+      "osis": "Obad",
+      "biblija_net": "Ob",
+      "can": "31",
+      "rkbijbel": "obadja"
+    },
+    "spoken": {
+      "nl": "obadja",
+      "en": "obadiah"
+    },
+    "language": {
+      "nl": "ob",
+      "en": "ob",
+      "fr": "ab"
+    }
+  },
+  {
+    "input": [
+      "jona",
+      "jonah",
+      "jon",
+      "jnh",
+      "ion",
+      "jonás"
+    ],
+    "code": {
+      "crosswire_org": "jonah",
+      "vatican": "Jonah",
+      "diebibel_de": "jona",
+      "unbound_biola_edu": "32O",
+      "usccb_org": "jonah",
+      "laparola_net": "Giona",
+      "bibliacatolica_com": "39",
+      "osis": "Jonah",
+      "biblija_net": "Jnh",
+      "can": "32",
+      "rkbijbel": "jonas"
+    },
+    "spoken": {
+      "nl": "jona",
+      "en": "jonah"
+    },
+    "language": {
+      "nl": "jona",
+      "en": "jon",
+      "fr": "jon"
+    }
+  },
+  {
+    "input": [
+      "micha",
+      "micah",
+      "mih",
+      "mic",
+      "mi",
+      "mch",
+      "mich",
+      "miq",
+      "mihej",
+      "miha",
+      "miqueas"
+    ],
+    "code": {
+      "crosswire_org": "micah",
+      "vatican": "Micah",
+      "diebibel_de": "mi",
+      "unbound_biola_edu": "33O",
+      "usccb_org": "micah",
+      "laparola_net": "Michea",
+      "bibliacatolica_com": "40",
+      "osis": "Mic",
+      "biblija_net": "Mi",
+      "can": "33",
+      "rkbijbel": "micha"
+    },
+    "spoken": {
+      "nl": "micha",
+      "en": "micah"
+    },
+    "language": {
+      "nl": "mi",
+      "en": "mic",
+      "fr": "mi"
+    }
+  },
+  {
+    "input": [
+      "nah",
+      "nam",
+      "na",
+      "nahum",
+      "nahúm"
+    ],
+    "code": {
+      "crosswire_org": "nahum",
+      "vatican": "Nahum",
+      "diebibel_de": "nah",
+      "unbound_biola_edu": "34O",
+      "usccb_org": "nahum",
+      "laparola_net": "Naum",
+      "bibliacatolica_com": "41",
+      "osis": "Nah",
+      "biblija_net": "Na",
+      "can": "34",
+      "rkbijbel": "nahum"
+    },
+    "spoken": {
+      "nl": "nahum",
+      "en": "nahum"
+    },
+    "language": {
+      "nl": "nah",
+      "en": "nah",
+      "fr": "na"
+    }
+  },
+  {
+    "input": [
+      "habakuk",
+      "habakkuk",
+      "hab",
+      "ha",
+      "habb",
+      "habacuc"
+    ],
+    "code": {
+      "crosswire_org": "habakkuk",
+      "vatican": "Habakkuk",
+      "diebibel_de": "hab",
+      "unbound_biola_edu": "35O",
+      "usccb_org": "habakkuk",
+      "laparola_net": "Abacuc",
+      "bibliacatolica_com": "42",
+      "osis": "Hab",
+      "biblija_net": "Ha",
+      "can": "35",
+      "rkbijbel": "habakuk"
+    },
+    "spoken": {
+      "nl": "habakuk",
+      "en": "habakkuk"
+    },
+    "language": {
+      "nl": "hab",
+      "en": "hab",
+      "fr": "ha"
+    }
+  },
+  {
+    "input": [
+      "sefanja",
+      "zephaniah",
+      "sof",
+      "zep",
+      "zeph",
+      "zef",
+      "sef",
+      "so",
+      "soph",
+      "sofonija",
+      "zefanija",
+      "zephanja",
+      "zefanja",
+      "sofonías"
+    ],
+    "code": {
+      "crosswire_org": "zephaniah",
+      "vatican": "Zephaniah",
+      "diebibel_de": "zeph",
+      "unbound_biola_edu": "38O",
+      "usccb_org": "zephaniah",
+      "laparola_net": "Sofonia",
+      "bibliacatolica_com": "43",
+      "osis": "Zeph",
+      "biblija_net": "Zep",
+      "can": "36",
+      "rkbijbel": "sefanja"
+    },
+    "spoken": {
+      "nl": "sefanja",
+      "en": "zephaniah"
+    },
+    "language": {
+      "nl": "sef",
+      "en": "zeph",
+      "fr": "so"
+    }
+  },
+  {
+    "input": [
+      "haggai",
+      "ag",
+      "hag",
+      "hagg",
+      "hgg",
+      "hg",
+      "agg",
+      "agej",
+      "hagaj",
+      "hageo"
+    ],
+    "code": {
+      "crosswire_org": "haggai",
+      "vatican": "Haggai",
+      "diebibel_de": "hag",
+      "unbound_biola_edu": "37O",
+      "usccb_org": "haggai",
+      "laparola_net": "Aggeo",
+      "bibliacatolica_com": "44",
+      "osis": "Hag",
+      "biblija_net": "Hagg",
+      "can": "37",
+      "rkbijbel": "haggai"
+    },
+    "spoken": {
+      "nl": "haggai",
+      "en": "haggai"
+    },
+    "language": {
+      "nl": "hag",
+      "en": "hag",
+      "fr": "ag"
+    }
+  },
+  {
+    "input": [
+      "zacharia",
+      "zechariah",
+      "zah",
+      "zec",
+      "zech",
+      "zch",
+      "za",
+      "zac",
+      "zach",
+      "sach",
+      "zaharija",
+      "sacharja",
+      "zacarías"
+    ],
+    "code": {
+      "diebibel_de": "sach",
+      "vatican": "Zechariah",
+      "unbound_biola_edu": "38O",
+      "usccb_org": "zechariah",
+      "laparola_net": "Zaccaria",
+      "bibliacatolica_com": "45",
+      "osis": "Zech",
+      "biblija_net": "Zec",
+      "can": "38",
+      "rkbijbel": "zacharias"
+    },
+    "spoken": {
+      "nl": "zacharia",
+      "en": "zechariah"
+    },
+    "language": {
+      "nl": "zach",
+      "en": "zech",
+      "fr": "za"
+    }
+  },
+  {
+    "input": [
+      "maleachi",
+      "malachi",
+      "mal",
+      "ml",
+      "malahija",
+      "malaquías"
+    ],
+    "code": {
+      "crosswire_org": "malachi",
+      "vatican": "Malachi",
+      "diebibel_de": "mal",
+      "unbound_biola_edu": "39O",
+      "usccb_org": "malachi",
+      "laparola_net": "Malachia",
+      "bibliacatolica_com": "46",
+      "osis": "Mal",
+      "biblija_net": "Ml",
+      "can": "39",
+      "rkbijbel": "maleachi"
+    },
+    "spoken": {
+      "nl": "maleachi",
+      "en": "malachi"
+    },
+    "language": {
+      "nl": "mal",
+      "en": "mal",
+      "fr": "ml"
+    }
+  },
+  {
+    "input": [
+      "het evangelie volgens matteüs",
+      "the gospel of matthew",
+      "matthew",
+      "mt",
+      "mat",
+      "matt",
+      "matej",
+      "matevž",
+      "matthew",
+      "matteüs",
+      "mattheus",
+      "matteus",
+      "matthäus",
+      "mateo"
+    ],
+    "code": {
+      "crosswire_org": "matthew",
+      "vatican": "Matthew",
+      "diebibel_de": "mt",
+      "unbound_biola_edu": "40N",
+      "usccb_org": "matthew",
+      "laparola_net": "Matteo",
+      "bibliacatolica_com": "47",
+      "osis": "Matt",
+      "biblija_net": "Mat",
+      "can": "40",
+      "rkbijbel": "matteus"
+    },
+    "spoken": {
+      "nl": "het evangelie volgens matteüs",
+      "en": "the gospel of matthew"
+    },
+    "language": {
+      "nl": "mt",
+      "en": "mt",
+      "fr": "mt"
+    }
+  },
+  {
+    "input": [
+      "het evangelie volgens marcus",
+      "the gospel of mark",
+      "mark",
+      "mr",
+      "mar",
+      "mrk",
+      "mk",
+      "mc",
+      "marko",
+      "marcus",
+      "markus",
+      "marc",
+      "marcos"
+    ],
+    "code": {
+      "crosswire_org": "mark",
+      "vatican": "Mark",
+      "diebibel_de": "mk",
+      "unbound_biola_edu": "41N",
+      "usccb_org": "mark",
+      "laparola_net": "Marco",
+      "bibliacatolica_com": "48",
+      "osis": "Mark",
+      "biblija_net": "Mr",
+      "can": "41",
+      "rkbijbel": "marcus"
+    },
+    "spoken": {
+      "nl": "het evangelie volgens marcus",
+      "en": "the gospel of mark"
+    },
+    "language": {
+      "nl": "mc",
+      "en": "mc",
+      "fr": "mc"
+    }
+  },
+  {
+    "input": [
+      "het evangelie volgens lucas",
+      "the gospel of luke",
+      "luke",
+      "lk",
+      "luk",
+      "lc",
+      "luc",
+      "lu",
+      "l",
+      "luka",
+      "lukež",
+      "lucas",
+      "lukas"
+    ],
+    "code": {
+      "crosswire_org": "luke",
+      "vatican": "Luke",
+      "diebibel_de": "lk",
+      "unbound_biola_edu": "42N",
+      "usccb_org": "luke",
+      "laparola_net": "Luca",
+      "bibliacatolica_com": "49",
+      "osis": "Luke",
+      "biblija_net": "Luk",
+      "can": "42",
+      "rkbijbel": "lucas"
+    },
+    "spoken": {
+      "nl": "het evangelie volgens lucas",
+      "en": "the gospel of luke"
+    },
+    "language": {
+      "nl": "lc",
+      "en": "lc",
+      "fr": "lc"
+    }
+  },
+  {
+    "input": [
+      "het evangelie volgens johannes",
+      "the gospel of john",
+      "john",
+      "jn",
+      "jan",
+      "jhn",
+      "jh",
+      "joh",
+      "jo",
+      "j",
+      "io",
+      "iv",
+      "janez",
+      "john",
+      "johannes",
+      "jean",
+      "juan"
+    ],
+    "code": {
+      "crosswire_org": "john",
+      "vatican": "John",
+      "diebibel_de": "jh",
+      "unbound_biola_edu": "43N",
+      "usccb_org": "john",
+      "laparola_net": "Giovanni",
+      "bibliacatolica_com": "50",
+      "osis": "John",
+      "biblija_net": "Jhn",
+      "can": "43",
+      "rkbijbel": "johannes"
+    },
+    "spoken": {
+      "nl": "het evangelie volgens johannes",
+      "en": "the gospel of john"
+    },
+    "language": {
+      "nl": "jh",
+      "en": "jn",
+      "fr": "jn"
+    }
+  },
+  {
+    "input": [
+      "handelingen van de apostelen",
+      "the acts",
+      "apd",
+      "dej",
+      "dejap",
+      "act",
+      "ac",
+      "hand",
+      "hnd",
+      "apg",
+      "dj",
+      "hch",
+      "eg",
+      "acts",
+      "dela",
+      "dejanja",
+      "handelingen",
+      "apostelgeschichte",
+      "hechos"
+    ],
+    "code": {
+      "crosswire_org": "acts",
+      "vatican": "Acts",
+      "diebibel_de": "apg",
+      "unbound_biola_edu": "44N",
+      "usccb_org": "acts",
+      "laparola_net": "Atti",
+      "bibliacatolica_com": "51",
+      "osis": "Acts",
+      "biblija_net": "Ac",
+      "can": "44",
+      "rkbijbel": "handelingen"
+    },
+    "spoken": {
+      "nl": "handelingen van de apostelen",
+      "en": "the acts"
+    },
+    "language": {
+      "nl": "hand",
+      "en": "acts",
+      "fr": "ac"
+    }
+  },
+  {
+    "input": [
+      "de brief aan de romeinen",
+      "the letter to the romans",
+      "romans",
+      "rim",
+      "rimlj",
+      "rom",
+      "röm",
+      "ro",
+      "rm",
+      "r",
+      "erm",
+      "rimljanom",
+      "romans",
+      "romeinen",
+      "römer",
+      "romanos"
+    ],
+    "code": {
+      "crosswire_org": "romans",
+      "vatican": "Romans",
+      "diebibel_de": "r%C3%B6m",
+      "unbound_biola_edu": "45N",
+      "usccb_org": "romans",
+      "laparola_net": "Romani",
+      "bibliacatolica_com": "52",
+      "osis": "Rom",
+      "biblija_net": "Ro",
+      "can": "45",
+      "rkbijbel": "romeinen"
+    },
+    "spoken": {
+      "nl": "de brief aan de romeinen",
+      "en": "the letter to the romans"
+    },
+    "language": {
+      "nl": "rom",
+      "en": "rom",
+      "fr": "rm"
+    }
+  },
+  {
+    "input": [
+      "de eerste brief aan de korintiërs",
+      "the first letter to the corinthians",
+      "1 corinthians",
+      "1 kor",
+      "1 cor",
+      "1 co",
+      "1 ko",
+      "1 k",
+      "1 korinčanom",
+      "1 corinthians",
+      "1 korintiërs",
+      "1 korintiers",
+      "1 korinthe",
+      "1 korinther",
+      "1 corintios",
+      "1corinthians",
+      "1kor",
+      "1cor",
+      "1co",
+      "1ko",
+      "1k",
+      "1korinčanom",
+      "1corinthians",
+      "1korintiërs",
+      "1korintiers",
+      "1korinthe",
+      "1korinther",
+      "1corintios"
+    ],
+    "code": {
+      "crosswire_org": "1corinthians",
+      "vatican": "1 Corinthians",
+      "diebibel_de": "1.kor",
+      "unbound_biola_edu": "46N",
+      "usccb_org": "1corinthians",
+      "laparola_net": "1 Corinzi",
+      "bibliacatolica_com": "53",
+      "osis": "1Cor",
+      "biblija_net": "1 Co",
+      "can": "46",
+      "rkbijbel": "1korintiers"
+    },
+    "spoken": {
+      "nl": "de eerste brief aan de korintiërs",
+      "en": "the first letter to the corinthians"
+    },
+    "language": {
+      "nl": "1 kor",
+      "en": "1 cor",
+      "fr": "1 co"
+    }
+  },
+  {
+    "input": [
+      "de tweede brief aan de korintiërs",
+      "the second letter to the corinthians",
+      "2 corinthians",
+      "2 kor",
+      "2 cor",
+      "2 co",
+      "2 ko",
+      "2 k",
+      "2 korinčanom",
+      "2 corinthians",
+      "2 korintiërs",
+      "2 korintiers",
+      "2 korinthe",
+      "2 korinther",
+      "2 corintios",
+      "2corinthians",
+      "2kor",
+      "2cor",
+      "2co",
+      "2ko",
+      "2k",
+      "2korinčanom",
+      "2corinthians",
+      "2korintiërs",
+      "2korintiers",
+      "2korinthe",
+      "2korinther",
+      "2corintios"
+    ],
+    "code": {
+      "crosswire_org": "2corinthians",
+      "vatican": "2 Corinthians",
+      "diebibel_de": "2.kor",
+      "unbound_biola_edu": "47N",
+      "usccb_org": "2corinthians",
+      "laparola_net": "2 Corinzi",
+      "bibliacatolica_com": "54",
+      "osis": "2Cor",
+      "biblija_net": "2 Co",
+      "can": "47",
+      "rkbijbel": "2korintiers"
+    },
+    "spoken": {
+      "nl": "de tweede brief aan de korintiërs",
+      "en": "the second letter to the corinthians"
+    },
+    "language": {
+      "nl": "2 kor",
+      "en": "2 cor",
+      "fr": "2 co"
+    }
+  },
+  {
+    "input": [
+      "de brief aan de galaten",
+      "the letter to the galatians",
+      "galatians",
+      "gal",
+      "ga",
+      "gl",
+      "g",
+      "galačanom",
+      "galatians",
+      "galaten",
+      "galater",
+      "gálatas"
+    ],
+    "code": {
+      "crosswire_org": "galatians",
+      "vatican": "Galatians",
+      "diebibel_de": "gal",
+      "unbound_biola_edu": "48N",
+      "usccb_org": "galatians",
+      "laparola_net": "Galati",
+      "bibliacatolica_com": "55",
+      "osis": "Gal",
+      "biblija_net": "Ga",
+      "can": "48",
+      "rkbijbel": "galaten"
+    },
+    "spoken": {
+      "nl": "de brief aan de galaten",
+      "en": "the letter to the galatians"
+    },
+    "language": {
+      "nl": "gal",
+      "en": "gal",
+      "fr": "ga"
+    }
+  },
+  {
+    "input": [
+      "de brief aan de efeziërs",
+      "the letter to the ephesians",
+      "ephesians",
+      "ef",
+      "efež",
+      "éfez",
+      "efez",
+      "eph",
+      "éph",
+      "ep",
+      "e",
+      "efežanom",
+      "ephesians",
+      "efeziërs",
+      "efeziers",
+      "efeze",
+      "epheser",
+      "efesios"
+    ],
+    "code": {
+      "crosswire_org": "ephesians",
+      "vatican": "Ephesians",
+      "diebibel_de": "eph",
+      "unbound_biola_edu": "49N",
+      "usccb_org": "ephesians",
+      "laparola_net": "Efesini",
+      "bibliacatolica_com": "56",
+      "osis": "Eph",
+      "biblija_net": "Ep",
+      "can": "49",
+      "rkbijbel": "efesiers"
+    },
+    "spoken": {
+      "nl": "de brief aan de efeziërs",
+      "en": "the letter to the ephesians"
+    },
+    "language": {
+      "nl": "ef",
+      "en": "eph",
+      "fr": "eph"
+    }
+  },
+  {
+    "input": [
+      "de brief aan de filippenzen",
+      "the letter to the philippians",
+      "philippians",
+      "flp",
+      "filip",
+      "filipp",
+      "fil",
+      "fl",
+      "php",
+      "ph",
+      "phil",
+      "phili",
+      "filipljanom",
+      "philippians",
+      "filippenzen",
+      "philipper",
+      "filipenses"
+    ],
+    "code": {
+      "crosswire_org": "philippians",
+      "vatican": "Philippians",
+      "diebibel_de": "phil",
+      "unbound_biola_edu": "50N",
+      "usccb_org": "philippians",
+      "laparola_net": "Filippesi",
+      "bibliacatolica_com": "57",
+      "osis": "Phil",
+      "biblija_net": "Php",
+      "can": "50",
+      "rkbijbel": "filippenzen"
+    },
+    "spoken": {
+      "nl": "de brief aan de filippenzen",
+      "en": "the letter to the philippians"
+    },
+    "language": {
+      "nl": "fil",
+      "en": "phil",
+      "fr": "ph"
+    }
+  },
+  {
+    "input": [
+      "de brief aan de kolossenzen",
+      "the letter to the collosians",
+      "colossians",
+      "kol",
+      "col",
+      "kološanom",
+      "colossians",
+      "kolossenzen",
+      "kolosser",
+      "colosenses"
+    ],
+    "code": {
+      "crosswire_org": "colossians",
+      "vatican": "Colossians",
+      "diebibel_de": "kol",
+      "unbound_biola_edu": "51N",
+      "usccb_org": "colossians",
+      "laparola_net": "Colossesi",
+      "bibliacatolica_com": "58",
+      "osis": "Col",
+      "biblija_net": "Col",
+      "can": "51",
+      "rkbijbel": "kolossenzen"
+    },
+    "spoken": {
+      "nl": "de brief aan de kolossenzen",
+      "en": "the letter to the collosians"
+    },
+    "language": {
+      "nl": "kol",
+      "en": "col",
+      "fr": "col"
+    }
+  },
+  {
+    "input": [
+      "de eerste brief aan de tessalonicenzen",
+      "the first letter to the thessalonians",
+      "1 thessalonians",
+      "1 tes",
+      "1 sol",
+      "1 th",
+      "1 ts",
+      "1 te",
+      "1 tess",
+      "1 thes",
+      "1 thess",
+      "1 tesaloničanom",
+      "1 thessalonians",
+      "1 tessalonicenzen",
+      "1 thessalonicher",
+      "1 tesalonicenses",
+      "1thessalonians",
+      "1tes",
+      "1sol",
+      "1th",
+      "1ts",
+      "1te",
+      "1tess",
+      "1thes",
+      "1thess",
+      "1tesaloničanom",
+      "1thessalonians",
+      "1tessalonicenzen",
+      "1thessalonicher",
+      "1tesalonicenses"
+    ],
+    "code": {
+      "crosswire_org": "1thessalonians",
+      "vatican": "1 Thessalonians",
+      "diebibel_de": "1.thess",
+      "unbound_biola_edu": "52N",
+      "usccb_org": "1thessalonians",
+      "laparola_net": "1 Tessalonicesi",
+      "bibliacatolica_com": "59",
+      "osis": "1Thess",
+      "biblija_net": "1 Thess",
+      "can": "52",
+      "rkbijbel": "1tessalonicenzen"
+    },
+    "spoken": {
+      "nl": "de eerste brief aan de tessalonicenzen",
+      "en": "the first letter to the thessalonians"
+    },
+    "language": {
+      "nl": "1 tes",
+      "en": "1 thess",
+      "fr": "1 th"
+    }
+  },
+  {
+    "input": [
+      "de tweede brief aan de tessalonicenzen",
+      "the second letter to the thessalonians",
+      "2 thessalonians",
+      "de tweede brief aan de tessalonicenzen",
+      "2 thessalonians",
+      "2 tes",
+      "2 sol",
+      "2 th",
+      "2 ts",
+      "2 te",
+      "2 tess",
+      "2 thes",
+      "2 thess",
+      "2 tesaloničanom",
+      "2 thessalonians",
+      "2 tessalonicenzen",
+      "2 thessalonicher",
+      "2 tesalonicenses",
+      "2thessalonians",
+      "2tes",
+      "2sol",
+      "2th",
+      "2ts",
+      "2te",
+      "2tess",
+      "2thes",
+      "2thess",
+      "2tesaloničanom",
+      "2thessalonians",
+      "2tessalonicenzen",
+      "2thessalonicher",
+      "2tesalonicenses"
+    ],
+    "code": {
+      "crosswire_org": "2thessalonians",
+      "vatican": "2 Thessalonians",
+      "diebibel_de": "2.thess",
+      "unbound_biola_edu": "53N",
+      "usccb_org": "2thessalonians",
+      "laparola_net": "2 Tessalonicesi",
+      "bibliacatolica_com": "60",
+      "osis": "2Thess",
+      "biblija_net": "2 Thess",
+      "can": "53",
+      "rkbijbel": "2tessalonicenzen"
+    },
+    "spoken": {
+      "nl": "de tweede brief aan de tessalonicenzen",
+      "en": "the second letter to the thessalonians"
+    },
+    "language": {
+      "nl": "2 tes",
+      "en": "2 thess",
+      "fr": "2 th"
+    }
+  },
+  {
+    "input": [
+      "de eerste brief aan timoteüs",
+      "the first letter to timothy",
+      "1 timothy",
+      "1 tim",
+      "1 ti",
+      "1 tm",
+      "1 t",
+      "1 timoteju",
+      "1 timothy",
+      "1 timoteüs",
+      "1 timoteus",
+      "1 timotheus",
+      "1 timoteo",
+      "1timothy",
+      "1tim",
+      "1ti",
+      "1tm",
+      "1t",
+      "1timoteju",
+      "1timothy",
+      "1timoteüs",
+      "1timoteus",
+      "1timotheus",
+      "1timoteo"
+    ],
+    "code": {
+      "crosswire_org": "1timothy",
+      "vatican": "1 Timothy",
+      "diebibel_de": "1.tim",
+      "unbound_biola_edu": "54N",
+      "usccb_org": "1timothy",
+      "laparola_net": "1 Timoteo",
+      "bibliacatolica_com": "61",
+      "osis": "1Tim",
+      "biblija_net": "1 Ti",
+      "can": "54",
+      "rkbijbel": "1timoteus"
+    },
+    "spoken": {
+      "nl": "de eerste brief aan timoteüs",
+      "en": "the first letter to timothy"
+    },
+    "language": {
+      "nl": "1 tim",
+      "en": "1 tim",
+      "fr": "1 tm"
+    }
+  },
+  {
+    "input": [
+      "de tweede brief aan timoteüs",
+      "the second letter to timothy",
+      "2 timothy",
+      "2 tim",
+      "2 ti",
+      "2 tm",
+      "2 t",
+      "2 timoteju",
+      "2 timothy",
+      "2 timoteus",
+      "2 timoteus",
+      "2 timotheus",
+      "2 timoteo",
+      "2timothy",
+      "2tim",
+      "2ti",
+      "2tm",
+      "2t",
+      "2timoteju",
+      "2timothy",
+      "2timoteus",
+      "2timoteus",
+      "2timotheus",
+      "2timoteo"
+    ],
+    "code": {
+      "crosswire_org": "2timothy",
+      "vatican": "2 Timothy",
+      "diebibel_de": "2.tim",
+      "unbound_biola_edu": "55N",
+      "usccb_org": "2timothy",
+      "laparola_net": "2 Timoteo",
+      "bibliacatolica_com": "62",
+      "osis": "2Tim",
+      "biblija_net": "2 Ti",
+      "can": "55",
+      "rkbijbel": "2timoteus"
+    },
+    "spoken": {
+      "nl": "de tweede brief aan timoteüs",
+      "en": "the second letter to timothy"
+    },
+    "language": {
+      "nl": "2 tim",
+      "en": "2 tim",
+      "fr": "2 tm"
+    }
+  },
+  {
+    "input": [
+      "de brief aan titus",
+      "the letter to titus",
+      "titus",
+      "tit",
+      "tt",
+      "titus",
+      "titu",
+      "tite",
+      "tito"
+    ],
+    "code": {
+      "crosswire_org": "titus",
+      "vatican": "Titus",
+      "diebibel_de": "tit",
+      "unbound_biola_edu": "56N",
+      "usccb_org": "titus",
+      "laparola_net": "Tito",
+      "bibliacatolica_com": "63",
+      "osis": "Titus",
+      "biblija_net": "Tt",
+      "can": "56",
+      "rkbijbel": "titus"
+    },
+    "spoken": {
+      "nl": "de brief aan titus",
+      "en": "the letter to titus"
+    },
+    "language": {
+      "nl": "tit",
+      "en": "titus",
+      "fr": "tt"
+    }
+  },
+  {
+    "input": [
+      "philemon",
+      "de brief aan filemon",
+      "the letter to philemon",
+      "flm",
+      "filem",
+      "film",
+      "phm",
+      "phlm",
+      "phile",
+      "philem",
+      "filemonu",
+      "philemon",
+      "filemon",
+      "filemón"
+    ],
+    "code": {
+      "crosswire_org": "philemon",
+      "vatican": "Philemon",
+      "diebibel_de": "phlm",
+      "unbound_biola_edu": "57N",
+      "usccb_org": "philemon",
+      "laparola_net": "Filemone",
+      "bibliacatolica_com": "64",
+      "osis": "Phlm",
+      "biblija_net": "Phlm",
+      "can": "57",
+      "rkbijbel": "filemon"
+    },
+    "spoken": {
+      "nl": "de brief aan filemon",
+      "en": "the letter to philemon"
+    },
+    "language": {
+      "nl": "filem",
+      "en": "philemon",
+      "fr": "phm"
+    }
+  },
+  {
+    "input": [
+      "de brief aan de hebreeën",
+      "the letter to the hebrews",
+      "hebrews",
+      "heb",
+      "hebr",
+      "hébr",
+      "hbr",
+      "hb",
+      "he",
+      "hé",
+      "h",
+      "hebrejcem",
+      "hebrews",
+      "hebreeërs",
+      "hebreeers",
+      "hebreeën",
+      "hebreeen",
+      "hebräer",
+      "hebreos"
+    ],
+    "code": {
+      "crosswire_org": "hebrews",
+      "vatican": "Hebrews",
+      "diebibel_de": "hebr",
+      "unbound_biola_edu": "58N",
+      "usccb_org": "hebrews",
+      "laparola_net": "Ebrei",
+      "bibliacatolica_com": "65",
+      "osis": "Heb",
+      "biblija_net": "Hebr",
+      "can": "58",
+      "rkbijbel": "hebreeen"
+    },
+    "spoken": {
+      "nl": "de brief aan de hebreeën",
+      "en": "the letter to the hebrews"
+    },
+    "language": {
+      "nl": "heb",
+      "en": "heb",
+      "fr": "he"
+    }
+  },
+  {
+    "input": [
+      "de brief van jakobus",
+      "the letter of james",
+      "james",
+      "jak",
+      "jas",
+      "jam",
+      "jm",
+      "ja",
+      "jc",
+      "jac",
+      "jacq",
+      "iac",
+      "stg",
+      "st",
+      "jakob",
+      "james",
+      "jakobus",
+      "santiago"
+    ],
+    "code": {
+      "crosswire_org": "james",
+      "vatican": "James",
+      "diebibel_de": "jak",
+      "unbound_biola_edu": "59N",
+      "usccb_org": "james",
+      "laparola_net": "Giacomo",
+      "bibliacatolica_com": "66",
+      "osis": "Jas",
+      "biblija_net": "Jam",
+      "can": "59",
+      "rkbijbel": "jacobus"
+    },
+    "spoken": {
+      "nl": "de brief van jakobus",
+      "en": "the letter of james"
+    },
+    "language": {
+      "nl": "jak",
+      "en": "jas",
+      "fr": "jc"
+    }
+  },
+  {
+    "input": [
+      "de eerste brief van petrus",
+      "the first letter of peter",
+      "1 peter",
+      "1 pt",
+      "1 pet",
+      "1 petr",
+      "1 pe",
+      "1 pi",
+      "1 p",
+      "1 peter",
+      "1 petrus",
+      "1 pedro",
+      "1peter",
+      "1pt",
+      "1pet",
+      "1petr",
+      "1pe",
+      "1pi",
+      "1p",
+      "1peter",
+      "1petrus",
+      "1pedro"
+    ],
+    "code": {
+      "crosswire_org": "1peter",
+      "vatican": "1 Peter",
+      "diebibel_de": "1.petr",
+      "unbound_biola_edu": "60N",
+      "usccb_org": "1peter",
+      "laparola_net": "1 Pietro",
+      "bibliacatolica_com": "67",
+      "osis": "1Pet",
+      "biblija_net": "1 Pt",
+      "can": "60",
+      "rkbijbel": "1petrus"
+    },
+    "spoken": {
+      "nl": "de eerste brief van petrus",
+      "en": "the first letter of peter"
+    },
+    "language": {
+      "nl": "1 pet",
+      "en": "1 pet",
+      "fr": "1 pi"
+    }
+  },
+  {
+    "input": [
+      "de tweede brief van petrus",
+      "the second letter of peter",
+      "2 peter",
+      "2 pt",
+      "2 pet",
+      "2 petr",
+      "2 pe",
+      "2 pi",
+      "2 p",
+      "2 peter",
+      "2 petrus",
+      "2 pedro",
+      "2peter",
+      "2pt",
+      "2pet",
+      "2petr",
+      "2pe",
+      "2pi",
+      "2p",
+      "2peter",
+      "2petrus",
+      "2pedro"
+    ],
+    "code": {
+      "crosswire_org": "2peter",
+      "vatican": "2 Peter",
+      "diebibel_de": "2.petr",
+      "unbound_biola_edu": "61N",
+      "usccb_org": "2peter",
+      "laparola_net": "2 Pietro",
+      "bibliacatolica_com": "68",
+      "osis": "2Pet",
+      "biblija_net": "2 Pt",
+      "can": "61",
+      "rkbijbel": "2petrus"
+    },
+    "spoken": {
+      "nl": "de tweede brief van petrus",
+      "en": "the second letter of peter"
+    },
+    "language": {
+      "nl": "2 pet",
+      "en": "2 pet",
+      "fr": "2 pi"
+    }
+  },
+  {
+    "input": [
+      "de eerste brief van johannes",
+      "the first letter of john",
+      "1 john",
+      "1 jn",
+      "1 jan",
+      "1 joh",
+      "1 jo",
+      "1 j",
+      "1 io",
+      "1 iv",
+      "1 john",
+      "1 janez",
+      "1 johannes",
+      "1 jean",
+      "1 juan",
+      "1john",
+      "1jn",
+      "1jan",
+      "1joh",
+      "1jo",
+      "1j",
+      "1io",
+      "1iv",
+      "1john",
+      "1janez",
+      "1johannes",
+      "1jean",
+      "1juan"
+    ],
+    "code": {
+      "crosswire_org": "1john",
+      "vatican": "1 John",
+      "diebibel_de": "1.joh",
+      "unbound_biola_edu": "62N",
+      "usccb_org": "1john",
+      "laparola_net": "1 Giovanni",
+      "bibliacatolica_com": "69",
+      "osis": "1John",
+      "biblija_net": "1 Jo",
+      "can": "62",
+      "rkbijbel": "1johannes"
+    },
+    "spoken": {
+      "nl": "de eerste brief van johannes",
+      "en": "the first letter of john"
+    },
+    "language": {
+      "nl": "1 joh",
+      "en": "1 jn",
+      "fr": "1 jn"
+    }
+  },
+  {
+    "input": [
+      "de tweede brief van johannes",
+      "the second letter of john",
+      "2 john",
+      "2 jn",
+      "2 jan",
+      "2 joh",
+      "2 jo",
+      "2 j",
+      "2 io",
+      "2 iv",
+      "2 john",
+      "2 janez",
+      "2 johannes",
+      "2 jean",
+      "2 juan",
+      "2john",
+      "2jn",
+      "2jan",
+      "2joh",
+      "2jo",
+      "2j",
+      "2io",
+      "2iv",
+      "2john",
+      "2janez",
+      "2johannes",
+      "2jean",
+      "2juan"
+    ],
+    "code": {
+      "crosswire_org": "2john",
+      "vatican": "2 John",
+      "diebibel_de": "2.joh",
+      "unbound_biola_edu": "63N",
+      "usccb_org": "2john",
+      "laparola_net": "2 Giovanni",
+      "bibliacatolica_com": "70",
+      "osis": "2John",
+      "biblija_net": "2 Jo",
+      "can": "63",
+      "rkbijbel": "2johannes"
+    },
+    "spoken": {
+      "nl": "de tweede brief van johannes",
+      "en": "the second letter of john"
+    },
+    "language": {
+      "nl": "2 joh",
+      "en": "2 jn",
+      "fr": "2 jn"
+    }
+  },
+  {
+    "input": [
+      "de derde brief van johannes",
+      "the third letter of john",
+      "3 john",
+      "3 jn",
+      "3 jan",
+      "3 joh",
+      "3 jo",
+      "3 j",
+      "3 io",
+      "3 iv",
+      "3 john",
+      "3 janez",
+      "3 johannes",
+      "3 jean",
+      "3 juan",
+      "3john",
+      "3jn",
+      "3jan",
+      "3joh",
+      "3jo",
+      "3j",
+      "3io",
+      "3iv",
+      "3john",
+      "3janez",
+      "3johannes",
+      "3jean",
+      "3juan"
+    ],
+    "code": {
+      "crosswire_org": "3john",
+      "vatican": "3 John",
+      "diebibel_de": "3.joh",
+      "unbound_biola_edu": "64N",
+      "usccb_org": "3john",
+      "laparola_net": "3 Giovanni",
+      "bibliacatolica_com": "71",
+      "osis": "3John",
+      "biblija_net": "3 Jo",
+      "can": "64",
+      "rkbijbel": "3johannes"
+    },
+    "spoken": {
+      "nl": "de derde brief van johannes",
+      "en": "the third letter of john"
+    },
+    "language": {
+      "nl": "3 joh",
+      "en": "3 jn",
+      "fr": "3 jn"
+    }
+  },
+  {
+    "input": [
+      "de brief van judas",
+      "the letter of jude",
+      "jude",
+      "jud",
+      "juda",
+      "jude",
+      "jd",
+      "ju",
+      "iud",
+      "judas"
+    ],
+    "code": {
+      "crosswire_org": "jude",
+      "vatican": "jude",
+      "diebibel_de": "jud",
+      "unbound_biola_edu": "65N",
+      "usccb_org": "jude",
+      "laparola_net": "Giuda",
+      "bibliacatolica_com": "72",
+      "osis": "Jude",
+      "biblija_net": "Jd",
+      "can": "65",
+      "rkbijbel": "judas"
+    },
+    "spoken": {
+      "nl": "de brief van judas",
+      "en": "the letter of jude"
+    },
+    "language": {
+      "nl": "jud",
+      "en": "jude",
+      "fr": "jd"
+    }
+  },
+  {
+    "input": [
+      "de openbaring van johannes",
+      "apocalypse",
+      "revelation",
+      "raz",
+      "rev",
+      "ap",
+      "apc",
+      "apo",
+      "apoc",
+      "apok",
+      "apk",
+      "op",
+      "openb",
+      "offb",
+      "otk",
+      "razodetje",
+      "apokalipsa",
+      "revelation",
+      "openbaring",
+      "apokalyps",
+      "offenbarung",
+      "apocalipsis"
+    ],
+    "code": {
+      "crosswire_org": "revelation",
+      "vatican": "Revelation",
+      "diebibel_de": "offb",
+      "unbound_biola_edu": "66N",
+      "usccb_org": "revelation",
+      "laparola_net": "Apocalisse",
+      "bibliacatolica_com": "73",
+      "osis": "Rev",
+      "biblija_net": "Rev",
+      "can": "66",
+      "rkbijbel": "apokalyps"
+    },
+    "spoken": {
+      "nl": "de openbaring van johannes",
+      "en": "apocalypse"
+    },
+    "language": {
+      "nl": "op",
+      "en": "rev",
+      "fr": "ap"
+    }
+  },
+  {
+    "input": [
+      "esther",
+      "ester",
+      "esther (greek)",
+      "estg",
+      "esg",
+      "estgr",
+      "esthgr",
+      "estgrec",
+      "estd",
+      "estdc",
+      "gkest",
+      "addesth",
+      "stest",
+      "estera(gr)",
+      "estera(grška)",
+      "esther(gr)",
+      "esther(greek)",
+      "ester(griechisch)",
+      "ester(griego)"
+    ],
+    "code": {
+      "crosswire_org": "esther",
+      "vatican": "Esther",
+      "unbound_biola_edu": "69A",
+      "usccb_org": "esther",
+      "laparola_net": "Ester (greco + ebraico)",
+      "osis": "AddEsth",
+      "biblija_net": "GkEst"
+    },
+    "spoken": {
+
+    },
+    "language": {
+      "nl": "ester",
+      "en": "esther",
+      "fr": "estgrec"
+    }
+  },
+  {
+    "input": [
+      "judit",
+      "judith",
+      "jdt",
+      "jdth",
+      "idt",
+      "judita",
+      "judit"
+    ],
+    "code": {
+      "crosswire_org": "judith",
+      "vatican": "Judith",
+      "unbound_biola_edu": "68A",
+      "usccb_org": "judith",
+      "laparola_net": "Giuditta",
+      "osis": "Jdt",
+      "biblija_net": "Jdth",
+      "can": "68",
+      "rkbijbel": "judit"
+    },
+    "spoken": {
+      "nl": "judit",
+      "en": "judith"
+    },
+    "language": {
+      "nl": "judit",
+      "en": "judith",
+      "fr": "jdt"
+    }
+  },
+  {
+    "input": [
+      "tobit",
+      "tob",
+      "tb",
+      "tobija"
+    ],
+    "code": {
+      "crosswire_org": "tobit",
+      "vatican": "Tobit",
+      "diebibel_de": "tob",
+      "unbound_biola_edu": "67A",
+      "usccb_org": "tobit",
+      "laparola_net": "Tobia",
+      "osis": "Tob",
+      "biblija_net": "Tb",
+      "can": "67",
+      "rkbijbel": "tobit"
+    },
+    "spoken": {
+      "nl": "tobit",
+      "en": "tobit"
+    },
+    "language": {
+      "nl": "tobit",
+      "en": "tobit",
+      "fr": "tb"
+    }
+  },
+  {
+    "input": [
+      "het eerste boek makkabeeën",
+      "the first book of maccabees",
+      "1 maccabees",
+      "1 maccabees",
+      "1 mkb",
+      "1 mak",
+      "1 makk",
+      "1 mc",
+      "1 mac",
+      "1 macc",
+      "1 mcc",
+      "1 ma",
+      "1 m",
+      "1 makabejci",
+      "1 maccabees",
+      "1 makkabeeën",
+      "1 makkabeeen",
+      "1 makkabeeërs",
+      "1 makkabeeers",
+      "1 makkabäer",
+      "1 macabeos",
+      "1maccabees",
+      "1mkb",
+      "1mak",
+      "1makk",
+      "1mc",
+      "1mac",
+      "1macc",
+      "1mcc",
+      "1ma",
+      "1m",
+      "1makabejci",
+      "1maccabees",
+      "1makkabeeën",
+      "1makkabeeen",
+      "1makkabeeërs",
+      "1makkabeeers",
+      "1makkabäer",
+      "1macabeos"
+    ],
+    "code": {
+      "crosswire_org": "1maccabees",
+      "vatican": "1 Maccabees",
+      "diebibel_de": "1.makk",
+      "unbound_biola_edu": "77A",
+      "usccb_org": "1maccabees",
+      "laparola_net": "1 Maccabei",
+      "bibliacatolica_com": "22",
+      "osis": "1Macc",
+      "biblija_net": "1 Macc",
+      "can": "72",
+      "rkbijbel": "1makkabeeen"
+    },
+    "spoken": {
+      "nl": "het eerste boek makkabeeën",
+      "en": "the first book of maccabees"
+    },
+    "language": {
+      "nl": "het eerste boek makkabeeën",
+      "en": "1 maccabees",
+      "fr": "1 m"
+    }
+  },
+  {
+    "input": [
+      "het tweede boek makkabeeën",
+      "the second book of maccabees",
+      "2 maccabees",
+      "2 maccabees",
+      "2 mkb",
+      "2 mak",
+      "2 makk",
+      "2 mc",
+      "2 mac",
+      "2 macc",
+      "2 mcc",
+      "2 ma",
+      "2 m",
+      "2 makabejci",
+      "2 maccabees",
+      "2 makkabeeën",
+      "2 makkabeeen",
+      "2 makkabeeërs",
+      "2 makkabeeers",
+      "2 makkabäer",
+      "2 macabeos",
+      "2maccabees",
+      "2mkb",
+      "2mak",
+      "2makk",
+      "2mc",
+      "2mac",
+      "2macc",
+      "2mcc",
+      "2ma",
+      "2m",
+      "2makabejci",
+      "2maccabees",
+      "2makkabeeën",
+      "2makkabeeen",
+      "2makkabeeërs",
+      "2makkabeeers",
+      "2makkabäer",
+      "2macabeos"
+    ],
+    "code": {
+      "crosswire_org": "2maccabees",
+      "vatican": "2 Maccabees",
+      "diebibel_de": "2.makkabaeer",
+      "unbound_biola_edu": "78A",
+      "usccb_org": "2maccabees",
+      "laparola_net": "2 Maccabei",
+      "bibliacatolica_com": "23",
+      "osis": "2Macc",
+      "biblija_net": "2 Macc",
+      "can": "73",
+      "rkbijbel": "2makkabeeen"
+    },
+    "spoken": {
+      "nl": "het tweede boek makkabeeën",
+      "en": "the second book of maccabees"
+    },
+    "language": {
+      "nl": "het tweede boek makkabeeën",
+      "en": "2 maccabees",
+      "fr": "2 m"
+    }
+  },
+  {
+    "input": [
+      "het derde boek makkabeeën",
+      "the third book of maccabees",
+      "3 maccabees",
+      "3 maccabees",
+      "3 mkb",
+      "3 mak",
+      "3 makk",
+      "3 mc",
+      "3 mac",
+      "3 macc",
+      "3 mcc",
+      "3 ma",
+      "3 m",
+      "3 makabejci",
+      "3 maccabees",
+      "3 makkabeeën",
+      "3 makkabeeen",
+      "3 makkabeeërs",
+      "3 makkabeeers",
+      "3 makkabäer",
+      "3 macabeos",
+      "3maccabees",
+      "3mkb",
+      "3mak",
+      "3makk",
+      "3mc",
+      "3mac",
+      "3macc",
+      "3mcc",
+      "3ma",
+      "3m",
+      "3makabejci",
+      "3maccabees",
+      "3makkabeeën",
+      "3makkabeeen",
+      "3makkabeeërs",
+      "3makkabeeers",
+      "3makkabäer",
+      "3macabeos"
+    ],
+    "code": {
+      "crosswire_org": "3maccabees",
+      "vatican": "3 Maccabees",
+      "unbound_biola_edu": "79A",
+      "usccb_org": "3maccabees",
+      "osis": "3Macc",
+      "biblija_net": "3 Macc",
+      "rkbijbel": "3makkabeeen"
+    },
+    "spoken": {
+      "nl": "het derde boek makkabeeën",
+      "en": "the third book of maccabees"
+    },
+    "language": {
+      "nl": "het derde boek makkabeeën",
+      "en": "3 maccabees",
+      "fr": "3 m"
+    }
+  },
+  {
+    "input": [
+      "het vierde boek makkabeeën",
+      "the fourth book of maccabees",
+      "4 maccabees",
+      "4 maccabees",
+      "4 mkb",
+      "4 mak",
+      "4 makk",
+      "4 mc",
+      "4 mac",
+      "4 macc",
+      "4 mcc",
+      "4 ma",
+      "4 m",
+      "4 makabejci",
+      "4 maccabees",
+      "4 makkabeeën",
+      "4 makkabeeen",
+      "4 makkabeeërs",
+      "4 makkabeeers",
+      "4 makkabäer",
+      "4 macabeos",
+      "4maccabees",
+      "4mkb",
+      "4mak",
+      "4makk",
+      "4mc",
+      "4mac",
+      "4macc",
+      "4mcc",
+      "4ma",
+      "4m",
+      "4makabejci",
+      "4maccabees",
+      "4makkabeeën",
+      "4makkabeeen",
+      "4makkabeeërs",
+      "4makkabeeers",
+      "4makkabäer",
+      "4macabeos"
+    ],
+    "code": {
+      "crosswire_org": "4maccabees",
+      "vatican": "4 Maccabees",
+      "unbound_biola_edu": "80A",
+      "usccb_org": "4maccabees",
+      "osis": "4Macc",
+      "biblija_net": "4 Macc",
+      "rkbijbel": "4makkabeeen"
+    },
+    "spoken": {
+      "nl": "het vierde boek makkabeeën",
+      "en": "the fourth book of maccabees"
+    },
+    "language": {
+      "nl": "het vierde boek makkabeeën",
+      "en": "4 maccabees",
+      "fr": "4 m"
+    }
+  },
+  {
+    "input": [
+      "wijsheid",
+      "the book of wisdom",
+      "wisdom",
+      "mdr",
+      "modr",
+      "wis",
+      "wisd",
+      "weish",
+      "wijsh",
+      "w",
+      "sg",
+      "sag",
+      "sap",
+      "sb",
+      "sab",
+      "sv",
+      "mudr",
+      "jkd",
+      "modrost",
+      "wisdom",
+      "weisheit",
+      "sabiduría"
+    ],
+    "code": {
+      "crosswire_org": "Wisdom",
+      "vatican": "Wisdom",
+      "diebibel_de": "weish",
+      "unbound_biola_edu": "70A",
+      "usccb_org": "Wisdom",
+      "laparola_net": "Sapienza",
+      "bibliacatolica_com": "27",
+      "osis": "Wis",
+      "biblija_net": "Wisd",
+      "can": "69",
+      "rkbijbel": "wijsheid"
+    },
+    "spoken": {
+      "nl": "wijsheid",
+      "en": "the book of wisdom"
+    },
+    "language": {
+      "nl": "wijsheid",
+      "en": "the book of wisdom",
+      "fr": "sg"
+    }
+  },
+  {
+    "input": [
+      "wijsheid van jezus sirach",
+      "sirach",
+      "sir",
+      "si",
+      "sirah",
+      "eclo",
+      "ecclesiasticus",
+      "ecclesiastique",
+      "ecclésiastique",
+      "eclesiástico"
+    ],
+    "code": {
+      "crosswire_org": "Sirach",
+      "vatican": "Sirach",
+      "diebibel_de": "sach",
+      "unbound_biola_edu": "71A",
+      "usccb_org": "Sirach",
+      "laparola_net": "Siracide",
+      "bibliacatolica_com": "28",
+      "osis": "Sir",
+      "biblija_net": "Si",
+      "can": "70",
+      "rkbijbel": "jezussirach"
+    },
+    "spoken": {
+      "nl": "wijsheid van jezus sirach",
+      "en": "sirach"
+    },
+    "language": {
+      "nl": "wijsheid van jezus sirach",
+      "en": "sirach",
+      "fr": "si"
+    }
+  },
+  {
+    "input": [
+      "baruch",
+      "bar",
+      "ba",
+      "baruh",
+      "baruc"
+    ],
+    "code": {
+      "crosswire_org": "baruch",
+      "vatican": "Baruch",
+      "unbound_biola_edu": "72A",
+      "usccb_org": "baruch",
+      "laparola_net": "Baruc",
+      "bibliacatolica_com": "32",
+      "osis": "Bar",
+      "biblija_net": "Ba",
+      "can": "71",
+      "rkbijbel": "baruch"
+    },
+    "spoken": {
+      "nl": "baruch",
+      "en": "baruch"
+    },
+    "language": {
+      "nl": "baruch",
+      "en": "baruch",
+      "fr": "ba"
+    }
+  }
+]

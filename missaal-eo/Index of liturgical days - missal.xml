@@ -1,0 +1,6430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <eo.A011>
+    <form>eo</form>
+    <coordinates>A011</coordinates>
+    <cycle />
+    <name>First Sunday of Advent</name>
+    <category>sundayi</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>10</order>
+    <gospel>Luke 21:25-33</gospel>
+    <lecture />
+    <epistle>Rom 13:11-14a</epistle>
+    <template>2022-11-27</template>
+  </eo.A011>
+  <of.A011.A>
+    <form>of</form>
+    <coordinates>A011</coordinates>
+    <cycle>A</cycle>
+    <name>First Sunday of Advent</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>10</order>
+    <gospel>Matt 24:37-44</gospel>
+    <lecture>Isa 2:1-5</lecture>
+    <epistle>Rom 13:11-14</epistle>
+    <template></template>
+  </of.A011.A>
+  <of.A011.B>
+    <form>of</form>
+    <coordinates>A011</coordinates>
+    <cycle>B</cycle>
+    <name>First Sunday of Advent</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>10</order>
+    <gospel>Mark 13:33-37</gospel>
+    <lecture>Isa 63:16b-17,19b,64:2-7</lecture>
+    <epistle>1Cor 1:3-9</epistle>
+    <template></template>
+  </of.A011.B>
+  <of.A011.C>
+    <form>of</form>
+    <coordinates>A011</coordinates>
+    <cycle>C</cycle>
+    <name>First Sunday of Advent</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>10</order>
+    <gospel>Luke 21:25-28,34-36</gospel>
+    <lecture>Jer 33:14-16</lecture>
+    <epistle>1Thess 3:12-4:2</epistle>
+    <template></template>
+  </of.A011.C>
+  <of.A012.A>
+    <form>of</form>
+    <coordinates>A012</coordinates>
+    <cycle>A</cycle>
+    <name>Monday of the first week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>12</order>
+    <gospel>Matt 8:5-11</gospel>
+    <lecture>Isa 4:2-6</lecture>
+    <epistle />
+    <template></template>
+  </of.A012.A>
+  <of.A012.B>
+    <form>of</form>
+    <coordinates>A012</coordinates>
+    <cycle>B</cycle>
+    <name>Monday of the first week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>12</order>
+    <gospel>Matt 8:5-11</gospel>
+    <lecture>Isa 2:1-5</lecture>
+    <epistle />
+    <template></template>
+  </of.A012.B>
+  <of.A012.C>
+    <form>of</form>
+    <coordinates>A012</coordinates>
+    <cycle>C</cycle>
+    <name>Monday of the first week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>12</order>
+    <gospel>Matt 8:5-11</gospel>
+    <lecture>Isa 2:1-5</lecture>
+    <epistle />
+    <template></template>
+  </of.A012.C>
+  <of.A013.ABC>
+    <form>of</form>
+    <coordinates>A013</coordinates>
+    <cycle>ABC</cycle>
+    <name>Tuesday of the first week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>13</order>
+    <gospel>Luke 10:21-24</gospel>
+    <lecture>Isa 11:1-10</lecture>
+    <epistle />
+    <template></template>
+  </of.A013.ABC>
+  <of.A014.ABC>
+    <form>of</form>
+    <coordinates>A014</coordinates>
+    <cycle>ABC</cycle>
+    <name>Wednesday of the first week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>14</order>
+    <gospel>Matt 15:29-37</gospel>
+    <lecture>Isa 25:6-10</lecture>
+    <epistle />
+    <template></template>
+  </of.A014.ABC>
+  <of.A015.ABC>
+    <form>of</form>
+    <coordinates>A015</coordinates>
+    <cycle>ABC</cycle>
+    <name>Thursday of the first week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>15</order>
+    <gospel>Matt 7:21,24-27</gospel>
+    <lecture>Isa 26:1-6</lecture>
+    <epistle />
+    <template></template>
+  </of.A015.ABC>
+  <of.A016.ABC>
+    <form>of</form>
+    <coordinates>A016</coordinates>
+    <cycle>ABC</cycle>
+    <name>Friday of the first week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>16</order>
+    <gospel>Matt 9:27-31</gospel>
+    <lecture>Isa 29:17-24</lecture>
+    <epistle />
+    <template></template>
+  </of.A016.ABC>
+  <of.A017.ABC>
+    <form>of</form>
+    <coordinates>A017</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saturday of the first week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>17</order>
+    <gospel>Matt 9:35-10:1,5-8</gospel>
+    <lecture>Isa 30:19-21,23-26</lecture>
+    <epistle />
+    <template></template>
+  </of.A017.ABC>
+  <eo.A021>
+    <form>eo</form>
+    <coordinates>A021</coordinates>
+    <cycle />
+    <name>Second Sunday of Advent</name>
+    <category>sundayi</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>20</order>
+    <gospel>Matt 11:2-10</gospel>
+    <lecture />
+    <epistle>Rom 15:3-13</epistle>
+    <template>2022-12-04</template>
+  </eo.A021>
+  <of.A021.A>
+    <form>of</form>
+    <coordinates>A021</coordinates>
+    <cycle>A</cycle>
+    <name>Second Sunday of Advent</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>20</order>
+    <gospel>Matt 3:1-12</gospel>
+    <lecture>Isa 11:1-10</lecture>
+    <epistle>Rom 15:3-9</epistle>
+    <template></template>
+  </of.A021.A>
+  <of.A021.B>
+    <form>of</form>
+    <coordinates>A021</coordinates>
+    <cycle>B</cycle>
+    <name>Second Sunday of Advent</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>20</order>
+    <gospel>Mark 1:1-8</gospel>
+    <lecture>Isa 40:1-5,9-11</lecture>
+    <epistle>2Pet 3:8-14</epistle>
+    <template></template>
+  </of.A021.B>
+  <of.A021.C>
+    <form>of</form>
+    <coordinates>A021</coordinates>
+    <cycle>C</cycle>
+    <name>Second Sunday of Advent</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>20</order>
+    <gospel>Luke 3:1-6</gospel>
+    <lecture>Bar 5:1-9</lecture>
+    <epistle>Phil 1:4-6,8-11</epistle>
+    <template></template>
+  </of.A021.C>
+  <of.A022.ABC>
+    <form>of</form>
+    <coordinates>A022</coordinates>
+    <cycle>ABC</cycle>
+    <name>Monday of the second week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>22</order>
+    <gospel>Luke 5:17-26</gospel>
+    <lecture>Isa 35:1-10</lecture>
+    <epistle />
+    <template></template>
+  </of.A022.ABC>
+  <of.A023.ABC>
+    <form>of</form>
+    <coordinates>A023</coordinates>
+    <cycle>ABC</cycle>
+    <name>Tuesday of the second week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>23</order>
+    <gospel>Matt 18:12-14</gospel>
+    <lecture>Isa 40:1-11</lecture>
+    <epistle />
+    <template></template>
+  </of.A023.ABC>
+  <of.A024.ABC>
+    <form>of</form>
+    <coordinates>A024</coordinates>
+    <cycle>ABC</cycle>
+    <name>Wednesday of the second week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>24</order>
+    <gospel>Matt 11:28-30</gospel>
+    <lecture>Isa 40:25-31</lecture>
+    <epistle />
+    <template></template>
+  </of.A024.ABC>
+  <of.A025.ABC>
+    <form>of</form>
+    <coordinates>A025</coordinates>
+    <cycle>ABC</cycle>
+    <name>Thursday of the second week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>25</order>
+    <gospel>Matt 11:11-15</gospel>
+    <lecture>Isa 41:13-20</lecture>
+    <epistle />
+    <template></template>
+  </of.A025.ABC>
+  <of.A026.ABC>
+    <form>of</form>
+    <coordinates>A026</coordinates>
+    <cycle>ABC</cycle>
+    <name>Friday of the second week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>26</order>
+    <gospel>Matt 11:16-19</gospel>
+    <lecture>Isa 48:17-19</lecture>
+    <epistle />
+    <template></template>
+  </of.A026.ABC>
+  <of.A027.ABC>
+    <form>of</form>
+    <coordinates>A027</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saturday of the second week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>27</order>
+    <gospel>Matt 17:9-13</gospel>
+    <lecture>Sir 48:1-4,9-11</lecture>
+    <epistle />
+    <template></template>
+  </of.A027.ABC>
+  <eo.A031>
+    <form>eo</form>
+    <coordinates>A031</coordinates>
+    <cycle />
+    <name>Third Sunday of Advent</name>
+    <category>sundayi</category>
+    <color>rose</color>
+    <season>Advent</season>
+    <order>30</order>
+    <gospel>John 1:19-28</gospel>
+    <lecture />
+    <epistle>Phil 4:4-7</epistle>
+    <template>2022-12-11</template>
+  </eo.A031>
+  <of.A031.A>
+    <form>of</form>
+    <coordinates>A031</coordinates>
+    <cycle>A</cycle>
+    <name>Third Sunday of Advent</name>
+    <category>sunday</category>
+    <color>rose</color>
+    <season>Advent</season>
+    <order>30</order>
+    <gospel>Matt 11:2-11</gospel>
+    <lecture>Isa 35:1-6a,10</lecture>
+    <epistle>Jas 5:7-10</epistle>
+    <template></template>
+  </of.A031.A>
+  <of.A031.B>
+    <form>of</form>
+    <coordinates>A031</coordinates>
+    <cycle>B</cycle>
+    <name>Third Sunday of Advent</name>
+    <category>sunday</category>
+    <color>rose</color>
+    <season>Advent</season>
+    <order>30</order>
+    <gospel>John 1:6-8,19-28</gospel>
+    <lecture>Isa 61:1-2a,10-11</lecture>
+    <epistle>1Thess 5:16-24</epistle>
+    <template></template>
+  </of.A031.B>
+  <of.A031.C>
+    <form>of</form>
+    <coordinates>A031</coordinates>
+    <cycle>C</cycle>
+    <name>Third Sunday of Advent</name>
+    <category>sunday</category>
+    <color>rose</color>
+    <season>Advent</season>
+    <order>30</order>
+    <gospel>Luke 3:10-18</gospel>
+    <lecture>Zeph 3:14-18a</lecture>
+    <epistle>Phil 4:4-7</epistle>
+    <template></template>
+  </of.A031.C>
+  <of.A032.ABC>
+    <form>of</form>
+    <coordinates>A032</coordinates>
+    <cycle>ABC</cycle>
+    <name>Monday of the third week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>32</order>
+    <gospel>Matt 21:23-27</gospel>
+    <lecture>Num 24:2-7,15-17</lecture>
+    <epistle />
+    <template></template>
+  </of.A032.ABC>
+  <of.A033.ABC>
+    <form>of</form>
+    <coordinates>A033</coordinates>
+    <cycle>ABC</cycle>
+    <name>Tuesday of the third week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>33</order>
+    <gospel>Matt 21:28-32</gospel>
+    <lecture>Zeph 3:1-2,9-13</lecture>
+    <epistle />
+    <template></template>
+  </of.A033.ABC>
+  <eo.A034>
+    <form>eo</form>
+    <coordinates>A034</coordinates>
+    <cycle />
+    <name>Ember Wednesday in Advent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>34</order>
+    <gospel>Luke 1:26-38</gospel>
+    <lecture />
+    <epistle>Isa 2:2-5|Isa 7:10-15</epistle>
+    <template>2022-12-14</template>
+  </eo.A034>
+  <of.A034.ABC>
+    <form>of</form>
+    <coordinates>A034</coordinates>
+    <cycle>ABC</cycle>
+    <name>Wednesday of the third week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>34</order>
+    <gospel>Luke 7:18-23</gospel>
+    <lecture>Isa 45:6-8,18,21-25</lecture>
+    <epistle />
+    <template></template>
+  </of.A034.ABC>
+  <of.A035.ABC>
+    <form>of</form>
+    <coordinates>A035</coordinates>
+    <cycle>ABC</cycle>
+    <name>Thursday of the third week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>35</order>
+    <gospel>Luke 7:24-30</gospel>
+    <lecture>Isa 54:1-10</lecture>
+    <epistle />
+    <template></template>
+  </of.A035.ABC>
+  <eo.A036>
+    <form>eo</form>
+    <coordinates>A036</coordinates>
+    <cycle />
+    <name>Ember Friday in Advent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>36</order>
+    <gospel>Luke 1:39-47</gospel>
+    <lecture />
+    <epistle>Isa 11:1-5</epistle>
+    <template>2022-12-16</template>
+  </eo.A036>
+  <of.A036.ABC>
+    <form>of</form>
+    <coordinates>A036</coordinates>
+    <cycle>ABC</cycle>
+    <name>Friday of the third week of Advent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>36</order>
+    <gospel>John 5:33-36</gospel>
+    <lecture>Isa 56:1-3,6-8</lecture>
+    <epistle />
+    <template></template>
+  </of.A036.ABC>
+  <eo.A037>
+    <form>eo</form>
+    <coordinates>A037</coordinates>
+    <cycle />
+    <name>Ember Saturday in Advent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>37</order>
+    <gospel>Luke 3:1-6</gospel>
+    <lecture />
+    <epistle>Isa 19:20-22|Isa 35:1-7|Isa 40:9-11|Isa 45:1-8|Dan 3:47-51,52-56|2Thess 2:1-8</epistle>
+    <template>2022-12-17</template>
+  </eo.A037>
+  <eo.A041>
+    <form>eo</form>
+    <coordinates>A041</coordinates>
+    <cycle />
+    <name>Fourth Sunday of Advent</name>
+    <category>sundayi</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>40</order>
+    <gospel>Luke 3:1-6</gospel>
+    <lecture />
+    <epistle>1Cor 4:1-5</epistle>
+    <template>2022-12-18</template>
+  </eo.A041>
+  <of.A041.A>
+    <form>of</form>
+    <coordinates>A041</coordinates>
+    <cycle>A</cycle>
+    <name>Fourth Sunday of Advent</name>
+    <category>solemnity</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>40</order>
+    <gospel>Matt 1:18-24</gospel>
+    <lecture>Isa 7:10-14</lecture>
+    <epistle>Rom 1:1-7</epistle>
+    <template></template>
+  </of.A041.A>
+  <of.A041.B>
+    <form>of</form>
+    <coordinates>A041</coordinates>
+    <cycle>B</cycle>
+    <name>Fourth Sunday of Advent</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>40</order>
+    <gospel>Luke 1:26-38</gospel>
+    <lecture>2Sam 7:1-5,8b-12,14a,16</lecture>
+    <epistle>Rom 16:25-27</epistle>
+    <template></template>
+  </of.A041.B>
+  <of.A041.C>
+    <form>of</form>
+    <coordinates>A041</coordinates>
+    <cycle>C</cycle>
+    <name>Fourth Sunday of Advent</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>40</order>
+    <gospel>Luke 1:39-45</gospel>
+    <lecture>Mic 5:1-4a</lecture>
+    <epistle>Heb 10:5-10</epistle>
+    <template></template>
+  </of.A041.C>
+  <of.A047.B>
+    <form>of</form>
+    <coordinates>A047</coordinates>
+    <cycle>B</cycle>
+    <name>Zaterdag in de vierde week van de Advent</name>
+    <category>seasonal weekday</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>47</order>
+    <gospel>Luke 1:67-79</gospel>
+    <lecture />
+    <epistle />
+    <template></template>
+  </of.A047.B>
+  <eo.Z1224>
+    <form>eo</form>
+    <coordinates>Z1224</coordinates>
+    <cycle />
+    <name>Vigil of Christmas</name>
+    <category>vigili</category>
+    <color>violet</color>
+    <season>Christmastide</season>
+    <order>50</order>
+    <gospel>Matt 1:18-21</gospel>
+    <lecture />
+    <epistle>Rom 1:1-6</epistle>
+    <template>2022-12-24</template>
+  </eo.Z1224>
+  <eo.Z1225_1>
+    <form>eo</form>
+    <coordinates>Z1225+1</coordinates>
+    <cycle />
+    <name>Heilige Kerstnacht: Nachtmis</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>60</order>
+    <gospel>Luke 2:1-14</gospel>
+    <lecture />
+    <epistle>Titus 2:11-15</epistle>
+    <template>2022-12-25</template>
+  </eo.Z1225_1>
+  <eo.Z1225_2>
+    <form>eo</form>
+    <coordinates>Z1225+2</coordinates>
+    <cycle />
+    <name>Kerstdag: Dageraadsmis</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>70</order>
+    <gospel>Luke 2:15-20</gospel>
+    <lecture />
+    <epistle>Titus 3:4-7</epistle>
+    <template>2022-12-25</template>
+  </eo.Z1225_2>
+  <eo.Z1225_3>
+    <form>eo</form>
+    <coordinates>Z1225+3</coordinates>
+    <cycle />
+    <name>Kerstmis: Dagmis</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>80</order>
+    <gospel>John 1:1-18</gospel>
+    <lecture />
+    <epistle>Heb 1:1-12</epistle>
+    <template>2022-12-25</template>
+  </eo.Z1225_3>
+  <eo.Z1226>
+    <form>eo</form>
+    <coordinates>Z1226</coordinates>
+    <cycle />
+    <name>H. Stefanus, martelaar</name>
+    <category>feastii</category>
+    <color>red</color>
+    <season>Christmastide</season>
+    <order>90</order>
+    <gospel>Matt 23:34-39</gospel>
+    <lecture />
+    <epistle>Acts 6:8-10,7:54-60</epistle>
+    <template>2022-12-26</template>
+  </eo.Z1226>
+  <eo.Z1227>
+    <form>eo</form>
+    <coordinates>Z1227</coordinates>
+    <cycle />
+    <name>H. Johannes, apostel en evangelist</name>
+    <category>feastii</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>100</order>
+    <gospel>John 21:19-24</gospel>
+    <lecture />
+    <epistle>Sir 15:1-6</epistle>
+    <template>2022-12-27</template>
+  </eo.Z1227>
+  <eo.Z1228>
+    <form>eo</form>
+    <coordinates>Z1228</coordinates>
+    <cycle />
+    <name>HH. Onnozele Kinderen, martelaren</name>
+    <category>feastii</category>
+    <color>red</color>
+    <season>Christmastide</season>
+    <order>105</order>
+    <gospel>Matt 2:13-18</gospel>
+    <lecture />
+    <epistle>Rev 14:1-5</epistle>
+    <template>2022-12-28</template>
+  </eo.Z1228>
+  <eo.C1>
+    <form>eo</form>
+    <coordinates>C1</coordinates>
+    <cycle />
+    <name>Sunday in the Octave of Christmas</name>
+    <category>sundayii</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>110</order>
+    <gospel>Luke 2:33-40</gospel>
+    <lecture />
+    <epistle>Gal 4:1-7</epistle>
+    <template>2023-01-01</template>
+  </eo.C1>
+  <of.BAP.A>
+    <form>of</form>
+    <coordinates>BAP</coordinates>
+    <cycle>A</cycle>
+    <name>Doop van de Heer</name>
+    <category>feast</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>170</order>
+    <gospel>Matt 3:13-17</gospel>
+    <lecture>Isa 42:1-4,6-7</lecture>
+    <epistle>Acts 10:34-38</epistle>
+    <template></template>
+  </of.BAP.A>
+  <of.BAP.B>
+    <form>of</form>
+    <coordinates>BAP</coordinates>
+    <cycle>B</cycle>
+    <name>Doop van de Heer</name>
+    <category>feast</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>170</order>
+    <gospel>Mark 1:7-11</gospel>
+    <lecture>Isa 55:1-11</lecture>
+    <epistle>1John 5:1-9</epistle>
+    <template></template>
+  </of.BAP.B>
+  <of.BAP.C>
+    <form>of</form>
+    <coordinates>BAP</coordinates>
+    <cycle>C</cycle>
+    <name>Doop van de Heer</name>
+    <category>feast</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>170</order>
+    <gospel>Luke 3:15-16,21-22</gospel>
+    <lecture>Isa 40:1-5,9-11</lecture>
+    <epistle>Titus 2:11-14,3:4-7</epistle>
+    <template></template>
+  </of.BAP.C>
+  <of.C1.ABC>
+    <form>of</form>
+    <coordinates>C1</coordinates>
+    <cycle>ABC</cycle>
+    <name>Tweede zondag na Kerstmis</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>150</order>
+    <gospel>John 1:1-18</gospel>
+    <lecture />
+    <epistle />
+    <template></template>
+  </of.C1.ABC>
+  <of.D1217.ABC>
+    <form>of</form>
+    <coordinates>D1217</coordinates>
+    <cycle>ABC</cycle>
+    <name>December 17th</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>45</order>
+    <gospel>Matt 1:1-17</gospel>
+    <lecture>Gen 49:2,8-10</lecture>
+    <epistle />
+    <template></template>
+  </of.D1217.ABC>
+  <of.D1218.ABC>
+    <form>of</form>
+    <coordinates>D1218</coordinates>
+    <cycle>ABC</cycle>
+    <name>December 18th</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>45</order>
+    <gospel>Matt 1:18-24</gospel>
+    <lecture>Jer 23:5-8</lecture>
+    <epistle />
+    <template></template>
+  </of.D1218.ABC>
+  <of.D1219.ABC>
+    <form>of</form>
+    <coordinates>D1219</coordinates>
+    <cycle>ABC</cycle>
+    <name>December 19th</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>45</order>
+    <gospel>Luke 1:5-25</gospel>
+    <lecture>Judg 13:2-7,24-25</lecture>
+    <epistle />
+    <template></template>
+  </of.D1219.ABC>
+  <of.D1220.ABC>
+    <form>of</form>
+    <coordinates>D1220</coordinates>
+    <cycle>ABC</cycle>
+    <name>December 20th</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>45</order>
+    <gospel>Luke 1:26-38</gospel>
+    <lecture>Isa 7:10-14</lecture>
+    <epistle />
+    <template></template>
+  </of.D1220.ABC>
+  <of.D1221.ABC>
+    <form>of</form>
+    <coordinates>D1221</coordinates>
+    <cycle>ABC</cycle>
+    <name>December 21st</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>45</order>
+    <gospel>Luke 1:39-45</gospel>
+    <lecture>Song 2:8-14|Zeph 3:14-18</lecture>
+    <epistle />
+    <template></template>
+  </of.D1221.ABC>
+  <of.D1222.ABC>
+    <form>of</form>
+    <coordinates>D1222</coordinates>
+    <cycle>ABC</cycle>
+    <name>December 22nd</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>45</order>
+    <gospel>Luke 1:46-56</gospel>
+    <lecture>1Sam 1:24-28</lecture>
+    <epistle />
+    <template></template>
+  </of.D1222.ABC>
+  <of.D1223.ABC>
+    <form>of</form>
+    <coordinates>D1223</coordinates>
+    <cycle>ABC</cycle>
+    <name>December 23rd</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>45</order>
+    <gospel>Luke 1:57-66</gospel>
+    <lecture>Mal 3:1-4,23-24</lecture>
+    <epistle />
+    <template></template>
+  </of.D1223.ABC>
+  <of.D1224.ABC>
+    <form>of</form>
+    <coordinates>D1224</coordinates>
+    <cycle>ABC</cycle>
+    <name>December 24th (morning mass)</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Advent</season>
+    <order>45</order>
+    <gospel>Luke 1:67-79</gospel>
+    <lecture>2Sam 7:1-5,8-12,14,16</lecture>
+    <epistle />
+    <template></template>
+  </of.D1224.ABC>
+  <eo.Z0101>
+    <form>eo</form>
+    <coordinates>Z0101</coordinates>
+    <cycle />
+    <name>Octave day of Christmas</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>130</order>
+    <gospel>Luke 2:21</gospel>
+    <lecture />
+    <epistle>Titus 2:11-15</epistle>
+    <template>2023-01-01</template>
+  </eo.Z0101>
+  <eo.HNJ>
+    <form>eo</form>
+    <coordinates>HNJ</coordinates>
+    <cycle />
+    <name>Feast of the Holy Name of Jesus</name>
+    <category>sundayii</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>150</order>
+    <gospel>Luke 2:21</gospel>
+    <lecture />
+    <epistle>Acts 4:8-12</epistle>
+    <template>2023-01-02</template>
+  </eo.HNJ>
+  <eo.Z0106>
+    <form>eo</form>
+    <coordinates>Z0106</coordinates>
+    <cycle />
+    <name>Epiphany</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>160</order>
+    <gospel>Matt 2:1-12</gospel>
+    <lecture />
+    <epistle>Isa 60:1-6</epistle>
+    <template>2023-01-06</template>
+  </eo.Z0106>
+  <eo.E011>
+    <form>eo</form>
+    <coordinates>E011</coordinates>
+    <cycle />
+    <name>Holy Family</name>
+    <category>feastii</category>
+    <color>white</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 2:42-52</gospel>
+    <lecture />
+    <epistle>Col 3:12-17</epistle>
+    <template>2023-01-08</template>
+  </eo.E011>
+  <eo.Z0113>
+    <form>eo</form>
+    <coordinates>Z0113</coordinates>
+    <cycle />
+    <name>Baptism of the Lord</name>
+    <category>feastii</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>John 1:29-34</gospel>
+    <lecture />
+    <epistle>Isa 60:1-6</epistle>
+    <template>2023-01-09</template>
+  </eo.Z0113>
+  <eo.E021>
+    <form>eo</form>
+    <coordinates>E021</coordinates>
+    <cycle />
+    <name>Second Sunday after Epiphany</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>John 2:1-11</gospel>
+    <lecture />
+    <epistle>Rom 12:6-16</epistle>
+    <template>2023-01-15</template>
+  </eo.E021>
+  <eo.E031>
+    <form>eo</form>
+    <coordinates>E031</coordinates>
+    <cycle />
+    <name>Third Sunday after Epiphany</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 8:1-13</gospel>
+    <lecture />
+    <epistle>Rom 12:15-21</epistle>
+    <template>2023-01-22</template>
+  </eo.E031>
+  <eo.E041>
+    <form>eo</form>
+    <coordinates>E041</coordinates>
+    <cycle />
+    <name>Fourth Sunday after Epiphany</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 8:23-27</gospel>
+    <lecture />
+    <epistle>Rom 13:8-10</epistle>
+    <template>2023-01-29</template>
+  </eo.E041>
+  <eo.E051>
+    <form>eo</form>
+    <coordinates>E051</coordinates>
+    <cycle />
+    <name>Fifth Sunday after Epiphany</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 13:24-30</gospel>
+    <lecture />
+    <epistle>Col 3:12-17</epistle>
+    <template></template>
+  </eo.E051>
+  <eo.E061>
+    <form>eo</form>
+    <coordinates>E061</coordinates>
+    <cycle />
+    <name>Sixth Sunday after Epiphany</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 13:31-35</gospel>
+    <lecture />
+    <epistle>1Thess 1:2-10</epistle>
+    <template></template>
+  </eo.E061>
+  <of.EPI.ABC>
+    <form>of</form>
+    <coordinates>EPI</coordinates>
+    <cycle>ABC</cycle>
+    <name>Openbaring des Heren</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>160</order>
+    <gospel>Matt 2:1-12</gospel>
+    <lecture>Isa 60:1-6</lecture>
+    <epistle>Eph 3:2-3a,5-6</epistle>
+    <template></template>
+  </of.EPI.ABC>
+  <!--eo.F031>
+    <form>eo</form>
+    <coordinates>F031</coordinates>
+    <cycle />
+    <name>Third Sunday after Epiphany</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 8:1-13</gospel>
+    <lecture />
+    <epistle>Rom 12:15-21</epistle>
+    <template></template>
+  </eo.F031-->
+  <!--eo.F041>
+    <form>eo</form>
+    <coordinates>F041</coordinates>
+    <cycle />
+    <name>Fourth Sunday after Epiphany</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 8:23-27</gospel>
+    <lecture />
+    <epistle>Rom 13:8-10</epistle>
+    <template></template>
+  </eo.F041-->
+  <!--eo.F051>
+    <form>eo</form>
+    <coordinates>F051</coordinates>
+    <cycle />
+    <name>Fifth Sunday after Epiphany</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 13:24-30</gospel>
+    <lecture />
+    <epistle>Col 3:12-17</epistle>
+    <template></template>
+  </eo.F051-->
+  <!--eo.F061>
+    <form>eo</form>
+    <coordinates>F061</coordinates>
+    <cycle />
+    <name>Sixth Sunday after Epiphany</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 13:31-35</gospel>
+    <lecture />
+    <epistle>1Thess 1:2-10</epistle>
+    <template></template>
+  </eo.F061-->
+  <eo.G011>
+    <form>eo</form>
+    <coordinates>G011</coordinates>
+    <cycle />
+    <name>Septuagesima Sunday</name>
+    <category>sundayii</category>
+    <color>violet</color>
+    <season>Season of Septuagesima</season>
+    <order />
+    <gospel>Matt 20:1-16</gospel>
+    <lecture />
+    <epistle>1Cor 9:24-27,10:1-5a</epistle>
+    <template>2023-02-05</template>
+  </eo.G011>
+  <eo.G021>
+    <form>eo</form>
+    <coordinates>G021</coordinates>
+    <cycle />
+    <name>Sexagesima Sunday</name>
+    <category>sundayii</category>
+    <color>violet</color>
+    <season>Season of Septuagesima</season>
+    <order />
+    <gospel>Luke 8:4-15</gospel>
+    <lecture />
+    <epistle>2Cor 11:19-33,12:1-9</epistle>
+    <template>2023-02-12</template>
+  </eo.G021>
+  <eo.G031>
+    <form>eo</form>
+    <coordinates>G031</coordinates>
+    <cycle />
+    <name>Quinquagesima Sunday</name>
+    <category>sundayii</category>
+    <color>violet</color>
+    <season>Season of Septuagesima</season>
+    <order />
+    <gospel>Luke 18:31-43</gospel>
+    <lecture />
+    <epistle>1Cor 13:1-13</epistle>
+    <template>2023-02-19</template>
+  </eo.G031>
+  <of.HFA.A>
+    <form>of</form>
+    <coordinates>HFA</coordinates>
+    <cycle>A</cycle>
+    <name>H. Familie</name>
+    <category>feast</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>110</order>
+    <gospel>Matt 2:13-15,19-23</gospel>
+    <lecture>Sir 3:3-7,14-17</lecture>
+    <epistle>Col 3:12-21</epistle>
+    <template></template>
+  </of.HFA.A>
+  <of.HFA.B>
+    <form>of</form>
+    <coordinates>HFA</coordinates>
+    <cycle>B</cycle>
+    <name>H. Familie</name>
+    <category>feast</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>110</order>
+    <gospel>Luke 2:22-40</gospel>
+    <lecture>Gen 15:1-6,21:1-3</lecture>
+    <epistle>Heb 11:8,11-12,17-19</epistle>
+    <template></template>
+  </of.HFA.B>
+  <of.HFA.C>
+    <form>of</form>
+    <coordinates>HFA</coordinates>
+    <cycle>C</cycle>
+    <name>H. Familie</name>
+    <category>feast</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>110</order>
+    <gospel>Luke 2:41-52</gospel>
+    <lecture>1Sam 1:20-22,24-28</lecture>
+    <epistle>1John 3:1-2,21-24</epistle>
+    <template></template>
+  </of.HFA.C>
+  <eo.L004>
+    <form>eo</form>
+    <coordinates>L004</coordinates>
+    <cycle />
+    <name>Ash Wednesday</name>
+    <category>feriai</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 6:16-21</gospel>
+    <lecture />
+    <epistle>Joel 2:12-19</epistle>
+    <template>2023-02-22</template>
+  </eo.L004>
+  <of.L004.ABC>
+    <form>of</form>
+    <coordinates>L004</coordinates>
+    <cycle>ABC</cycle>
+    <name>Aswoensdag</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 6:1-6,16-18</gospel>
+    <lecture>Joel 2:12-18</lecture>
+    <epistle>2Cor 5:20-6:2</epistle>
+    <template></template>
+  </of.L004.ABC>
+  <eo.L005>
+    <form>eo</form>
+    <coordinates>L005</coordinates>
+    <cycle />
+    <name>Thursday after Ash Wednesday</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 8:5-13</gospel>
+    <lecture />
+    <epistle>Isa 38:1-6</epistle>
+    <template>2023-02-23</template>
+  </eo.L005>
+  <of.L005.ABC>
+    <form>of</form>
+    <coordinates>L005</coordinates>
+    <cycle>ABC</cycle>
+    <name>Thursday after Ash Wednesday</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 9:22-25</gospel>
+    <lecture>Deut 30:15-20</lecture>
+    <epistle />
+    <template></template>
+  </of.L005.ABC>
+  <eo.L006>
+    <form>eo</form>
+    <coordinates>L006</coordinates>
+    <cycle />
+    <name>Friday after Ash Wednesday</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 5:43-48,6:1-4</gospel>
+    <lecture />
+    <epistle>Isa 58:1-9</epistle>
+    <template>2023-02-24</template>
+  </eo.L006>
+  <of.L006.ABC>
+    <form>of</form>
+    <coordinates>L006</coordinates>
+    <cycle>ABC</cycle>
+    <name>Friday after Ash Wednesday</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 9:14-15</gospel>
+    <lecture>Isa 58:1-9a</lecture>
+    <epistle />
+    <template></template>
+  </of.L006.ABC>
+  <eo.L007>
+    <form>eo</form>
+    <coordinates>L007</coordinates>
+    <cycle />
+    <name>Saturday after Ash Wednesday</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Mark 6:47-56</gospel>
+    <lecture />
+    <epistle>Isa 58:9-14</epistle>
+    <template>2023-02-25</template>
+  </eo.L007>
+  <of.L007.ABC>
+    <form>of</form>
+    <coordinates>L007</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saturday after Ash Wednesday</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 5:27-32</gospel>
+    <lecture>Isa 58:9b-14</lecture>
+    <epistle />
+    <template></template>
+  </of.L007.ABC>
+  <eo.L011>
+    <form>eo</form>
+    <coordinates>L011</coordinates>
+    <cycle />
+    <name>First Sunday of Lent</name>
+    <category>sundayi</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 4:1-11</gospel>
+    <lecture />
+    <epistle>2Cor 6:1-10</epistle>
+    <template>2023-02-26</template>
+  </eo.L011>
+  <of.L011.A>
+    <form>of</form>
+    <coordinates>L011</coordinates>
+    <cycle>A</cycle>
+    <name>Eerste zondag van de Veertigdagentijd</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 4:1-11</gospel>
+    <lecture>Gen 2:7-9,3:1-7</lecture>
+    <epistle>Rom 5:12-19</epistle>
+    <template></template>
+  </of.L011.A>
+  <of.L011.B>
+    <form>of</form>
+    <coordinates>L011</coordinates>
+    <cycle>B</cycle>
+    <name>First Sunday of Lent</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Mark 1:12-15</gospel>
+    <lecture>Gen 9:8-15</lecture>
+    <epistle>1Pet 3:18-22</epistle>
+    <template></template>
+  </of.L011.B>
+  <of.L011.C>
+    <form>of</form>
+    <coordinates>L011</coordinates>
+    <cycle>C</cycle>
+    <name>EERSTE ZONDAG IN DE VEERTIGDAGENTIJD</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 4:1-13</gospel>
+    <lecture>Deut 26:4-10</lecture>
+    <epistle>Rom 10:8-13</epistle>
+    <template></template>
+  </of.L011.C>
+  <eo.L012>
+    <form>eo</form>
+    <coordinates>L012</coordinates>
+    <cycle />
+    <name>Monday after First Sunday of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 25:31-46</gospel>
+    <lecture />
+    <epistle>Ezek 34:11-16</epistle>
+    <template>2023-02-27</template>
+  </eo.L012>
+  <of.L012.ABC>
+    <form>of</form>
+    <coordinates>L012</coordinates>
+    <cycle>ABC</cycle>
+    <name>Monday of the first week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 25:31-46</gospel>
+    <lecture>Lev 19:1-2,11-18</lecture>
+    <epistle />
+    <template></template>
+  </of.L012.ABC>
+  <eo.L013>
+    <form>eo</form>
+    <coordinates>L013</coordinates>
+    <cycle />
+    <name>Tuesday after First Sunday of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 21:10-17</gospel>
+    <lecture />
+    <epistle>Isa 55:6-11</epistle>
+    <template>2023-02-28</template>
+  </eo.L013>
+  <of.L013.ABC>
+    <form>of</form>
+    <coordinates>L013</coordinates>
+    <cycle>ABC</cycle>
+    <name>Tuesday of the first week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 6:7-15</gospel>
+    <lecture>Isa 55:10-11</lecture>
+    <epistle />
+    <template></template>
+  </of.L013.ABC>
+  <eo.L014>
+    <form>eo</form>
+    <coordinates>L014</coordinates>
+    <cycle />
+    <name>Ember Wednesday in Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 12:38-50</gospel>
+    <lecture />
+    <epistle>Exod 24:12-18|1Kgs 19:3-8</epistle>
+    <template>2023-03-01</template>
+  </eo.L014>
+  <of.L014.ABC>
+    <form>of</form>
+    <coordinates>L014</coordinates>
+    <cycle>ABC</cycle>
+    <name>Wednesday of the first week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 11:29-32</gospel>
+    <lecture>Jonah 3:1-10</lecture>
+    <epistle />
+    <template></template>
+  </of.L014.ABC>
+  <eo.L015>
+    <form>eo</form>
+    <coordinates>L015</coordinates>
+    <cycle />
+    <name>Thursday after First Sunday of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 15:21-28</gospel>
+    <lecture />
+    <epistle>Ezek 18:1-9</epistle>
+    <template>2023-03-02</template>
+  </eo.L015>
+  <of.L015.ABC>
+    <form>of</form>
+    <coordinates>L015</coordinates>
+    <cycle>ABC</cycle>
+    <name>Thursday of the first week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 7:7-12</gospel>
+    <lecture />
+    <epistle />
+    <template></template>
+  </of.L015.ABC>
+  <eo.L016>
+    <form>eo</form>
+    <coordinates>L016</coordinates>
+    <cycle />
+    <name>Ember Friday in Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 5:1-15</gospel>
+    <lecture />
+    <epistle>Ezek 18:20-28</epistle>
+    <template>2023-03-03</template>
+  </eo.L016>
+  <of.L016.ABC>
+    <form>of</form>
+    <coordinates>L016</coordinates>
+    <cycle>ABC</cycle>
+    <name>Friday of the first week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 5:20-26</gospel>
+    <lecture>Ezek 18:21-28</lecture>
+    <epistle />
+    <template></template>
+  </of.L016.ABC>
+  <eo.L017>
+    <form>eo</form>
+    <coordinates>L017</coordinates>
+    <cycle />
+    <name>Ember Saturday in Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 17:1-9</gospel>
+    <lecture />
+    <epistle>Deut 26:12-19|Deut 11:22-25|2Macc 1:22-26,27|Sir 36:1-7|Dan 3:47-51,52-56|1Thess 5:14-23</epistle>
+    <template>2023-03-04</template>
+  </eo.L017>
+  <of.L017.ABC>
+    <form>of</form>
+    <coordinates>L017</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saturday of the first week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 5:43-48</gospel>
+    <lecture>Deut 26:16-19</lecture>
+    <epistle />
+    <template></template>
+  </of.L017.ABC>
+  <eo.L021>
+    <form>eo</form>
+    <coordinates>L021</coordinates>
+    <cycle />
+    <name>Second Sunday of Lent</name>
+    <category>sundayi</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 17:1-9</gospel>
+    <lecture />
+    <epistle>1Thess 4:1-7</epistle>
+    <template>2023-03-05</template>
+  </eo.L021>
+  <of.L021.A>
+    <form>of</form>
+    <coordinates>L021</coordinates>
+    <cycle>A</cycle>
+    <name>Tweede zondag van de Veertigdagentijd</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 17:1-9</gospel>
+    <lecture>Gen 12:1-4a</lecture>
+    <epistle>2Tim 1:8b-10</epistle>
+    <template></template>
+  </of.L021.A>
+  <of.L021.B>
+    <form>of</form>
+    <coordinates>L021</coordinates>
+    <cycle>B</cycle>
+    <name>Second Sunday of Lent</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Mark 9:2-10</gospel>
+    <lecture>Gen 22:1-2,9a,10-13,15-18</lecture>
+    <epistle>Rom 8:31b-34</epistle>
+    <template></template>
+  </of.L021.B>
+  <of.L021.C>
+    <form>of</form>
+    <coordinates>L021</coordinates>
+    <cycle>C</cycle>
+    <name>TWEEDE ZONDAG IN DE VEERTIGDAGENTIJD</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 9:28b-36</gospel>
+    <lecture>Gen 15:5-12,17-18</lecture>
+    <epistle>Phil 3:17-4:1</epistle>
+    <template></template>
+  </of.L021.C>
+  <eo.L022>
+    <form>eo</form>
+    <coordinates>L022</coordinates>
+    <cycle />
+    <name>Monday after second Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 8:21-29</gospel>
+    <lecture />
+    <epistle>Dan 9:15-19</epistle>
+    <template>2023-03-06</template>
+  </eo.L022>
+  <of.L022.ABC>
+    <form>of</form>
+    <coordinates>L022</coordinates>
+    <cycle>ABC</cycle>
+    <name>Monday of the second week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 6:36-38</gospel>
+    <lecture>Dan 9:4b-10</lecture>
+    <epistle />
+    <template></template>
+  </of.L022.ABC>
+  <eo.L023>
+    <form>eo</form>
+    <coordinates>L023</coordinates>
+    <cycle />
+    <name>Tuesday after second Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 23:1-12</gospel>
+    <lecture />
+    <epistle>1Kgs 17:8-16</epistle>
+    <template>2023-03-07</template>
+  </eo.L023>
+  <of.L023.ABC>
+    <form>of</form>
+    <coordinates>L023</coordinates>
+    <cycle>ABC</cycle>
+    <name>Tuesday of the second week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 23:1-12</gospel>
+    <lecture>Isa 1:10,16-20</lecture>
+    <epistle />
+    <template></template>
+  </of.L023.ABC>
+  <eo.L024>
+    <form>eo</form>
+    <coordinates>L024</coordinates>
+    <cycle />
+    <name>Wednesday after second Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 20:17-28</gospel>
+    <lecture />
+    <epistle>Esther 13:8-11, 15-17</epistle>
+    <template>2023-03-08</template>
+  </eo.L024>
+  <of.L024.ABC>
+    <form>of</form>
+    <coordinates>L024</coordinates>
+    <cycle>ABC</cycle>
+    <name>Wednesday of the second week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 20:17-28</gospel>
+    <lecture>Jer 18:18-20</lecture>
+    <epistle />
+    <template></template>
+  </of.L024.ABC>
+  <eo.L025>
+    <form>eo</form>
+    <coordinates>L025</coordinates>
+    <cycle />
+    <name>Thursday after second Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 16:19-31</gospel>
+    <lecture />
+    <epistle>Jer 17:5-10</epistle>
+    <template>2023-03-09</template>
+  </eo.L025>
+  <of.L025.ABC>
+    <form>of</form>
+    <coordinates>L025</coordinates>
+    <cycle>ABC</cycle>
+    <name>Thursday of the second week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 16:19-31</gospel>
+    <lecture>Jer 17:5-10</lecture>
+    <epistle />
+    <template></template>
+  </of.L025.ABC>
+  <eo.L026>
+    <form>eo</form>
+    <coordinates>L026</coordinates>
+    <cycle />
+    <name>Friday after second Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 21:33-46</gospel>
+    <lecture />
+    <epistle>Gen 37:6-22</epistle>
+    <template>2023-03-10</template>
+  </eo.L026>
+  <of.L026.ABC>
+    <form>of</form>
+    <coordinates>L026</coordinates>
+    <cycle>ABC</cycle>
+    <name>Friday of the second week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 21:33-43,45-46</gospel>
+    <lecture>Gen 37:3-4,12-13a,17b-28a</lecture>
+    <epistle />
+    <template></template>
+  </of.L026.ABC>
+  <eo.L027>
+    <form>eo</form>
+    <coordinates>L027</coordinates>
+    <cycle />
+    <name>Saturday after second Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 15:11-32</gospel>
+    <lecture />
+    <epistle>Gen 27:5-40</epistle>
+    <template>2023-03-11</template>
+  </eo.L027>
+  <of.L027.ABC>
+    <form>of</form>
+    <coordinates>L027</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saturday of the second week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 15:1-3,11-32</gospel>
+    <lecture>Mic 7:14-15,18-20</lecture>
+    <epistle />
+    <template></template>
+  </of.L027.ABC>
+  <eo.L031>
+    <form>eo</form>
+    <coordinates>L031</coordinates>
+    <cycle />
+    <name>Third Sunday of Lent</name>
+    <category>sundayi</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 11:14-28</gospel>
+    <lecture />
+    <epistle>Eph 5:1-9</epistle>
+    <template>2023-03-12</template>
+  </eo.L031>
+  <of.L031.A>
+    <form>of</form>
+    <coordinates>L031</coordinates>
+    <cycle>A</cycle>
+    <name>Derde zondag van de Veertigdagentijd</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 4:4-42</gospel>
+    <lecture>Exod 17:3-7</lecture>
+    <epistle>Rom 5:1-2,5-8</epistle>
+    <template></template>
+  </of.L031.A>
+  <of.L031.B>
+    <form>of</form>
+    <coordinates>L031</coordinates>
+    <cycle>B</cycle>
+    <name>Third Sunday of Lent</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 2:13-25</gospel>
+    <lecture>Exod 20:1-17</lecture>
+    <epistle>1Cor 1:22-25</epistle>
+    <template></template>
+  </of.L031.B>
+  <of.L031.C>
+    <form>of</form>
+    <coordinates>L031</coordinates>
+    <cycle>C</cycle>
+    <name>DERDE ZONDAG IN DE VEERTIGDAGENTIJD</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 13:1-9</gospel>
+    <lecture>Exod 3:1-8a,13-15</lecture>
+    <epistle>1Cor 10:1-6,10-12</epistle>
+    <template></template>
+  </of.L031.C>
+  <eo.L032>
+    <form>eo</form>
+    <coordinates>L032</coordinates>
+    <cycle />
+    <name>Monday after third Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 4:23-30</gospel>
+    <lecture />
+    <epistle>2Kgs 5:1-15</epistle>
+    <template>2023-03-13</template>
+  </eo.L032>
+  <of.L032.ABC>
+    <form>of</form>
+    <coordinates>L032</coordinates>
+    <cycle>ABC</cycle>
+    <name>Monday of the third week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 4:24-30</gospel>
+    <lecture>2Kgs 5:1-15a</lecture>
+    <epistle />
+    <template></template>
+  </of.L032.ABC>
+  <eo.L033>
+    <form>eo</form>
+    <coordinates>L033</coordinates>
+    <cycle />
+    <name>Tuesday after third Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 18:15-22</gospel>
+    <lecture />
+    <epistle>2Kgs 4:1-7</epistle>
+    <template>2023-03-14</template>
+  </eo.L033>
+  <of.L033.ABC>
+    <form>of</form>
+    <coordinates>L033</coordinates>
+    <cycle>ABC</cycle>
+    <name>Tuesday of the third week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 18:21-35</gospel>
+    <lecture>Dan 3:25,34-43</lecture>
+    <epistle />
+    <template></template>
+  </of.L033.ABC>
+  <eo.L034>
+    <form>eo</form>
+    <coordinates>L034</coordinates>
+    <cycle />
+    <name>Wednesday after third Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 15:1-20</gospel>
+    <lecture />
+    <epistle>Exod 20:12-24</epistle>
+    <template>2023-03-15</template>
+  </eo.L034>
+  <of.L034.ABC>
+    <form>of</form>
+    <coordinates>L034</coordinates>
+    <cycle>ABC</cycle>
+    <name>Wednesday of the third week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 5:17-19</gospel>
+    <lecture>Deut 4:1,5-9</lecture>
+    <epistle />
+    <template></template>
+  </of.L034.ABC>
+  <eo.L035>
+    <form>eo</form>
+    <coordinates>L035</coordinates>
+    <cycle />
+    <name>Thursday after third Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 4:38-44</gospel>
+    <lecture />
+    <epistle>Jer 7:1-7</epistle>
+    <template>2023-03-16</template>
+  </eo.L035>
+  <of.L035.ABC>
+    <form>of</form>
+    <coordinates>L035</coordinates>
+    <cycle>ABC</cycle>
+    <name>Thursday of the third week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 11:14-23</gospel>
+    <lecture>Jer 7:23-28</lecture>
+    <epistle />
+    <template></template>
+  </of.L035.ABC>
+  <eo.L036>
+    <form>eo</form>
+    <coordinates>L036</coordinates>
+    <cycle />
+    <name>Friday after third Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 4:4-42</gospel>
+    <lecture />
+    <epistle>Num 20:1-3,6-13</epistle>
+    <template>2023-03-17</template>
+  </eo.L036>
+  <of.L036.ABC>
+    <form>of</form>
+    <coordinates>L036</coordinates>
+    <cycle>ABC</cycle>
+    <name>Friday of the third week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Mark 12:28b-34</gospel>
+    <lecture>Hos 14:2-10</lecture>
+    <epistle />
+    <template></template>
+  </of.L036.ABC>
+  <eo.L037>
+    <form>eo</form>
+    <coordinates>L037</coordinates>
+    <cycle />
+    <name>Saturday after third Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 8:1-11</gospel>
+    <lecture />
+    <epistle>Dan 13:1-9,15-17,19-30,33-62</epistle>
+    <template>2023-03-18</template>
+  </eo.L037>
+  <of.L037.ABC>
+    <form>of</form>
+    <coordinates>L037</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saturday of the third week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 18:9-14</gospel>
+    <lecture>Hos 6:1-6</lecture>
+    <epistle />
+    <template></template>
+  </of.L037.ABC>
+  <eo.L041>
+    <form>eo</form>
+    <coordinates>L041</coordinates>
+    <cycle />
+    <name>Fourth Sunday of Lent</name>
+    <category>sundayi</category>
+    <color>rose</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 6:1-15</gospel>
+    <lecture />
+    <epistle>Gal 4:22-31</epistle>
+    <template>2023-03-19</template>
+  </eo.L041>
+  <of.L041.A>
+    <form>of</form>
+    <coordinates>L041</coordinates>
+    <cycle>A</cycle>
+    <name>Vierde zondag van de Veertigdagentijd</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 9:1-41</gospel>
+    <lecture>1Sam 16:1b,6-7,10-13a</lecture>
+    <epistle>Eph 5:8-14</epistle>
+    <template></template>
+  </of.L041.A>
+  <of.L041.B>
+    <form>of</form>
+    <coordinates>L041</coordinates>
+    <cycle>B</cycle>
+    <name>Fourth Sunday of Lent</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 3:14-21</gospel>
+    <lecture>2Chr 36:14-16,19-23</lecture>
+    <epistle>Eph 2:4-10</epistle>
+    <template></template>
+  </of.L041.B>
+  <of.L041.C>
+    <form>of</form>
+    <coordinates>L041</coordinates>
+    <cycle>C</cycle>
+    <name>VIERDE ZONDAG IN DE VEERTIGDAGENTIJD</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 15:1-3,11-32</gospel>
+    <lecture>Josh 5:9a,10-12</lecture>
+    <epistle>2Cor 5:17-21</epistle>
+    <template></template>
+  </of.L041.C>
+  <eo.L042>
+    <form>eo</form>
+    <coordinates>L042</coordinates>
+    <cycle />
+    <name>Monday after fourth Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 2:13-25</gospel>
+    <lecture />
+    <epistle>1Kon 3:16-28</epistle>
+    <template>2023-03-20</template>
+  </eo.L042>
+  <of.L042.ABC>
+    <form>of</form>
+    <coordinates>L042</coordinates>
+    <cycle>ABC</cycle>
+    <name>Monday of the fourth week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 4:43-54</gospel>
+    <lecture>Isa 65:17-21</lecture>
+    <epistle />
+    <template></template>
+  </of.L042.ABC>
+  <eo.L043>
+    <form>eo</form>
+    <coordinates>L043</coordinates>
+    <cycle />
+    <name>Tuesday after fourth Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 7:14-31</gospel>
+    <lecture />
+    <epistle>Exod 32:7-14</epistle>
+    <template>2023-03-21</template>
+  </eo.L043>
+  <of.L043.ABC>
+    <form>of</form>
+    <coordinates>L043</coordinates>
+    <cycle>ABC</cycle>
+    <name>Tuesday of the fourth week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 5:1-3a,5-16</gospel>
+    <lecture>Ezek 47:1-9,12</lecture>
+    <epistle />
+    <template></template>
+  </of.L043.ABC>
+  <eo.L044>
+    <form>eo</form>
+    <coordinates>L044</coordinates>
+    <cycle />
+    <name>Wednesday after fourth Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 9:1-38</gospel>
+    <lecture />
+    <epistle>Ezek 36:23-28|Isa 1:16-19</epistle>
+    <template>2023-03-22</template>
+  </eo.L044>
+  <of.L044.ABC>
+    <form>of</form>
+    <coordinates>L044</coordinates>
+    <cycle>ABC</cycle>
+    <name>Wednesday of the fourth week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 5:17-30</gospel>
+    <lecture>Isa 49:8-15</lecture>
+    <epistle />
+    <template></template>
+  </of.L044.ABC>
+  <eo.L045>
+    <form>eo</form>
+    <coordinates>L045</coordinates>
+    <cycle />
+    <name>Thursday after fourth Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 7:11-16</gospel>
+    <lecture />
+    <epistle>2Kgs 4:25-37</epistle>
+    <template>2023-03-23</template>
+  </eo.L045>
+  <of.L045.ABC>
+    <form>of</form>
+    <coordinates>L045</coordinates>
+    <cycle>ABC</cycle>
+    <name>Thursday of the fourth week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 5:31-47</gospel>
+    <lecture>Exod 32:7-14</lecture>
+    <epistle />
+    <template></template>
+  </of.L045.ABC>
+  <eo.L046>
+    <form>eo</form>
+    <coordinates>L046</coordinates>
+    <cycle />
+    <name>Friday after fourth Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 11:1-45</gospel>
+    <lecture />
+    <epistle>1Kgs 17:17-24</epistle>
+    <template>2023-03-24</template>
+  </eo.L046>
+  <of.L046.ABC>
+    <form>of</form>
+    <coordinates>L046</coordinates>
+    <cycle>ABC</cycle>
+    <name>Friday of the fourth week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 7:1-2,10,25-30</gospel>
+    <lecture>Wis 2:1a,12-22</lecture>
+    <epistle />
+    <template></template>
+  </of.L046.ABC>
+  <eo.L047>
+    <form>eo</form>
+    <coordinates>L047</coordinates>
+    <cycle />
+    <name>Saturday after fourth Sunday of Lent</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 8:12-20</gospel>
+    <lecture />
+    <epistle>Isa 49:8-15</epistle>
+    <template>2023-03-25</template>
+  </eo.L047>
+  <of.L047.ABC>
+    <form>of</form>
+    <coordinates>L047</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saturday of the fourth week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 7:40-53</gospel>
+    <lecture>Jer 11:18-20</lecture>
+    <epistle />
+    <template></template>
+  </of.L047.ABC>
+  <eo.L051>
+    <form>eo</form>
+    <coordinates>L051</coordinates>
+    <cycle />
+    <name>Passion Sunday</name>
+    <category>sundayi</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 8:46-59</gospel>
+    <lecture />
+    <epistle>Heb 9:11-15</epistle>
+    <template>2023-03-26</template>
+  </eo.L051>
+  <of.L051.A>
+    <form>of</form>
+    <coordinates>L051</coordinates>
+    <cycle>A</cycle>
+    <name>Vijfde zondag van de Veertigdagentijd</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 11:1-45</gospel>
+    <lecture>Ezek 37:12-14</lecture>
+    <epistle>Rom 8:8-11</epistle>
+    <template></template>
+  </of.L051.A>
+  <of.L051.B>
+    <form>of</form>
+    <coordinates>L051</coordinates>
+    <cycle>B</cycle>
+    <name>Fifth Sunday of Lent</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 12:20-33</gospel>
+    <lecture>Jer 31:31-34</lecture>
+    <epistle>Heb 5:7-9</epistle>
+    <template></template>
+  </of.L051.B>
+  <of.L051.C>
+    <form>of</form>
+    <coordinates>L051</coordinates>
+    <cycle>C</cycle>
+    <name>VIJFDE ZONDAG IN DE VEERTIGDAGENTIJD</name>
+    <category>sunday</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 8:1-11</gospel>
+    <lecture>Isa 43:16-21</lecture>
+    <epistle>Phil 3:8-14</epistle>
+    <template></template>
+  </of.L051.C>
+  <eo.L052>
+    <form>eo</form>
+    <coordinates>L052</coordinates>
+    <cycle />
+    <name>Monday after Passion Sunday</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 7:32-39</gospel>
+    <lecture />
+    <epistle>Jonah 3:1-10</epistle>
+    <template>2023-03-27</template>
+  </eo.L052>
+  <of.L052.AB>
+    <form>of</form>
+    <coordinates>L052</coordinates>
+    <cycle>AB</cycle>
+    <name>Monday of the fifth week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 8:1-11</gospel>
+    <lecture>Dan 13:1-9,15-17,19-30,33-62|Dan 13:41c-62</lecture>
+    <epistle />
+    <template></template>
+  </of.L052.AB>
+  <of.L052.C>
+    <form>of</form>
+    <coordinates>L052</coordinates>
+    <cycle>C</cycle>
+    <name>Monday of the fifth week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 8:12-20</gospel>
+    <lecture>Dan 13:1-9,15-17,19-30,33-62|Dan 13:41c-62</lecture>
+    <epistle />
+    <template></template>
+  </of.L052.C>
+  <eo.L053>
+    <form>eo</form>
+    <coordinates>L053</coordinates>
+    <cycle />
+    <name>Tuesday after Passion Sunday</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 7:1-13</gospel>
+    <lecture />
+    <epistle>Dan 14:27,28-42</epistle>
+    <template>2023-03-28</template>
+  </eo.L053>
+  <of.L053.ABC>
+    <form>of</form>
+    <coordinates>L053</coordinates>
+    <cycle>ABC</cycle>
+    <name>Tuesday of the fifth week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 8:21-30</gospel>
+    <lecture>Num 21:4-9</lecture>
+    <epistle />
+    <template></template>
+  </of.L053.ABC>
+  <eo.L054>
+    <form>eo</form>
+    <coordinates>L054</coordinates>
+    <cycle />
+    <name>Wednesday after Passion Sunday</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 10:22-38</gospel>
+    <lecture />
+    <epistle>Lev 19:1-2,11-19,25</epistle>
+    <template>2023-03-29</template>
+  </eo.L054>
+  <of.L054.ABC>
+    <form>of</form>
+    <coordinates>L054</coordinates>
+    <cycle>ABC</cycle>
+    <name>Wednesday of the fifth week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 8:31-42</gospel>
+    <lecture>Dan 3:14-20,91-92,95</lecture>
+    <epistle />
+    <template></template>
+  </of.L054.ABC>
+  <eo.L055>
+    <form>eo</form>
+    <coordinates>L055</coordinates>
+    <cycle />
+    <name>Thursday after Passion Sunday</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 7:36-50</gospel>
+    <lecture />
+    <epistle>Dan 3:25,34-45</epistle>
+    <template>2023-03-30</template>
+  </eo.L055>
+  <of.L055.ABC>
+    <form>of</form>
+    <coordinates>L055</coordinates>
+    <cycle>ABC</cycle>
+    <name>Thursday of the fifth week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 8:51-59</gospel>
+    <lecture>Gen 17:3-9</lecture>
+    <epistle />
+    <template></template>
+  </of.L055.ABC>
+  <eo.L056>
+    <form>eo</form>
+    <coordinates>L056</coordinates>
+    <cycle />
+    <name>Friday after Passion Sunday</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 11:47-54</gospel>
+    <lecture />
+    <epistle>Jer 17:13-18</epistle>
+    <template>2023-03-31</template>
+  </eo.L056>
+  <of.L056.ABC>
+    <form>of</form>
+    <coordinates>L056</coordinates>
+    <cycle>ABC</cycle>
+    <name>Friday of the fifth week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 10:31-42</gospel>
+    <lecture>Jer 20:10-13</lecture>
+    <epistle />
+    <template></template>
+  </of.L056.ABC>
+  <eo.L057>
+    <form>eo</form>
+    <coordinates>L057</coordinates>
+    <cycle />
+    <name>Saturday after Passion Sunday</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 12:10-36</gospel>
+    <lecture />
+    <epistle>Jer 18:18-23</epistle>
+    <template>2023-04-01</template>
+  </eo.L057>
+  <of.L057.ABC>
+    <form>of</form>
+    <coordinates>L057</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saturday of the fifth week of Lent</name>
+    <category>feriaiii</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 11:45-56</gospel>
+    <lecture>Ezek 37:21-28</lecture>
+    <epistle />
+    <template></template>
+  </of.L057.ABC>
+  <eo.L061>
+    <form>eo</form>
+    <coordinates>L061</coordinates>
+    <cycle />
+    <name>Palm Sunday</name>
+    <category>sundayi</category>
+    <color>red</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 21:1-9|Matt 26:36-27:54</gospel>
+    <lecture />
+    <epistle>Exod 15:27,16:1-7|Phil 2:5-11</epistle>
+    <template>2023-04-02</template>
+  </eo.L061>
+  <of.L061.A>
+    <form>of</form>
+    <coordinates>L061</coordinates>
+    <cycle>A</cycle>
+    <name>Palm Sunday</name>
+    <category>sunday</category>
+    <color>red</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 21:1-11|Matt 26:14-27:66</gospel>
+    <lecture>Isa 50:4-7</lecture>
+    <epistle>Phil 2:6-11</epistle>
+    <template></template>
+  </of.L061.A>
+  <of.L061.B>
+    <form>of</form>
+    <coordinates>L061</coordinates>
+    <cycle>B</cycle>
+    <name>Palm Sunday</name>
+    <category>sunday</category>
+    <color>red</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Mark 11:1-10|Mark 14:1-15:47</gospel>
+    <lecture>Isa 50:4-7</lecture>
+    <epistle>Phil 2:6-11</epistle>
+    <template></template>
+  </of.L061.B>
+  <of.L061.C>
+    <form>of</form>
+    <coordinates>L061</coordinates>
+    <cycle>C</cycle>
+    <name>Palm Sunday</name>
+    <category>sunday</category>
+    <color>red</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 19:28-40|Luke 22:14-23:56</gospel>
+    <lecture>Isa 50:4-7</lecture>
+    <epistle>Phil 2:6-11</epistle>
+    <template></template>
+  </of.L061.C>
+  <eo.L062>
+    <form>eo</form>
+    <coordinates>L062</coordinates>
+    <cycle />
+    <name>Monday after Palm Sunday</name>
+    <category>feriai</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 12:1-9</gospel>
+    <lecture />
+    <epistle>Isa 50:5-10</epistle>
+    <template>2023-04-03</template>
+  </eo.L062>
+  <of.L062.ABC>
+    <form>of</form>
+    <coordinates>L062</coordinates>
+    <cycle>ABC</cycle>
+    <name>Monday of Holy Week</name>
+    <category>feriaiv</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 12:1-11</gospel>
+    <lecture>Isa 42:1-7</lecture>
+    <epistle />
+    <template></template>
+  </of.L062.ABC>
+  <eo.L063>
+    <form>eo</form>
+    <coordinates>L063</coordinates>
+    <cycle />
+    <name>Tuesday after Palm Sunday</name>
+    <category>feriai</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Mark 14:1-72,15:1-46</gospel>
+    <lecture />
+    <epistle>Jer 11:18-20</epistle>
+    <template>2023-04-04</template>
+  </eo.L063>
+  <of.L063.ABC>
+    <form>of</form>
+    <coordinates>L063</coordinates>
+    <cycle>ABC</cycle>
+    <name>Tuesday of Holy Week</name>
+    <category>feriaiv</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 13:21-33,36-38</gospel>
+    <lecture>Isa 49:1-6</lecture>
+    <epistle />
+    <template></template>
+  </of.L063.ABC>
+  <eo.L064>
+    <form>eo</form>
+    <coordinates>L064</coordinates>
+    <cycle />
+    <name>Wednesday after Palm Sunday</name>
+    <category>feriai</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 22:1-71,23:1-53</gospel>
+    <lecture />
+    <epistle>Isa 62:11,63:1-7|Isa 53:1-12</epistle>
+    <template>2023-04-05</template>
+  </eo.L064>
+  <of.L064.ABC>
+    <form>of</form>
+    <coordinates>L064</coordinates>
+    <cycle>ABC</cycle>
+    <name>Wednesday of Holy Week</name>
+    <category>feriaiv</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Matt 26:14-25</gospel>
+    <lecture>Isa 50:4-9a</lecture>
+    <epistle />
+    <template></template>
+  </of.L064.ABC>
+  <eo.L065>
+    <form>eo</form>
+    <coordinates>L065</coordinates>
+    <cycle />
+    <name>Holy Thursday</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 13:1-15</gospel>
+    <lecture />
+    <epistle>1Cor 11:20-32</epistle>
+    <template>2023-04-06</template>
+  </eo.L065>
+  <of.L065.ABC>
+    <form>of</form>
+    <coordinates>L065</coordinates>
+    <cycle>ABC</cycle>
+    <name>Chrism mass</name>
+    <category>feriaiv</category>
+    <color>white</color>
+    <season>Lent</season>
+    <order />
+    <gospel>Luke 4:16-21</gospel>
+    <lecture>Isa 61:1-3a,6a,8b-9|Rev 1:5-8</lecture>
+    <epistle />
+    <template></template>
+  </of.L065.ABC>
+  <eo.L066>
+    <form>eo</form>
+    <coordinates>L066</coordinates>
+    <cycle />
+    <name>Goede Vrijdag</name>
+    <category>feasti</category>
+    <color>violet</color>
+    <season>Lent</season>
+    <order />
+    <gospel>John 18:1-19:42</gospel>
+    <lecture />
+    <epistle>Hos 6:1-6|Exod 12:1-11</epistle>
+    <template>2023-04-07</template>
+  </eo.L066>
+  <of.P005.ABC>
+    <form>of</form>
+    <coordinates>P005</coordinates>
+    <cycle>ABC</cycle>
+    <name>Avondmis van Witte Donderdag</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Triduum</season>
+    <order />
+    <gospel>John 13:1-15</gospel>
+    <lecture>Exod 12:1-8,11-14</lecture>
+    <epistle>1Cor 11:23-26</epistle>
+    <template></template>
+  </of.P005.ABC>
+  <of.P006.ABC>
+    <form>of</form>
+    <coordinates>P006</coordinates>
+    <cycle>ABC</cycle>
+    <name>Goede Vrijdag van het lijden en sterven van de Heer</name>
+    <category>solemnity</category>
+    <color>red</color>
+    <season>Easter Triduum</season>
+    <order />
+    <gospel>John 18:1-19:42</gospel>
+    <lecture>Isa 52:13-53:12</lecture>
+    <epistle>Heb 4:14-16,5:7-9</epistle>
+    <template></template>
+  </of.P006.ABC>
+  <eo.P007>
+    <form>eo</form>
+    <coordinates>P007</coordinates>
+    <cycle />
+    <name>Easter Vigil</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>Matt 28:1-7</gospel>
+    <lecture />
+    <epistle>Gen 1:1-31,2:1-2|Gen 5:32,8:21|Gen 22:1-19|Exod 14:24-31,15:1a|Isa 54:17,55:1-11|Bar 3:9-38|Ezek 37:1-14|Isa 4:1-6|Exod 12:1-11|Jonah 3:1-10|Deut 31:22-30|Dan 3:1-24|Col 3:1-4</epistle>
+    <template>2023-04-08</template>
+  </eo.P007>
+  <of.P007.A>
+    <form>of</form>
+    <coordinates>P007</coordinates>
+    <cycle>A</cycle>
+    <name>Paaswake</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Easter Triduum</season>
+    <order />
+    <gospel>Matt 28:1-10</gospel>
+    <lecture>Gen 1:1-2:2|Gen 22:1-18|Exod 14:15-15:1|Isa 54:5-14|Isa 55:1-11|Bar 3:9-15,32-4:4|Ezek 36:16-17a,18-28</lecture>
+    <epistle>Rom 6:3-11</epistle>
+    <template></template>
+  </of.P007.A>
+  <of.P007.B>
+    <form>of</form>
+    <coordinates>P007</coordinates>
+    <cycle>B</cycle>
+    <name>Paaswake</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Easter Triduum</season>
+    <order />
+    <gospel>Mark 16:1-8</gospel>
+    <lecture>Gen 1:1-2:2|Gen 22:1-18|Exod 14:15-15:1|Isa 54:5-14|Isa 55:1-11|Bar 3:9-15,32-4:4|Ezek 36:16-17a,18-28</lecture>
+    <epistle>Rom 6:3-11</epistle>
+    <template></template>
+  </of.P007.B>
+  <of.P007.C>
+    <form>of</form>
+    <coordinates>P007</coordinates>
+    <cycle>C</cycle>
+    <name>Paaswake</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Easter Triduum</season>
+    <order />
+    <gospel>Luke 24:1-12</gospel>
+    <lecture>Gen 1:1-2:2|Gen 22:1-18|Exod 14:15-15:1|Isa 54:5-14|Isa 55:1-11|Bar 3:9-15,32-4:4|Ezek 36:16-17a,18-28</lecture>
+    <epistle>Rom 6:3-11</epistle>
+    <template></template>
+  </of.P007.C>
+  <eo.P011>
+    <form>eo</form>
+    <coordinates>P011</coordinates>
+    <cycle />
+    <name>Easter</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>Mark 16:1-7</gospel>
+    <lecture />
+    <epistle>1Cor 5:7-8</epistle>
+    <template>2023-04-09</template>
+  </eo.P011>
+  <of.P011.A>
+    <form>of</form>
+    <coordinates>P011</coordinates>
+    <cycle>A</cycle>
+    <name>Paaszondag – Verrijzenis van de Heer</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Triduum</season>
+    <order />
+    <gospel>John 20:1-9</gospel>
+    <lecture>Acts 10:34a,37-43</lecture>
+    <epistle>Col 3:1-4</epistle>
+    <template></template>
+  </of.P011.A>
+  <of.P011.B>
+    <form>of</form>
+    <coordinates>P011</coordinates>
+    <cycle>B</cycle>
+    <name>Paaszondag – Verrijzenis van de Heer</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Triduum</season>
+    <order />
+    <gospel>John 20:1-9</gospel>
+    <lecture>Acts 10:34a,37-43</lecture>
+    <epistle>Col 3:1-4</epistle>
+    <template></template>
+  </of.P011.B>
+  <of.P011.C>
+    <form>of</form>
+    <coordinates>P011</coordinates>
+    <cycle>C</cycle>
+    <name>Paaszondag – Verrijzenis van de Heer</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Triduum</season>
+    <order />
+    <gospel>John 20:1-9</gospel>
+    <lecture>Acts 10:34a,37-43</lecture>
+    <epistle>Col 3:1-4</epistle>
+    <template></template>
+  </of.P011.C>
+  <eo.P012>
+    <form>eo</form>
+    <coordinates>P012</coordinates>
+    <cycle />
+    <name>Monday in the octave of Easter</name>
+    <category>feriai</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>Luke 24:13-35</gospel>
+    <lecture />
+    <epistle>Acts 10:37-43</epistle>
+    <template>2023-04-10</template>
+  </eo.P012>
+  <eo.P013>
+    <form>eo</form>
+    <coordinates>P013</coordinates>
+    <cycle />
+    <name>Tuesday in the octave of Easter</name>
+    <category>feriai</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>Luke 24:36-47</gospel>
+    <lecture />
+    <epistle>Acts 13:16, 26-33</epistle>
+    <template>2023-04-11</template>
+  </eo.P013>
+  <eo.P014>
+    <form>eo</form>
+    <coordinates>P014</coordinates>
+    <cycle />
+    <name>Wednesday in the octave of Easter</name>
+    <category>feriai</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 21:1-14</gospel>
+    <lecture />
+    <epistle>Acts 3:13-15, 17-19</epistle>
+    <template>2023-04-12</template>
+  </eo.P014>
+  <eo.P015>
+    <form>eo</form>
+    <coordinates>P015</coordinates>
+    <cycle />
+    <name>Thursday in the octave of Easter</name>
+    <category>feriai</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 20:11-18</gospel>
+    <lecture />
+    <epistle>Acts 8:26-40</epistle>
+    <template>2023-04-13</template>
+  </eo.P015>
+  <eo.P016>
+    <form>eo</form>
+    <coordinates>P016</coordinates>
+    <cycle />
+    <name>Friday in the octave of Easter</name>
+    <category>feriai</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>Matt 28:16-20</gospel>
+    <lecture />
+    <epistle>1 Pet 3:18-22</epistle>
+    <template>2023-04-14</template>
+  </eo.P016>
+  <eo.P017>
+    <form>eo</form>
+    <coordinates>P017</coordinates>
+    <cycle />
+    <name>Saturday in the octave of Easter</name>
+    <category>feriai</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 20:1-9</gospel>
+    <lecture />
+    <epistle>1 Pet 2:1-10</epistle>
+    <template>2023-04-15</template>
+  </eo.P017>
+  <of.P012.ABC>
+    <form>of</form>
+    <coordinates>P012</coordinates>
+    <cycle>ABC</cycle>
+    <name>Maandag onder het octaaf van Pasen</name>
+    <category>seasonal weekday</category>
+    <color>white</color>
+    <season>Easter Triduum</season>
+    <order />
+    <gospel>Matt 28:8-15</gospel>
+    <lecture>Acts 2:14,22-32</lecture>
+    <epistle />
+    <template></template>
+  </of.P012.ABC>
+  <of.P013.A>
+    <form>of</form>
+    <coordinates>P013</coordinates>
+    <cycle>A</cycle>
+    <name>Dinsdag onder het octaaf van Pasen</name>
+    <category>seasonal weekday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 20:11-18</gospel>
+    <lecture>Acts 2:36-41</lecture>
+    <epistle />
+    <template></template>
+  </of.P013.A>
+  <of.P014.A>
+    <form>of</form>
+    <coordinates>P014</coordinates>
+    <cycle>A</cycle>
+    <name>Woensdag onder het octaaf van Pasen</name>
+    <category>seasonal weekday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>Luke 24:13-35</gospel>
+    <lecture>Acts 3:1-10</lecture>
+    <epistle />
+    <template></template>
+  </of.P014.A>
+  <of.P015.A>
+    <form>of</form>
+    <coordinates>P015</coordinates>
+    <cycle>A</cycle>
+    <name>Donderdag onder het octaaf van Pasen</name>
+    <category>seasonal weekday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>Luke 24:35-48</gospel>
+    <lecture>Acts 3:11-26</lecture>
+    <epistle />
+    <template></template>
+  </of.P015.A>
+  <of.P016.A>
+    <form>of</form>
+    <coordinates>P016</coordinates>
+    <cycle>A</cycle>
+    <name>Vrijdag onder het octaaf van Pasen</name>
+    <category>seasonal weekday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 21:1-14</gospel>
+    <lecture>Acts 4:1-12</lecture>
+    <epistle />
+    <template></template>
+  </of.P016.A>
+  <of.P017.A>
+    <form>of</form>
+    <coordinates>P017</coordinates>
+    <cycle>A</cycle>
+    <name>Zaterdag onder het octaaf van Pasen</name>
+    <category>seasonal weekday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>Mark 16:9-15</gospel>
+    <lecture>Acts 4:13-21</lecture>
+    <epistle />
+    <template></template>
+  </of.P017.A>
+  <eo.P021>
+    <form>eo</form>
+    <coordinates>P021</coordinates>
+    <cycle />
+    <name>Low Sunday</name>
+    <category>sundayii</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 20:19-31</gospel>
+    <lecture />
+    <epistle>1John 5:4-10</epistle>
+    <template>2023-04-16</template>
+  </eo.P021>
+  <of.P021.A>
+    <form>of</form>
+    <coordinates>P021</coordinates>
+    <cycle>A</cycle>
+    <name>Tweede zondag van Pasen</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 20:19-31</gospel>
+    <lecture>Acts 2:42-47</lecture>
+    <epistle>1Pet 1:3-9</epistle>
+    <template></template>
+  </of.P021.A>
+  <of.P021.B>
+    <form>of</form>
+    <coordinates>P021</coordinates>
+    <cycle>B</cycle>
+    <name>Tweede zondag van Pasen</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 20:19-31</gospel>
+    <lecture>Acts 4:32-35</lecture>
+    <epistle>1John 5:1-6</epistle>
+    <template></template>
+  </of.P021.B>
+  <of.P021.C>
+    <form>of</form>
+    <coordinates>P021</coordinates>
+    <cycle>C</cycle>
+    <name>Tweede zondag van Pasen</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 20:19-31</gospel>
+    <lecture>Acts 5:12-16</lecture>
+    <epistle>Rev 1:9-11a,12-13,17-19</epistle>
+    <template></template>
+  </of.P021.C>
+  <eo.P031>
+    <form>eo</form>
+    <coordinates>P031</coordinates>
+    <cycle />
+    <name>Second Sunday after Easter</name>
+    <category>sundayii</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 10:11-16</gospel>
+    <lecture />
+    <epistle>1Pet 2:21-25</epistle>
+    <template>2023-04-23</template>
+  </eo.P031>
+  <of.P031.A>
+    <form>of</form>
+    <coordinates>P031</coordinates>
+    <cycle>A</cycle>
+    <name>Derde zondag van Pasen</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>Luke 24:13-35</gospel>
+    <lecture>Acts 2:14,22-33</lecture>
+    <epistle>1Pet 1:17-21</epistle>
+    <template></template>
+  </of.P031.A>
+  <of.P031.B>
+    <form>of</form>
+    <coordinates>P031</coordinates>
+    <cycle>B</cycle>
+    <name>Third Sunday of Easter</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>Luke 24:35-48</gospel>
+    <lecture>Acts 3:13-15,17-19</lecture>
+    <epistle>1John 2:1-5a</epistle>
+    <template></template>
+  </of.P031.B>
+  <of.P031.C>
+    <form>of</form>
+    <coordinates>P031</coordinates>
+    <cycle>C</cycle>
+    <name>Derde zondag van Pasen</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 21:1-19</gospel>
+    <lecture>Acts 5:27-32,40b-41</lecture>
+    <epistle>Rev 5:11-14</epistle>
+    <template></template>
+  </of.P031.C>
+  <eo.P041>
+    <form>eo</form>
+    <coordinates>P041</coordinates>
+    <cycle />
+    <name>Third Sunday after Easter</name>
+    <category>sundayii</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 16:16-22</gospel>
+    <lecture />
+    <epistle>1Pet 2:11-19a</epistle>
+    <template>2023-04-30</template>
+  </eo.P041>
+  <of.P041.A>
+    <form>of</form>
+    <coordinates>P041</coordinates>
+    <cycle>A</cycle>
+    <name>Vierde zondag van Pasen</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 10:1-10</gospel>
+    <lecture>Acts 2:14a,36-41</lecture>
+    <epistle>1Pet 2:20b-25</epistle>
+    <template></template>
+  </of.P041.A>
+  <of.P041.B>
+    <form>of</form>
+    <coordinates>P041</coordinates>
+    <cycle>B</cycle>
+    <name>Fourth Sunday of Easter</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 10:11-18</gospel>
+    <lecture>Acts 4:8-12</lecture>
+    <epistle>1John 3:1-2</epistle>
+    <template></template>
+  </of.P041.B>
+  <of.P041.C>
+    <form>of</form>
+    <coordinates>P041</coordinates>
+    <cycle>C</cycle>
+    <name>Vierde zondag van Pasen. Zondag van de Goede Herder</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 10:27-30</gospel>
+    <lecture>Acts 13:14,43-52</lecture>
+    <epistle>Rev 7:9,14b-17</epistle>
+    <template></template>
+  </of.P041.C>
+  <eo.P051>
+    <form>eo</form>
+    <coordinates>P051</coordinates>
+    <cycle />
+    <name>Fourth Sunday after Easter</name>
+    <category>sundayii</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 16:5-14</gospel>
+    <lecture />
+    <epistle>Jas 1:17-21</epistle>
+    <template>2023-05-07</template>
+  </eo.P051>
+  <of.P051.A>
+    <form>of</form>
+    <coordinates>P051</coordinates>
+    <cycle>A</cycle>
+    <name>Vijfde zondag van Pasen</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 14:1-12</gospel>
+    <lecture>Acts 6:1-7</lecture>
+    <epistle>1Pet 2:4-9</epistle>
+    <template></template>
+  </of.P051.A>
+  <of.P051.B>
+    <form>of</form>
+    <coordinates>P051</coordinates>
+    <cycle>B</cycle>
+    <name>Fifth Sunday of Easter</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 15:1-8</gospel>
+    <lecture>Acts 9:26-31</lecture>
+    <epistle>1John 3:18-24</epistle>
+    <template></template>
+  </of.P051.B>
+  <of.P051.C>
+    <form>of</form>
+    <coordinates>P051</coordinates>
+    <cycle>C</cycle>
+    <name>Vijfde zondag van Pasen</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 13:31-33a,34-35</gospel>
+    <lecture>Acts 14:21-27</lecture>
+    <epistle>Rev 21:1-5a</epistle>
+    <template></template>
+  </of.P051.C>
+  <eo.P061>
+    <form>eo</form>
+    <coordinates>P061</coordinates>
+    <cycle />
+    <name>Fifth Sunday after Easter</name>
+    <category>sundayii</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 16:23-30</gospel>
+    <lecture />
+    <epistle>Jas 1:22-27</epistle>
+    <template>2023-05-14</template>
+  </eo.P061>
+  <of.P061.A>
+    <form>of</form>
+    <coordinates>P061</coordinates>
+    <cycle>A</cycle>
+    <name>Zesde zondag van Pasen</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 14:15-21</gospel>
+    <lecture>Acts 8:5-8,14-17</lecture>
+    <epistle>1Pet 3:15-18</epistle>
+    <template></template>
+  </of.P061.A>
+  <of.P061.B>
+    <form>of</form>
+    <coordinates>P061</coordinates>
+    <cycle>B</cycle>
+    <name>Sixth Sunday of Easter</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 15:9-17</gospel>
+    <lecture>Acts 10:25-26,34-35,44-48</lecture>
+    <epistle>1John 4:7-10</epistle>
+    <template></template>
+  </of.P061.B>
+  <of.P061.C>
+    <form>of</form>
+    <coordinates>P061</coordinates>
+    <cycle>C</cycle>
+    <name>Zesde zondag van Pasen</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 14:23-29</gospel>
+    <lecture>Acts 15:1-2,22-29</lecture>
+    <epistle>Rev 21:10-14,22-23</epistle>
+    <template></template>
+  </of.P061.C>
+  <eo.P062>
+    <form>eo</form>
+    <coordinates>P062</coordinates>
+    <cycle />
+    <name>Rogation Days</name>
+    <category>feriaiii</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>Luke 11:5-13</gospel>
+    <lecture />
+    <epistle>Jas 5:16-20</epistle>
+    <template>2023-05-15</template>
+  </eo.P062>
+  <of.P065.A>
+    <form>of</form>
+    <coordinates>P065</coordinates>
+    <cycle>A</cycle>
+    <name>Hemelvaart van de Heer</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>Matt 28:16-20</gospel>
+    <lecture>Acts 1:1-11</lecture>
+    <epistle>Eph 1:17-23</epistle>
+    <template></template>
+  </of.P065.A>
+  <of.P065.B>
+    <form>of</form>
+    <coordinates>P065</coordinates>
+    <cycle>B</cycle>
+    <name>Ascension of the Lord</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>Mark 16:15-20</gospel>
+    <lecture>Acts 1:1-11</lecture>
+    <epistle>Eph 4:1-13</epistle>
+    <template></template>
+  </of.P065.B>
+  <of.P065.C>
+    <form>of</form>
+    <coordinates>P065</coordinates>
+    <cycle>C</cycle>
+    <name>Hemelvaart van de Heer</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>Luke 24:46-53</gospel>
+    <lecture>Acts 1:1-11</lecture>
+    <epistle>Heb 9:24-28,10:19-23</epistle>
+    <template></template>
+  </of.P065.C>
+  <of.P071.A>
+    <form>of</form>
+    <coordinates>P071</coordinates>
+    <cycle>A</cycle>
+    <name>Zevende zondag van Pasen</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 17:1-11a</gospel>
+    <lecture>Acts 1:12-14</lecture>
+    <epistle>1Pet 4:13-16</epistle>
+    <template></template>
+  </of.P071.A>
+  <of.P071.B>
+    <form>of</form>
+    <coordinates>P071</coordinates>
+    <cycle>B</cycle>
+    <name>Seventh Sunday of Easter</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 17:11b-19</gospel>
+    <lecture>Acts 1:15-17,20a,20c-26</lecture>
+    <epistle>1John 4:11-16</epistle>
+    <template></template>
+  </of.P071.B>
+  <of.P071.C>
+    <form>of</form>
+    <coordinates>P071</coordinates>
+    <cycle>C</cycle>
+    <name>Zevende zondag van Pasen</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 17:20-26</gospel>
+    <lecture>Acts 7:55-60</lecture>
+    <epistle>Rev 22:12-14,16-17,20</epistle>
+    <template></template>
+  </of.P071.C>
+  <of.P081.ABC>
+    <form>of</form>
+    <coordinates>P081</coordinates>
+    <cycle>ABC</cycle>
+    <name>Pinksteren</name>
+    <category>sunday</category>
+    <color>red</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 20:19-23</gospel>
+    <lecture>Acts 2:1-11</lecture>
+    <epistle>1Cor 12:3b-7,12-13</epistle>
+    <template></template>
+  </of.P081.ABC>
+  <of.P082.ABC>
+    <form>of</form>
+    <coordinates>P082</coordinates>
+    <cycle>ABC</cycle>
+    <name>Tweede Pinksterdag</name>
+    <category>solemnity</category>
+    <color>red</color>
+    <season>Easter Season</season>
+    <order />
+    <gospel>John 14:15-17</gospel>
+    <lecture>Acts 19:1-6</lecture>
+    <epistle />
+    <template></template>
+  </of.P082.ABC>
+  <of.P091.A>
+    <form>of</form>
+    <coordinates>P091</coordinates>
+    <cycle>A</cycle>
+    <name>Feest van de H. Drieëenheid</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>John 3:16-18</gospel>
+    <lecture>Exod 34:4b-6,8-9</lecture>
+    <epistle>2Cor 13:11-13</epistle>
+    <template></template>
+  </of.P091.A>
+  <of.P091.B>
+    <form>of</form>
+    <coordinates>P091</coordinates>
+    <cycle>B</cycle>
+    <name>Trinity Sunday</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 28:16-20</gospel>
+    <lecture>Deut 4:32-34,39-40</lecture>
+    <epistle>Rom 8:14-17</epistle>
+    <template></template>
+  </of.P091.B>
+  <of.P091.C>
+    <form>of</form>
+    <coordinates>P091</coordinates>
+    <cycle>C</cycle>
+    <name>H. Drie-eenheid. Zondag na Pinksteren</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>John 16:12-15</gospel>
+    <lecture>Prov 8:22-31</lecture>
+    <epistle>Rom 5:1-5</epistle>
+    <template></template>
+  </of.P091.C>
+  <of.P095.A>
+    <form>of</form>
+    <coordinates>P095</coordinates>
+    <cycle>A</cycle>
+    <name>Feest van het Heilig Sacrament</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>John 6:51-58</gospel>
+    <lecture>Deut 8:2-3,14b-16a</lecture>
+    <epistle>1Cor 10:16-17</epistle>
+    <template></template>
+  </of.P095.A>
+  <of.P095.B>
+    <form>of</form>
+    <coordinates>P095</coordinates>
+    <cycle>B</cycle>
+    <name>Corpus Christi</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 14:12-16,22-26</gospel>
+    <lecture>Exod 24:3-8</lecture>
+    <epistle>Heb 9:11-15</epistle>
+    <template></template>
+  </of.P095.B>
+  <of.P095.C>
+    <form>of</form>
+    <coordinates>P095</coordinates>
+    <cycle>C</cycle>
+    <name>Sacramentsdag – Heilig Sacrament van het Lichaam en Bloed van Christus</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 9:11b-17</gospel>
+    <lecture>Gen 14:18-20</lecture>
+    <epistle>1Cor 11:23-26</epistle>
+    <template></template>
+  </of.P095.C>
+  <of.P106.A>
+    <form>of</form>
+    <coordinates>P106</coordinates>
+    <cycle>A</cycle>
+    <name>Heilig Hart van Jezus</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 11:25-30</gospel>
+    <lecture>Deut 7:6-11</lecture>
+    <epistle>1John 4:7-16</epistle>
+    <template></template>
+  </of.P106.A>
+  <of.P106.B>
+    <form>of</form>
+    <coordinates>P106</coordinates>
+    <cycle>B</cycle>
+    <name>Solemnity of the Sacred Heart of Jezus</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>John 19:31-37</gospel>
+    <lecture>Hos 11:1,3-4,8c-9</lecture>
+    <epistle>Eph 3:8-12,14-19</epistle>
+    <template></template>
+  </of.P106.B>
+  <of.P106.C>
+    <form>of</form>
+    <coordinates>P106</coordinates>
+    <cycle>C</cycle>
+    <name>Solemnity of the Sacred Heart of Jezus</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 15:3-7</gospel>
+    <lecture>Ezek 34:11-16</lecture>
+    <epistle>Rom 5:5b-11</epistle>
+    <template></template>
+  </of.P106.C>
+  <of.P107.A>
+    <form>of</form>
+    <coordinates>P107</coordinates>
+    <cycle>A</cycle>
+    <name>Onbevlekt Hart van Maria</name>
+    <category>feast</category>
+    <color>white</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 9:14-17</gospel>
+    <lecture />
+    <epistle />
+    <template></template>
+  </of.P107.A>
+  <eo.Q064>
+    <form>eo</form>
+    <coordinates>Q064</coordinates>
+    <cycle />
+    <name>Vigil of the Ascension of the Lord</name>
+    <category>vigilii</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 17:1-11</gospel>
+    <lecture />
+    <epistle>Eph 4:7-13</epistle>
+    <template>2023-05-17</template>
+  </eo.Q064>
+  <eo.Q065>
+    <form>eo</form>
+    <coordinates>Q065</coordinates>
+    <cycle />
+    <name>Ascension of the Lord</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>Mark 16:14-20</gospel>
+    <lecture />
+    <epistle>Acts 1:1-11</epistle>
+    <template>2023-05-18</template>
+  </eo.Q065>
+  <eo.Q071>
+    <form>eo</form>
+    <coordinates>Q071</coordinates>
+    <cycle />
+    <name>Sunday after the Ascension of the Lord</name>
+    <category>sundayii</category>
+    <color>white</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 15:26-27,16:1-4</gospel>
+    <lecture />
+    <epistle>1Pet 4:7b-11</epistle>
+    <template>2023-05-21</template>
+  </eo.Q071>
+  <eo.Q077>
+    <form>eo</form>
+    <coordinates>Q077</coordinates>
+    <cycle />
+    <name>Vigil of Pentecost</name>
+    <category>vigili</category>
+    <color>red</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 14:15-21</gospel>
+    <lecture />
+    <epistle>Gen 22:1-19|Exod 14:24-31,15:1|Deut 31:22-30|Isa 4:1-6|Bar 3:9-38|Ezek 37:1-14|Acts 19:1-8</epistle>
+    <template>2023-05-27</template>
+  </eo.Q077>
+  <eo.Q081>
+    <form>eo</form>
+    <coordinates>Q081</coordinates>
+    <cycle />
+    <name>Pentecost</name>
+    <category>sundayi</category>
+    <color>red</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 14:23-31</gospel>
+    <lecture />
+    <epistle>Acts 2:1-11</epistle>
+    <template>2023-05-28</template>
+  </eo.Q081>
+  <eo.Q082>
+    <form>eo</form>
+    <coordinates>Q082</coordinates>
+    <cycle />
+    <name>Monday after Pentecost</name>
+    <category>feriai</category>
+    <color>red</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 3:16-21</gospel>
+    <lecture />
+    <epistle>Acts 10:34,42-48</epistle>
+    <template>2023-05-29</template>
+  </eo.Q082>
+  <eo.Q083>
+    <form>eo</form>
+    <coordinates>Q083</coordinates>
+    <cycle />
+    <name>Tuesday after Pentecost</name>
+    <category>feriai</category>
+    <color>red</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 10:1-10</gospel>
+    <lecture />
+    <epistle>Acts 8:14-17</epistle>
+    <template>2023-05-30</template>
+  </eo.Q083>
+  <eo.Q084>
+    <form>eo</form>
+    <coordinates>Q084</coordinates>
+    <cycle />
+    <name>Ember Wednesday after Pentecost</name>
+    <category>feriai</category>
+    <color>red</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>John 6:44-52</gospel>
+    <lecture />
+    <epistle>Acts 2:14-21|Acts 5:12-16</epistle>
+    <template>2023-05-31</template>
+  </eo.Q084>
+  <eo.Q085>
+    <form>eo</form>
+    <coordinates>Q085</coordinates>
+    <cycle />
+    <name>Thursday after Pentecost</name>
+    <category>feriai</category>
+    <color>red</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>Luke 9:1-6</gospel>
+    <lecture />
+    <epistle>Acts 8:5-8</epistle>
+    <template>2023-06-01</template>
+  </eo.Q085>
+  <eo.Q086>
+    <form>eo</form>
+    <coordinates>Q086</coordinates>
+    <cycle />
+    <name>Ember Friday after Pentecost</name>
+    <category>feriai</category>
+    <color>red</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>Luke 5:17-26</gospel>
+    <lecture />
+    <epistle>Joel 2:23-24,26-27</epistle>
+    <template>2023-06-02</template>
+  </eo.Q086>
+  <eo.Q087>
+    <form>eo</form>
+    <coordinates>Q087</coordinates>
+    <cycle />
+    <name>Ember Saturday after Pentecost</name>
+    <category>feriai</category>
+    <color>red</color>
+    <season>Paschaltide</season>
+    <order />
+    <gospel>Luke 4:38-44</gospel>
+    <lecture />
+    <epistle>Joel 2:28-32|Lev 23:9-11,15-17,21|Deut 26:1-11|Lev 26:3-12|Dan 3:47-51,52-56|Rom 5:1-5</epistle>
+    <template>2023-06-03</template>
+  </eo.Q087>
+  <eo.P091>
+    <form>eo</form>
+    <coordinates>P091</coordinates>
+    <cycle />
+    <name>Trinity Sunday</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 28:18-20</gospel>
+    <lecture />
+    <epistle>Rom 11:33-36</epistle>
+    <template>2023-06-04</template>
+  </eo.P091>
+  <eo.Y011>
+    <form>eo</form>
+    <coordinates>Y011</coordinates>
+    <cycle />
+    <name>First Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 6:36-42</gospel>
+    <lecture />
+    <epistle>1 John 4:8-21</epistle>
+    <template>2023-06-04</template>
+  </eo.Y011>
+  <eo.P095>
+    <form>eo</form>
+    <coordinates>P095</coordinates>
+    <cycle />
+    <name>Corpus Christi</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>John 6:56-59</gospel>
+    <lecture />
+    <epistle>1Cor 11:23-29</epistle>
+    <template>2023-06-08</template>
+  </eo.P095>
+  <eo.Y021>
+    <form>eo</form>
+    <coordinates>Y021</coordinates>
+    <cycle />
+    <name>Second Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 14:16-24</gospel>
+    <lecture />
+    <epistle>1John 3:13-18</epistle>
+    <template>2023-06-11</template>
+  </eo.Y021>
+  <eo.P106>
+    <form>eo</form>
+    <coordinates>P106</coordinates>
+    <cycle />
+    <name>Solemnity of the Sacred Heart of Jezus</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>John 19:31-37</gospel>
+    <lecture />
+    <epistle>Eph 3:8-12,14-19</epistle>
+    <template>2023-06-16</template>
+  </eo.P106>
+  <of.Y021.A>
+    <form>of</form>
+    <coordinates>Y021</coordinates>
+    <cycle>A</cycle>
+    <name>Tweede zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>John 1:29-34</gospel>
+    <lecture>Isa 49:3,5-6</lecture>
+    <epistle>1Cor 1:1-3</epistle>
+    <template></template>
+  </of.Y021.A>
+  <of.Y021.B>
+    <form>of</form>
+    <coordinates>Y021</coordinates>
+    <cycle>B</cycle>
+    <name>Second Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>John 1:35-42</gospel>
+    <lecture>1Sam 3:3b-10,19</lecture>
+    <epistle>1Cor 6:13c-15a,17-20</epistle>
+    <template></template>
+  </of.Y021.B>
+  <of.Y021.C>
+    <form>of</form>
+    <coordinates>Y021</coordinates>
+    <cycle>C</cycle>
+    <name>TWEEDE ZONDAG DOOR HET JAAR</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>John 2:1-12</gospel>
+    <lecture>Isa 62:1-5</lecture>
+    <epistle>1Cor 12:4-11</epistle>
+    <template></template>
+  </of.Y021.C>
+  <eo.Y031>
+    <form>eo</form>
+    <coordinates>Y031</coordinates>
+    <cycle />
+    <name>Third Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 15:1-10</gospel>
+    <lecture />
+    <epistle>1Pet 5:6-11</epistle>
+    <template>2023-06-18</template>
+  </eo.Y031>
+  <of.Y031.A>
+    <form>of</form>
+    <coordinates>Y031</coordinates>
+    <cycle>A</cycle>
+    <name>Derde zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 4:12-23</gospel>
+    <lecture>Isa 8:23b-9:3</lecture>
+    <epistle>1Cor 1:10-13,17</epistle>
+    <template></template>
+  </of.Y031.A>
+  <of.Y031.B>
+    <form>of</form>
+    <coordinates>Y031</coordinates>
+    <cycle>B</cycle>
+    <name>Third Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 1:14-20</gospel>
+    <lecture>Jonah 3:1-5,10</lecture>
+    <epistle>1Cor 7:29-31</epistle>
+    <template></template>
+  </of.Y031.B>
+  <of.Y031.C>
+    <form>of</form>
+    <coordinates>Y031</coordinates>
+    <cycle>C</cycle>
+    <name>DERDE ZONDAG DOOR HET JAAR</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 4:14-21</gospel>
+    <lecture>Neh 8:2-4a,5-6,8-10</lecture>
+    <epistle>1Cor 12:12-30</epistle>
+    <template></template>
+  </of.Y031.C>
+  <eo.Y041>
+    <form>eo</form>
+    <coordinates>Y041</coordinates>
+    <cycle />
+    <name>Fourth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 5:1-11</gospel>
+    <lecture />
+    <epistle>Rom 8:18-23</epistle>
+    <template>2023-06-25</template>
+  </eo.Y041>
+  <of.Y041.A>
+    <form>of</form>
+    <coordinates>Y041</coordinates>
+    <cycle>A</cycle>
+    <name>Vierde zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 5:1-12a</gospel>
+    <lecture>Zeph 2:3,3:12-13</lecture>
+    <epistle>1Cor 1:26-31</epistle>
+    <template></template>
+  </of.Y041.A>
+  <of.Y041.B>
+    <form>of</form>
+    <coordinates>Y041</coordinates>
+    <cycle>B</cycle>
+    <name>Fourth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 1:21-28</gospel>
+    <lecture>Deut 18:15-20</lecture>
+    <epistle>1Cor 7:32-35</epistle>
+    <template></template>
+  </of.Y041.B>
+  <of.Y041.C>
+    <form>of</form>
+    <coordinates>Y041</coordinates>
+    <cycle>C</cycle>
+    <name>VIERDE ZONDAG DOOR HET JAAR</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 4:21-30</gospel>
+    <lecture>Jer 1:4-5,17-19</lecture>
+    <epistle>1Cor 12:31-13:13</epistle>
+    <template></template>
+  </of.Y041.C>
+  <eo.Y051>
+    <form>eo</form>
+    <coordinates>Y051</coordinates>
+    <cycle />
+    <name>Fifth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 5:20-24</gospel>
+    <lecture />
+    <epistle>1Pet 3:8-15a</epistle>
+    <template>2023-07-02</template>
+  </eo.Y051>
+  <of.Y051.A>
+    <form>of</form>
+    <coordinates>Y051</coordinates>
+    <cycle>A</cycle>
+    <name>Vijfde zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 5:13-16</gospel>
+    <lecture>Isa 58:7-10</lecture>
+    <epistle>1Cor 2:1-5</epistle>
+    <template></template>
+  </of.Y051.A>
+  <of.Y051.B>
+    <form>of</form>
+    <coordinates>Y051</coordinates>
+    <cycle>B</cycle>
+    <name>Fifth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 1:29-39</gospel>
+    <lecture>Job 7:1-4,6-7</lecture>
+    <epistle>1Cor 9:16-19,22-23</epistle>
+    <template></template>
+  </of.Y051.B>
+  <of.Y051.C>
+    <form>of</form>
+    <coordinates>Y051</coordinates>
+    <cycle>C</cycle>
+    <name>VIJFDE ZONDAG DOOR HET JAAR</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 5:1-11</gospel>
+    <lecture>Isa 6:1-2a,3-8</lecture>
+    <epistle>1Cor 15:1-11</epistle>
+    <template></template>
+  </of.Y051.C>
+  <eo.Y061>
+    <form>eo</form>
+    <coordinates>Y061</coordinates>
+    <cycle />
+    <name>Sixth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Mark 8:1-9</gospel>
+    <lecture />
+    <epistle>Rom 6:3-11</epistle>
+    <template>2023-07-09</template>
+  </eo.Y061>
+  <of.Y061.A>
+    <form>of</form>
+    <coordinates>Y061</coordinates>
+    <cycle>A</cycle>
+    <name>Zesde zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 5:17-37</gospel>
+    <lecture>Sir 15:16-20</lecture>
+    <epistle>1Cor 2:6-10</epistle>
+    <template></template>
+  </of.Y061.A>
+  <of.Y061.B>
+    <form>of</form>
+    <coordinates>Y061</coordinates>
+    <cycle>B</cycle>
+    <name>Sixth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 1:40-45</gospel>
+    <lecture>Lev 13:1-2,44-46</lecture>
+    <epistle>1Cor 10:31-11:1</epistle>
+    <template></template>
+  </of.Y061.B>
+  <of.Y061.C>
+    <form>of</form>
+    <coordinates>Y061</coordinates>
+    <cycle>C</cycle>
+    <name>ZESDE ZONDAG DOOR HET JAAR</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 6:17,20-26</gospel>
+    <lecture>Jer 17:5-8</lecture>
+    <epistle>1Cor 15:12,16-20</epistle>
+    <template></template>
+  </of.Y061.C>
+  <eo.Y071>
+    <form>eo</form>
+    <coordinates>Y071</coordinates>
+    <cycle />
+    <name>Seventh Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 7:15-21</gospel>
+    <lecture />
+    <epistle>Rom 6:19-23</epistle>
+    <template>2023-07-16</template>
+  </eo.Y071>
+  <of.Y071.A>
+    <form>of</form>
+    <coordinates>Y071</coordinates>
+    <cycle>A</cycle>
+    <name>Zevende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 5:38-48</gospel>
+    <lecture>Lev 19:1-2,17-18</lecture>
+    <epistle>1Cor 3:16-23</epistle>
+    <template></template>
+  </of.Y071.A>
+  <of.Y071.B>
+    <form>of</form>
+    <coordinates>Y071</coordinates>
+    <cycle>B</cycle>
+    <name>Seventh Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 2:1-12</gospel>
+    <lecture>Isa 43:18-19,21-22,24b-25</lecture>
+    <epistle>2Cor 1:18-22</epistle>
+    <template></template>
+  </of.Y071.B>
+  <of.Y071.C>
+    <form>of</form>
+    <coordinates>Y071</coordinates>
+    <cycle>C</cycle>
+    <name>Seventh Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 6:27-38</gospel>
+    <lecture>1Sam 26:2,7-9,12-13,22-23</lecture>
+    <epistle>1Cor 15:45-49</epistle>
+    <template></template>
+  </of.Y071.C>
+  <eo.Y081>
+    <form>eo</form>
+    <coordinates>Y081</coordinates>
+    <cycle />
+    <name>Eighth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 16:1-9</gospel>
+    <lecture />
+    <epistle>Rom 8:12-17</epistle>
+    <template>2023-07-23</template>
+  </eo.Y081>
+  <of.Y081.A>
+    <form>of</form>
+    <coordinates>Y081</coordinates>
+    <cycle>A</cycle>
+    <name>Achtste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 6:24-34</gospel>
+    <lecture>Isa 49:14-15</lecture>
+    <epistle>1Cor 4:1-5</epistle>
+    <template></template>
+  </of.Y081.A>
+  <of.Y081.B>
+    <form>of</form>
+    <coordinates>Y081</coordinates>
+    <cycle>B</cycle>
+    <name>Eighth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 2:18-22</gospel>
+    <lecture>Hos 2:16b,17b,21-22</lecture>
+    <epistle>2Cor 3:1b-6</epistle>
+    <template></template>
+  </of.Y081.B>
+  <of.Y081.C>
+    <form>of</form>
+    <coordinates>Y081</coordinates>
+    <cycle>C</cycle>
+    <name>Eighth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 6:39-45</gospel>
+    <lecture>Sir 27:5-8</lecture>
+    <epistle>1Cor 15:54-58</epistle>
+    <template></template>
+  </of.Y081.C>
+  <eo.Y091>
+    <form>eo</form>
+    <coordinates>Y091</coordinates>
+    <cycle />
+    <name>Ninth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 19:41-47</gospel>
+    <lecture />
+    <epistle>1Cor 10:5-13</epistle>
+    <template>2023-07-30</template>
+  </eo.Y091>
+  <of.Y091.A>
+    <form>of</form>
+    <coordinates>Y091</coordinates>
+    <cycle>A</cycle>
+    <name>Negende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 7:21-27</gospel>
+    <lecture>Deut 11:18,26-28,32</lecture>
+    <epistle>Rom 3:21-25,28</epistle>
+    <template></template>
+  </of.Y091.A>
+  <of.Y091.B>
+    <form>of</form>
+    <coordinates>Y091</coordinates>
+    <cycle>B</cycle>
+    <name>Negende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 2:23-3:6</gospel>
+    <lecture>Deut 5:12-15</lecture>
+    <epistle>2Cor 4:6-11</epistle>
+    <template></template>
+  </of.Y091.B>
+  <of.Y091.C>
+    <form>of</form>
+    <coordinates>Y091</coordinates>
+    <cycle>C</cycle>
+    <name>Negende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 7:1-10</gospel>
+    <lecture>1Kgs 8:41-43</lecture>
+    <epistle>Gal 1:1-2,6-10</epistle>
+    <template></template>
+  </of.Y091.C>
+  <eo.Y101>
+    <form>eo</form>
+    <coordinates>Y101</coordinates>
+    <cycle />
+    <name>Tenth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 18:9-14</gospel>
+    <lecture />
+    <epistle>1Cor 12:1-11</epistle>
+    <template>2023-08-06</template>
+  </eo.Y101>
+  <of.Y101.A>
+    <form>of</form>
+    <coordinates>Y101</coordinates>
+    <cycle>A</cycle>
+    <name>Tiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 9:9-13</gospel>
+    <lecture>Hos 6:3-6</lecture>
+    <epistle>Rom 4:18-25</epistle>
+    <template></template>
+  </of.Y101.A>
+  <of.Y101.B>
+    <form>of</form>
+    <coordinates>Y101</coordinates>
+    <cycle>B</cycle>
+    <name>Tenth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 3:20-35</gospel>
+    <lecture>Gen 3:9-15</lecture>
+    <epistle>2Cor 4:13-5:1</epistle>
+    <template></template>
+  </of.Y101.B>
+  <of.Y101.C>
+    <form>of</form>
+    <coordinates>Y101</coordinates>
+    <cycle>C</cycle>
+    <name>Tenth Sunday in Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 7:11-17</gospel>
+    <lecture>1Kgs 17:17-24</lecture>
+    <epistle>Gal 1:11-19</epistle>
+    <template></template>
+  </of.Y101.C>
+  <eo.Y111>
+    <form>eo</form>
+    <coordinates>Y111</coordinates>
+    <cycle />
+    <name>Eleventh Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Mark 7:31-37</gospel>
+    <lecture />
+    <epistle>1Cor 15:1-10</epistle>
+    <template>2023-08-13</template>
+  </eo.Y111>
+  <of.Y111.A>
+    <form>of</form>
+    <coordinates>Y111</coordinates>
+    <cycle>A</cycle>
+    <name>Elfde zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 9:36-10:8</gospel>
+    <lecture>Exod 19:2-6a</lecture>
+    <epistle>Rom 5:6-11</epistle>
+    <template></template>
+  </of.Y111.A>
+  <of.Y111.B>
+    <form>of</form>
+    <coordinates>Y111</coordinates>
+    <cycle>B</cycle>
+    <name>Eleventh Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 4:26-34</gospel>
+    <lecture>Ezek 17:22-24</lecture>
+    <epistle>2Cor 5:6-10</epistle>
+    <template></template>
+  </of.Y111.B>
+  <of.Y111.C>
+    <form>of</form>
+    <coordinates>Y111</coordinates>
+    <cycle>C</cycle>
+    <name>Elfde zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 7:36-8:3</gospel>
+    <lecture>2Sam 12:7-10,13</lecture>
+    <epistle>Gal 2:16,19-21</epistle>
+    <template></template>
+  </of.Y111.C>
+  <eo.Y121>
+    <form>eo</form>
+    <coordinates>Y121</coordinates>
+    <cycle />
+    <name>Twelfth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 10:23-37</gospel>
+    <lecture />
+    <epistle>2Cor 3:4-9</epistle>
+    <template>2023-08-20</template>
+  </eo.Y121>
+  <of.Y121.A>
+    <form>of</form>
+    <coordinates>Y121</coordinates>
+    <cycle>A</cycle>
+    <name>Twaalfde zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 10:26-33</gospel>
+    <lecture>Jer 20:10-13</lecture>
+    <epistle>Rom 5:12-15</epistle>
+    <template></template>
+  </of.Y121.A>
+  <of.Y121.B>
+    <form>of</form>
+    <coordinates>Y121</coordinates>
+    <cycle>B</cycle>
+    <name>Twelfth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 4:35-41</gospel>
+    <lecture>Job 38:1,8-11</lecture>
+    <epistle>2Cor 5:14-17</epistle>
+    <template></template>
+  </of.Y121.B>
+  <of.Y121.C>
+    <form>of</form>
+    <coordinates>Y121</coordinates>
+    <cycle>C</cycle>
+    <name>Twaalfde zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Tijd doorheen het jaar</season>
+    <order />
+    <gospel>Luke 9:18-24</gospel>
+    <lecture>Zech 12:10-11,13:1</lecture>
+    <epistle>Gal 3:26-29</epistle>
+    <template></template>
+  </of.Y121.C>
+  <eo.Y131>
+    <form>eo</form>
+    <coordinates>Y131</coordinates>
+    <cycle />
+    <name>Thirteenth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 17:11-19</gospel>
+    <lecture />
+    <epistle>Gal 3:16-22</epistle>
+    <template>2023-08-27</template>
+  </eo.Y131>
+  <of.Y131.A>
+    <form>of</form>
+    <coordinates>Y131</coordinates>
+    <cycle>A</cycle>
+    <name>Dertiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 10:37-42</gospel>
+    <lecture>2Kgs 4:8-11,14-16a</lecture>
+    <epistle>Rom 6:3-4,8-11</epistle>
+    <template></template>
+  </of.Y131.A>
+  <of.Y131.B>
+    <form>of</form>
+    <coordinates>Y131</coordinates>
+    <cycle>B</cycle>
+    <name>Thirteenth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 5:21-43</gospel>
+    <lecture>Wis 1:13-15,2:23-24</lecture>
+    <epistle>2Cor 8:7,9,13-15</epistle>
+    <template></template>
+  </of.Y131.B>
+  <of.Y131.C>
+    <form>of</form>
+    <coordinates>Y131</coordinates>
+    <cycle>C</cycle>
+    <name>Dertiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 9:51-62</gospel>
+    <lecture>1Kgs 19:16b,19-21</lecture>
+    <epistle>Gal 5:1,13-18</epistle>
+    <template></template>
+  </of.Y131.C>
+  <eo.Y141>
+    <form>eo</form>
+    <coordinates>Y141</coordinates>
+    <cycle />
+    <name>Fourteenth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 6:24-33</gospel>
+    <lecture />
+    <epistle>Gal 5:16-24</epistle>
+    <template>2023-09-03</template>
+  </eo.Y141>
+  <of.Y141.A>
+    <form>of</form>
+    <coordinates>Y141</coordinates>
+    <cycle>A</cycle>
+    <name>Veertiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 11:25-30</gospel>
+    <lecture>Zech 9:9-10</lecture>
+    <epistle>Rom 8:9,11-13</epistle>
+    <template></template>
+  </of.Y141.A>
+  <of.Y141.B>
+    <form>of</form>
+    <coordinates>Y141</coordinates>
+    <cycle>B</cycle>
+    <name>Fourteenth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 6:1-6</gospel>
+    <lecture>Ezek 2:2-5</lecture>
+    <epistle>2Cor 12:7-10</epistle>
+    <template></template>
+  </of.Y141.B>
+  <of.Y141.C>
+    <form>of</form>
+    <coordinates>Y141</coordinates>
+    <cycle>C</cycle>
+    <name>Veertiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 10:1-12,17-20</gospel>
+    <lecture>Isa 66:10-14c</lecture>
+    <epistle>Gal 6:14-18</epistle>
+    <template></template>
+  </of.Y141.C>
+  <eo.Y151>
+    <form>eo</form>
+    <coordinates>Y151</coordinates>
+    <cycle />
+    <name>Fifteenth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 7:11-16</gospel>
+    <lecture />
+    <epistle>Gal 5:25-26,6:1-10</epistle>
+    <template>2023-09-10</template>
+  </eo.Y151>
+  <of.Y151.A>
+    <form>of</form>
+    <coordinates>Y151</coordinates>
+    <cycle>A</cycle>
+    <name>Vijftiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 13:1-23</gospel>
+    <lecture>Isa 55:10-11</lecture>
+    <epistle>Rom 8:18-23</epistle>
+    <template></template>
+  </of.Y151.A>
+  <of.Y151.B>
+    <form>of</form>
+    <coordinates>Y151</coordinates>
+    <cycle>B</cycle>
+    <name>Fifteenth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 6:7-13</gospel>
+    <lecture>Amos 7:12-15</lecture>
+    <epistle>Eph 1:3-14</epistle>
+    <template></template>
+  </of.Y151.B>
+  <of.Y151.C>
+    <form>of</form>
+    <coordinates>Y151</coordinates>
+    <cycle>C</cycle>
+    <name>Vijftiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 10:25-37</gospel>
+    <lecture>Deut 30:10-14</lecture>
+    <epistle>Col 1:15-20</epistle>
+    <template></template>
+  </of.Y151.C>
+  <eo.Y161>
+    <form>eo</form>
+    <coordinates>Y161</coordinates>
+    <cycle />
+    <name>Sixteenth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 14:1-11</gospel>
+    <lecture />
+    <epistle>Eph 3:13-21</epistle>
+    <template>2023-09-17</template>
+  </eo.Y161>
+  <of.Y161.A>
+    <form>of</form>
+    <coordinates>Y161</coordinates>
+    <cycle>A</cycle>
+    <name>Zestiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 13:24-43</gospel>
+    <lecture>Wis 12:13,16-19</lecture>
+    <epistle>Rom 8:26-27</epistle>
+    <template></template>
+  </of.Y161.A>
+  <of.Y161.B>
+    <form>of</form>
+    <coordinates>Y161</coordinates>
+    <cycle>B</cycle>
+    <name>Sixteenth Sunday in Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 6:30-34</gospel>
+    <lecture>Jer 23:1-6</lecture>
+    <epistle>Eph 2:13-18</epistle>
+    <template></template>
+  </of.Y161.B>
+  <of.Y161.C>
+    <form>of</form>
+    <coordinates>Y161</coordinates>
+    <cycle>C</cycle>
+    <name>Zestiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 10:38-42</gospel>
+    <lecture>Gen 18:1-10a</lecture>
+    <epistle>Col 1:24-28</epistle>
+    <template></template>
+  </of.Y161.C>
+  <eo.Y171>
+    <form>eo</form>
+    <coordinates>Y171</coordinates>
+    <cycle />
+    <name>Seventeenth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 22:34-46</gospel>
+    <lecture />
+    <epistle>Eph 4:1-6</epistle>
+    <template>2022-10-02</template>
+  </eo.Y171>
+  <eo.S4>
+    <form>eo</form>
+    <coordinates>S4</coordinates>
+    <cycle />
+    <name>Ember Wednesday in September</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Mark 9:17-29</gospel>
+    <lecture />
+    <epistle>Amos 9:13-15|Neh 8:1-10</epistle>
+    <template>2022-09-21</template>
+  </eo.S4>
+  <eo.S6>
+    <form>eo</form>
+    <coordinates>S6</coordinates>
+    <cycle />
+    <name>Ember Friday in September</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 7:36-50</gospel>
+    <lecture />
+    <epistle>Hos 14:2-10</epistle>
+    <template>2022-09-23</template>
+  </eo.S6>
+  <eo.S7>
+    <form>eo</form>
+    <coordinates>S7</coordinates>
+    <cycle />
+    <name>Ember Saturday in September</name>
+    <category>feriaii</category>
+    <color>violet</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Luke 13:6-17</gospel>
+    <lecture />
+    <epistle>Lev 23:26-32|Lev 23:39-43|Mic 7:14,16,18-20|Zech 8:14-19|Dan 3:47-51,52-56|Heb 9:2-12</epistle>
+    <template>2022-09-24</template>
+  </eo.S7>
+  <of.Y171.A>
+    <form>of</form>
+    <coordinates>Y171</coordinates>
+    <cycle>A</cycle>
+    <name>Zeventiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 13:44-52</gospel>
+    <lecture>1Kgs 3:5,7-12</lecture>
+    <epistle>Rom 8:28-30</epistle>
+    <template></template>
+  </of.Y171.A>
+  <of.Y171.B>
+    <form>of</form>
+    <coordinates>Y171</coordinates>
+    <cycle>B</cycle>
+    <name>Seventeenth Sunday in Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>John 6:1-15</gospel>
+    <lecture>2Kgs 4:42-44</lecture>
+    <epistle>Eph 4:1-6</epistle>
+    <template></template>
+  </of.Y171.B>
+  <of.Y171.C>
+    <form>of</form>
+    <coordinates>Y171</coordinates>
+    <cycle>C</cycle>
+    <name>Zeventiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 11:1-13</gospel>
+    <lecture>Gen 18:20-32</lecture>
+    <epistle>Col 2:12-14</epistle>
+    <template></template>
+  </of.Y171.C>
+  <eo.Y181>
+    <form>eo</form>
+    <coordinates>Y181</coordinates>
+    <cycle />
+    <name>Eighteenth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 9:1-8</gospel>
+    <lecture />
+    <epistle>1Cor 1:4-8</epistle>
+    <template>2022-10-09</template>
+  </eo.Y181>
+  <of.Y181.A>
+    <form>of</form>
+    <coordinates>Y181</coordinates>
+    <cycle>A</cycle>
+    <name>Achttiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 14:13-21</gospel>
+    <lecture>Isa 55:1-3</lecture>
+    <epistle>Rom 8:35,37-39</epistle>
+    <template></template>
+  </of.Y181.A>
+  <of.Y181.B>
+    <form>of</form>
+    <coordinates>Y181</coordinates>
+    <cycle>B</cycle>
+    <name>Eighteenth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>John 6:24-35</gospel>
+    <lecture>Exod 16:2-4,12-15</lecture>
+    <epistle>Eph 4:17,20-24</epistle>
+    <template></template>
+  </of.Y181.B>
+  <of.Y181.C>
+    <form>of</form>
+    <coordinates>Y181</coordinates>
+    <cycle>C</cycle>
+    <name>Achttiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 12:13-21</gospel>
+    <lecture>Eccl 1:2,2:21-23</lecture>
+    <epistle>Col 3:1-5,9-11</epistle>
+    <template></template>
+  </of.Y181.C>
+  <eo.Y191>
+    <form>eo</form>
+    <coordinates>Y191</coordinates>
+    <cycle />
+    <name>Nineteenth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 22:1-14</gospel>
+    <lecture />
+    <epistle>Eph 4:23-28</epistle>
+    <template>2022-10-16</template>
+  </eo.Y191>
+  <of.Y191.A>
+    <form>of</form>
+    <coordinates>Y191</coordinates>
+    <cycle>A</cycle>
+    <name>Negentiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 14:22-33</gospel>
+    <lecture>1Kgs 19:9a,11-13a</lecture>
+    <epistle>Rom 9:1-5</epistle>
+    <template></template>
+  </of.Y191.A>
+  <of.Y191.B>
+    <form>of</form>
+    <coordinates>Y191</coordinates>
+    <cycle>B</cycle>
+    <name>Nineteenth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>John 6:41-51</gospel>
+    <lecture>1Kgs 19:4-8</lecture>
+    <epistle>Eph 4:30-5:2</epistle>
+    <template></template>
+  </of.Y191.B>
+  <of.Y191.C>
+    <form>of</form>
+    <coordinates>Y191</coordinates>
+    <cycle>C</cycle>
+    <name>Negentiende zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 12:32-48</gospel>
+    <lecture>Wis 18:6-9</lecture>
+    <epistle>Heb 11:1-2,8-19</epistle>
+    <template></template>
+  </of.Y191.C>
+  <eo.Y201>
+    <form>eo</form>
+    <coordinates>Y201</coordinates>
+    <cycle />
+    <name>Twentieth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>John 4:46-53</gospel>
+    <lecture />
+    <epistle>Eph 5:15-21</epistle>
+    <template>2022-10-23</template>
+  </eo.Y201>
+  <of.Y201.A>
+    <form>of</form>
+    <coordinates>Y201</coordinates>
+    <cycle>A</cycle>
+    <name>Twintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 15:21-28</gospel>
+    <lecture>Isa 56:1,6-7</lecture>
+    <epistle>Rom 11:13-15,29-32</epistle>
+    <template></template>
+  </of.Y201.A>
+  <of.Y201.B>
+    <form>of</form>
+    <coordinates>Y201</coordinates>
+    <cycle>B</cycle>
+    <name>Twentieth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>John 6:51-58</gospel>
+    <lecture>Prov 9:1-6</lecture>
+    <epistle>Eph 5:15-20</epistle>
+    <template></template>
+  </of.Y201.B>
+  <of.Y201.C>
+    <form>of</form>
+    <coordinates>Y201</coordinates>
+    <cycle>C</cycle>
+    <name>Twintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Tijd doorheen het jaar</season>
+    <order />
+    <gospel>Luke 12:49-53</gospel>
+    <lecture>Jer 38:4-6,8-10</lecture>
+    <epistle>Heb 12:1-4</epistle>
+    <template></template>
+  </of.Y201.C>
+  <eo.Y211>
+    <form>eo</form>
+    <coordinates>Y211</coordinates>
+    <cycle />
+    <name>Twenty-first Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 18:23-35</gospel>
+    <lecture />
+    <epistle>Eph 6:10-17</epistle>
+    <template>2022-10-30</template>
+  </eo.Y211>
+  <of.Y211.A>
+    <form>of</form>
+    <coordinates>Y211</coordinates>
+    <cycle>A</cycle>
+    <name>Eenentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 16:13-20</gospel>
+    <lecture>Isa 22:19-23</lecture>
+    <epistle>Rom 11:33-36</epistle>
+    <template></template>
+  </of.Y211.A>
+  <of.Y211.B>
+    <form>of</form>
+    <coordinates>Y211</coordinates>
+    <cycle>B</cycle>
+    <name>Twenty First Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>John 6:60-69</gospel>
+    <lecture>Josh 24:1-2a,15-17,18b</lecture>
+    <epistle>Eph 5:21-32,</epistle>
+    <template></template>
+  </of.Y211.B>
+  <of.Y211.C>
+    <form>of</form>
+    <coordinates>Y211</coordinates>
+    <cycle>C</cycle>
+    <name>Eenentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 13:22-30</gospel>
+    <lecture>Isa 66:18-21</lecture>
+    <epistle>Heb 12:5-7,11-13</epistle>
+    <template></template>
+  </of.Y211.C>
+  <eo.Y221>
+    <form>eo</form>
+    <coordinates>Y221</coordinates>
+    <cycle />
+    <name>Twenty-second Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 22:15-21</gospel>
+    <lecture />
+    <epistle>Phil 1:6-11</epistle>
+    <template>2022-11-06</template>
+  </eo.Y221>
+  <of.Y221.A>
+    <form>of</form>
+    <coordinates>Y221</coordinates>
+    <cycle>A</cycle>
+    <name>Tweeëntwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 16:21-27</gospel>
+    <lecture>Jer 20:7-9</lecture>
+    <epistle>Rom 12:1-2</epistle>
+    <template></template>
+  </of.Y221.A>
+  <of.Y221.B>
+    <form>of</form>
+    <coordinates>Y221</coordinates>
+    <cycle>B</cycle>
+    <name>Twenty Second Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 7:1-8,14-15,21-23</gospel>
+    <lecture>Deut 4:1-2,6-8</lecture>
+    <epistle>Jas 1:17-18,21b-22,27</epistle>
+    <template></template>
+  </of.Y221.B>
+  <of.Y221.C>
+    <form>of</form>
+    <coordinates>Y221</coordinates>
+    <cycle>C</cycle>
+    <name>Twee-en-twintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 14:1,7-14</gospel>
+    <lecture>Sir 3:17-18,20,28-29</lecture>
+    <epistle>Heb 12:18-19,22-24a</epistle>
+    <template></template>
+  </of.Y221.C>
+  <eo.Y231>
+    <form>eo</form>
+    <coordinates>Y231</coordinates>
+    <cycle />
+    <name>Twenty-third Sunday after Pentecost</name>
+    <category>sundayi</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>1</order>
+    <gospel>Matt 9:18-26</gospel>
+    <lecture />
+    <epistle>Phil 3:17-21,4:1-3</epistle>
+    <template>2022-11-13</template>
+  </eo.Y231>
+  <of.Y231.A>
+    <form>of</form>
+    <coordinates>Y231</coordinates>
+    <cycle>A</cycle>
+    <name>Drieëntwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 18:19-20</gospel>
+    <lecture>Ezek 33:7-9</lecture>
+    <epistle>Rom 13:8-10</epistle>
+    <template></template>
+  </of.Y231.A>
+  <of.Y231.B>
+    <form>of</form>
+    <coordinates>Y231</coordinates>
+    <cycle>B</cycle>
+    <name>Twenty Third Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 7:31-37</gospel>
+    <lecture>Isa 35:4-7a</lecture>
+    <epistle>Jas 2:1-5</epistle>
+    <template></template>
+  </of.Y231.B>
+  <of.Y231.C>
+    <form>of</form>
+    <coordinates>Y231</coordinates>
+    <cycle>C</cycle>
+    <name>Drie-en-twintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 14:25-33</gospel>
+    <lecture>Wis 9:13-18b</lecture>
+    <epistle>Phlm 1:9-10,12-17</epistle>
+    <template></template>
+  </of.Y231.C>
+  <eo.24S1>
+    <form>eo</form>
+    <coordinates>24S1</coordinates>
+    <cycle />
+    <name>Twenty-fourth Sunday after Pentecost</name>
+    <category>sundayii</category>
+    <color>green</color>
+    <season>Season per Annum</season>
+    <order>3</order>
+    <gospel>Matt 24:15-35</gospel>
+    <lecture />
+    <epistle>Col 1:9-14</epistle>
+    <template>2022-11-20</template>
+  </eo.24S1>
+  <of.Y241.A>
+    <form>of</form>
+    <coordinates>Y241</coordinates>
+    <cycle>A</cycle>
+    <name>Vierentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 18:21-35</gospel>
+    <lecture>Sir 27:30-28:7</lecture>
+    <epistle>Rom 14:7-9</epistle>
+    <template></template>
+  </of.Y241.A>
+  <of.Y241.B>
+    <form>of</form>
+    <coordinates>Y241</coordinates>
+    <cycle>B</cycle>
+    <name>Twenty Fourth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 8:27-35</gospel>
+    <lecture>Isa 50:4-9a</lecture>
+    <epistle>Jas 2:14-18</epistle>
+    <template></template>
+  </of.Y241.B>
+  <of.Y241.C>
+    <form>of</form>
+    <coordinates>Y241</coordinates>
+    <cycle>C</cycle>
+    <name>Vierentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 15:1-32</gospel>
+    <lecture>Exod 32:7-11,13-14</lecture>
+    <epistle>1Tim 1:12-17</epistle>
+    <template></template>
+  </of.Y241.C>
+  <of.Y251.A>
+    <form>of</form>
+    <coordinates>Y251</coordinates>
+    <cycle>A</cycle>
+    <name>Vijfentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 20:1-16a</gospel>
+    <lecture>Isa 55:6-9</lecture>
+    <epistle>Phil 1:20c-24,27a</epistle>
+    <template></template>
+  </of.Y251.A>
+  <of.Y251.B>
+    <form>of</form>
+    <coordinates>Y251</coordinates>
+    <cycle>B</cycle>
+    <name>Twenty Fifth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 9:30-37</gospel>
+    <lecture>Wis 2:12,17-20</lecture>
+    <epistle>Jas 3:16-4:3</epistle>
+    <template></template>
+  </of.Y251.B>
+  <of.Y251.C>
+    <form>of</form>
+    <coordinates>Y251</coordinates>
+    <cycle>C</cycle>
+    <name>Vijfentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 16:1-13</gospel>
+    <lecture>Amos 8:4-7</lecture>
+    <epistle>1Tim 2:1-8</epistle>
+    <template></template>
+  </of.Y251.C>
+  <of.Y261.A>
+    <form>of</form>
+    <coordinates>Y261</coordinates>
+    <cycle>A</cycle>
+    <name>Zesentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 21:28-31a</gospel>
+    <lecture>Ezek 18:25-28</lecture>
+    <epistle>Phil 2:1-11</epistle>
+    <template></template>
+  </of.Y261.A>
+  <of.Y261.B>
+    <form>of</form>
+    <coordinates>Y261</coordinates>
+    <cycle>B</cycle>
+    <name>Twenty Sixth Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 9:38-43,45,47-48</gospel>
+    <lecture>Num 11:25-29</lecture>
+    <epistle>Jas 5:1-6</epistle>
+    <template></template>
+  </of.Y261.B>
+  <of.Y261.C>
+    <form>of</form>
+    <coordinates>Y261</coordinates>
+    <cycle>C</cycle>
+    <name>Zesentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Tijd doorheen het jaar</season>
+    <order />
+    <gospel>Luke 16:19-31</gospel>
+    <lecture>Amos 6:1a,4-7</lecture>
+    <epistle>1Tim 6:11-16</epistle>
+    <template></template>
+  </of.Y261.C>
+  <of.Y271.A>
+    <form>of</form>
+    <coordinates>Y271</coordinates>
+    <cycle>A</cycle>
+    <name>Zevenentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 21:33-40</gospel>
+    <lecture>Isa 5:1-7</lecture>
+    <epistle>Phil 4:6-9</epistle>
+    <template></template>
+  </of.Y271.A>
+  <of.Y271.B>
+    <form>of</form>
+    <coordinates>Y271</coordinates>
+    <cycle>B</cycle>
+    <name>Twenty Seventh Sunday of Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 10:2-16</gospel>
+    <lecture>Gen 2:18-24</lecture>
+    <epistle>Heb 2:9-11</epistle>
+    <template></template>
+  </of.Y271.B>
+  <of.Y271.C>
+    <form>of</form>
+    <coordinates>Y271</coordinates>
+    <cycle>C</cycle>
+    <name>Zevenentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Tijd doorheen het jaar</season>
+    <order />
+    <gospel>Luke 17:5-10</gospel>
+    <lecture>Hab 1:2-3,2:2-4</lecture>
+    <epistle>2Tim 1:6-8,13-14</epistle>
+    <template></template>
+  </of.Y271.C>
+  <of.Y281.A>
+    <form>of</form>
+    <coordinates>Y281</coordinates>
+    <cycle>A</cycle>
+    <name>Achtentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 22:1-14</gospel>
+    <lecture>Isa 25:6-10a</lecture>
+    <epistle>Phil 4:12-14,19-20</epistle>
+    <template></template>
+  </of.Y281.A>
+  <of.Y281.B>
+    <form>of</form>
+    <coordinates>Y281</coordinates>
+    <cycle>B</cycle>
+    <name>Twenty-eighth  Sunday in Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 10:17-30</gospel>
+    <lecture>Wis 7:7-11</lecture>
+    <epistle>Heb 4:12-13</epistle>
+    <template></template>
+  </of.Y281.B>
+  <of.Y281.C>
+    <form>of</form>
+    <coordinates>Y281</coordinates>
+    <cycle>C</cycle>
+    <name>Achtentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 17:11-19</gospel>
+    <lecture>2Kgs 5:14-17</lecture>
+    <epistle>2Tim 2:8-13</epistle>
+    <template></template>
+  </of.Y281.C>
+  <of.Y291.A>
+    <form>of</form>
+    <coordinates>Y291</coordinates>
+    <cycle>A</cycle>
+    <name>Negenentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 22:15-21</gospel>
+    <lecture>Isa 45:1,4-6</lecture>
+    <epistle>1Thess 1:1-5b</epistle>
+    <template></template>
+  </of.Y291.A>
+  <of.Y291.B>
+    <form>of</form>
+    <coordinates>Y291</coordinates>
+    <cycle>B</cycle>
+    <name>Twenty-ninth Sunday in Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 10:35-45</gospel>
+    <lecture>Isa 53:10-11</lecture>
+    <epistle>Heb 4:14-16</epistle>
+    <template></template>
+  </of.Y291.B>
+  <of.Y291.C>
+    <form>of</form>
+    <coordinates>Y291</coordinates>
+    <cycle>C</cycle>
+    <name>Negenentwintigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 18:1-8</gospel>
+    <lecture>Exod 17:8-13</lecture>
+    <epistle>2Tim 3:14-4:2</epistle>
+    <template></template>
+  </of.Y291.C>
+  <of.Y301.A>
+    <form>of</form>
+    <coordinates>Y301</coordinates>
+    <cycle>A</cycle>
+    <name>Dertigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 22:34-40</gospel>
+    <lecture>Exod 22:20-26</lecture>
+    <epistle>1Thess 1:5c-10</epistle>
+    <template></template>
+  </of.Y301.A>
+  <of.Y301.B>
+    <form>of</form>
+    <coordinates>Y301</coordinates>
+    <cycle>B</cycle>
+    <name>Thirtieth Sunday in Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 10:46-52</gospel>
+    <lecture>Jer 31:7-9</lecture>
+    <epistle>Heb 5:1-6</epistle>
+    <template></template>
+  </of.Y301.B>
+  <of.Y301.C>
+    <form>of</form>
+    <coordinates>Y301</coordinates>
+    <cycle>C</cycle>
+    <name>Dertigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 18:9-14</gospel>
+    <lecture>Sir 35:12-14,16-18</lecture>
+    <epistle>2Tim 4:6-8,16-18</epistle>
+    <template></template>
+  </of.Y301.C>
+  <of.Y311.A>
+    <form>of</form>
+    <coordinates>Y311</coordinates>
+    <cycle>A</cycle>
+    <name>Eenendertigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 23:1-12</gospel>
+    <lecture>Mal 1:14b-2:2b,8-10</lecture>
+    <epistle>1Thess 2:7b-9,13</epistle>
+    <template></template>
+  </of.Y311.A>
+  <of.Y311.B>
+    <form>of</form>
+    <coordinates>Y311</coordinates>
+    <cycle>B</cycle>
+    <name>Thirty-first Sunday in Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 12:28-34</gospel>
+    <lecture>Deut 6:2-6</lecture>
+    <epistle>Heb 7:23-28</epistle>
+    <template></template>
+  </of.Y311.B>
+  <of.Y311.C>
+    <form>of</form>
+    <coordinates>Y311</coordinates>
+    <cycle>C</cycle>
+    <name>Eenendertigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 19:1-10</gospel>
+    <lecture>Wis 11:22-12:2</lecture>
+    <epistle>2Thess 1:11-2:2</epistle>
+    <template></template>
+  </of.Y311.C>
+  <of.Y321.A>
+    <form>of</form>
+    <coordinates>Y321</coordinates>
+    <cycle>A</cycle>
+    <name>Tweeëndertigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 25:1-13</gospel>
+    <lecture>Wis 6:12-16</lecture>
+    <epistle>1Thess 4:13-18</epistle>
+    <template></template>
+  </of.Y321.A>
+  <of.Y321.B>
+    <form>of</form>
+    <coordinates>Y321</coordinates>
+    <cycle>B</cycle>
+    <name>Thirty-second Sunday in Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 12:38-44</gospel>
+    <lecture>1Kgs 17:10-16</lecture>
+    <epistle>Heb 9:24-28</epistle>
+    <template></template>
+  </of.Y321.B>
+  <of.Y321.C>
+    <form>of</form>
+    <coordinates>Y321</coordinates>
+    <cycle>C</cycle>
+    <name>Twee-en-dertigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 20:27-38</gospel>
+    <lecture>2Macc 7:1-2,9-14</lecture>
+    <epistle>2Thess 2:16-3:5</epistle>
+    <template></template>
+  </of.Y321.C>
+  <of.Y331.A>
+    <form>of</form>
+    <coordinates>Y331</coordinates>
+    <cycle>A</cycle>
+    <name>Drieëndertigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 25:14-30</gospel>
+    <lecture>Prov 31:10-13,19-20,30-31</lecture>
+    <epistle>1Thess 5:1-6</epistle>
+    <template></template>
+  </of.Y331.A>
+  <of.Y331.B>
+    <form>of</form>
+    <coordinates>Y331</coordinates>
+    <cycle>B</cycle>
+    <name>Thirty-third Sunday in Ordinary Time</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Mark 13:24-32</gospel>
+    <lecture>Dan 12:1-3</lecture>
+    <epistle>Heb 10:11-14,18</epistle>
+    <template></template>
+  </of.Y331.B>
+  <of.Y331.C>
+    <form>of</form>
+    <coordinates>Y331</coordinates>
+    <cycle>C</cycle>
+    <name>Drie-en-dertigste zondag door het jaar</name>
+    <category>sunday</category>
+    <color>green</color>
+    <season>Tijd doorheen het jaar</season>
+    <order />
+    <gospel>Luke 21:5-19</gospel>
+    <lecture>Mal 3:19-20a</lecture>
+    <epistle>2Thess 3:7-12</epistle>
+    <template></template>
+  </of.Y331.C>
+  <of.Y341.A>
+    <form>of</form>
+    <coordinates>Y341</coordinates>
+    <cycle>A</cycle>
+    <name>Christus, Koning van het heelal</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Matt 25:31-46</gospel>
+    <lecture>Ezek 34:11-12,15-17</lecture>
+    <epistle>1Cor 15:20-26,28</epistle>
+    <template></template>
+  </of.Y341.A>
+  <of.Y341.B>
+    <form>of</form>
+    <coordinates>Y341</coordinates>
+    <cycle>B</cycle>
+    <name>Christ the King</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>John 18:33-37</gospel>
+    <lecture>Dan 7:13-14</lecture>
+    <epistle>Rev 1:5-8</epistle>
+    <template></template>
+  </of.Y341.B>
+  <of.Y341.C>
+    <form>of</form>
+    <coordinates>Y341</coordinates>
+    <cycle>C</cycle>
+    <name>Christus, Koning van het heelal</name>
+    <category>sunday</category>
+    <color>white</color>
+    <season>Ordinary Time</season>
+    <order />
+    <gospel>Luke 23:35-43</gospel>
+    <lecture>2Sam 5:1-3</lecture>
+    <epistle>Col 1:12-20</epistle>
+    <template></template>
+  </of.Y341.C>
+  <of.Z0101.ABC>
+    <form>of</form>
+    <coordinates>Z0101</coordinates>
+    <cycle>ABC</cycle>
+    <name>Heilige Maria, moeder van God</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Luke 2:16-21</gospel>
+    <lecture>Num 6:22-27</lecture>
+    <epistle>Gal 4:4-7</epistle>
+    <template></template>
+  </of.Z0101.ABC>
+  <of.Z0125.ABC>
+    <form>of</form>
+    <coordinates>Z0125</coordinates>
+    <cycle>ABC</cycle>
+    <name>Bekering van de heilige apostel Paulus</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Mark 16:15-18</gospel>
+    <lecture>Acts 22:3-16</lecture>
+    <epistle />
+    <template></template>
+  </of.Z0125.ABC>
+  <eo.Z1109>
+    <form>eo</form>
+    <coordinates>Z1109</coordinates>
+    <cycle />
+    <name>Dedication of the Archbasilica of the most Holy Saviour</name>
+    <category>feastii</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>20</order>
+    <gospel>Luke 19:1-10</gospel>
+    <lecture />
+    <epistle>Rev 21:2-5</epistle>
+    <template>2022-11-09</template>
+  </eo.Z1109>
+  <of.Z1109.ABC>
+    <form>of</form>
+    <coordinates>Z1109</coordinates>
+    <cycle>ABC</cycle>
+    <name>Kerkwijding van de basiliek van Sint Jan van Lateranen</name>
+    <category>feast</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>John 2:13-22</gospel>
+    <lecture>Ezek 47:1-2,8-9,12</lecture>
+    <epistle>1Cor 3:9c-11,16-17</epistle>
+    <template></template>
+  </of.Z1109.ABC>
+  <eo.Z1130>
+    <form>eo</form>
+    <coordinates>Z1130</coordinates>
+    <cycle />
+    <name>St. Andrew Apostle</name>
+    <category>feastii</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order>20</order>
+    <gospel>Matt 4:18-22</gospel>
+    <lecture />
+    <epistle>Rom 10:9-18</epistle>
+    <template>2022-11-30</template>
+  </eo.Z1130>
+  <eo.Z1208>
+    <form>eo</form>
+    <coordinates>Z1208</coordinates>
+    <cycle />
+    <name>Immaculate Conception of the Blessed Virgin Mary</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>20</order>
+    <gospel>Luke 1:26-28</gospel>
+    <lecture />
+    <epistle>Prov 8:22-35</epistle>
+    <template>2022-12-08</template>
+  </eo.Z1208>
+  <eo.Z1221>
+    <form>eo</form>
+    <coordinates>Z1221</coordinates>
+    <cycle />
+    <name>St. Thomas Apostle</name>
+    <category>feastii</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order>20</order>
+    <gospel>John 20:24-29</gospel>
+    <lecture />
+    <epistle>Eph 2:19-22</epistle>
+    <template>2022-12-21</template>
+  </eo.Z1221>
+  <eo.Z0125>
+    <form>eo</form>
+    <coordinates>Z0125</coordinates>
+    <cycle />
+    <name>Conversion Saint Paul</name>
+    <category>feastiii</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Matt 19:27-29</gospel>
+    <lecture />
+    <epistle>Acts 9:1-22</epistle>
+    <template>2023-01-25</template>
+  </eo.Z0125>
+  <eo.Z0202>
+    <form>eo</form>
+    <coordinates>Z0202</coordinates>
+    <cycle />
+    <name>Purification of the Blessed Virgin Mary</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Luke 2:22-32</gospel>
+    <lecture />
+    <epistle>Mal 3:1-4</epistle>
+    <template>2023-02-02</template>
+  </eo.Z0202>
+  <of.Z0202.ABC>
+    <form>of</form>
+    <coordinates>Z0202</coordinates>
+    <cycle>ABC</cycle>
+    <name>LICHTMIS – OPDRACHT VAN DE HEER IN DE TEMPEL</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Luke 2:22-40</gospel>
+    <lecture>Mal 3:1-4</lecture>
+    <epistle>Heb 2:14-18</epistle>
+    <template></template>
+  </of.Z0202.ABC>
+  <of.Z0222.ABC>
+    <form>of</form>
+    <coordinates>Z0222</coordinates>
+    <cycle>ABC</cycle>
+    <name>Sint Petrus' Stoel</name>
+    <category>feast</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Matt 16:13-23</gospel>
+    <lecture>1Pet 5:1-4</lecture>
+    <epistle />
+    <template></template>
+  </of.Z0222.ABC>
+  <eo.Z0319>
+    <form>eo</form>
+    <coordinates>Z0319</coordinates>
+    <cycle />
+    <name>St. Joseph, Spouse of the Blessed Virgin Mary</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Matt 1:18-21</gospel>
+    <lecture />
+    <epistle>Sir 45:1-6</epistle>
+    <template>2023-03-19</template>
+  </eo.Z0319>
+  <of.Z0319.ABC>
+    <form>of</form>
+    <coordinates>Z0319</coordinates>
+    <cycle>ABC</cycle>
+    <name>H. Jozef, bruidegom van de H. Maagd Maria</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Luke 2:41-51a|Matt 1:16,18-21,24a</gospel>
+    <lecture>2Sam 7:4-5a,12-14a,16</lecture>
+    <epistle>Rom 4:13,16-18,22</epistle>
+    <template></template>
+  </of.Z0319.ABC>
+  <eo.Z0325>
+    <form>eo</form>
+    <coordinates>Z0325</coordinates>
+    <cycle />
+    <name>Annunciation of the Blessed Virgin Mary</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Luke 1:26-38</gospel>
+    <lecture />
+    <epistle>Isa 7:10-15</epistle>
+    <template>2023-03-25</template>
+  </eo.Z0325>
+  <of.Z0325.ABC>
+    <form>of</form>
+    <coordinates>Z0325</coordinates>
+    <cycle>ABC</cycle>
+    <name>Aankondiging van de Heer</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Luke 1:26-38</gospel>
+    <lecture>Isa 7:10-14,8:10</lecture>
+    <epistle>Heb 10:4-10</epistle>
+    <template></template>
+  </of.Z0325.ABC>
+  <eo.Z0425>
+    <form>eo</form>
+    <coordinates>Z0425</coordinates>
+    <cycle />
+    <name>St. Mark Evangelist</name>
+    <category>feastii</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Luke 10:1-9</gospel>
+    <lecture />
+    <epistle>Ezek 1:10-14</epistle>
+    <template>2023-04-25</template>
+  </eo.Z0425>
+  <of.Z0425.ABC>
+    <form>of</form>
+    <coordinates>Z0425</coordinates>
+    <cycle>ABC</cycle>
+    <name>H. Marcus, Evangelist</name>
+    <category>feast</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Mark 16:15-20</gospel>
+    <lecture>1Pet 5:5-14</lecture>
+    <epistle />
+    <template></template>
+  </of.Z0425.ABC>
+  <eo.Z0501>
+    <form>eo</form>
+    <coordinates>Z0501</coordinates>
+    <cycle />
+    <name>St. Joseph the Workman, Spouse of the Blessed Virgin Mary</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Matt 13:54-58</gospel>
+    <lecture />
+    <epistle>Col 3:14-15,17,23-24</epistle>
+    <template>2023-05-01</template>
+  </eo.Z0501>
+  <of.Z0503.ABC>
+    <form>of</form>
+    <coordinates>Z0503</coordinates>
+    <cycle>ABC</cycle>
+    <name>HH. Filippus en Jakobus, apostelen</name>
+    <category>feast</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>John 14:6-14</gospel>
+    <lecture>1Cor 15:1-8</lecture>
+    <epistle />
+    <template></template>
+  </of.Z0503.ABC>
+  <eo.Z0511>
+    <form>eo</form>
+    <coordinates>Z0511</coordinates>
+    <cycle />
+    <name>Ss. Philip and James Apostles</name>
+    <category>feastii</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>John 14:1-13</gospel>
+    <lecture />
+    <epistle>Wis 5:1-5</epistle>
+    <template>2023-05-11</template>
+  </eo.Z0511>
+  <of.Z0514.ABC>
+    <form>of</form>
+    <coordinates>Z0514</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saint Matthias, apostle</name>
+    <category>feast</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>John 15:9-17</gospel>
+    <lecture>Acts 1:15-17,20-26</lecture>
+    <epistle />
+    <template></template>
+  </of.Z0514.ABC>
+  <eo.Z0531>
+    <form>eo</form>
+    <coordinates>Z0531</coordinates>
+    <cycle />
+    <name>Blessed Virgin Mary, Queen</name>
+    <category>feastii</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Luke 1:26-33</gospel>
+    <lecture />
+    <epistle>Sir 24:5,7,9-11,30-31</epistle>
+    <template>2023-05-31</template>
+  </eo.Z0531>
+  <of.Z0531.ABC>
+    <form>of</form>
+    <coordinates>Z0531</coordinates>
+    <cycle>ABC</cycle>
+    <name>Visitation of the Blessed Virgin Mary</name>
+    <category>feast</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Luke 1:39-47</gospel>
+    <lecture>Zeph 3:14-18</lecture>
+    <epistle />
+    <template></template>
+  </of.Z0531.ABC>
+  <eo.Z0624>
+    <form>eo</form>
+    <coordinates>Z0624</coordinates>
+    <cycle />
+    <name>Nativity of St. John the Baptist</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Luke 1:57-68</gospel>
+    <lecture />
+    <epistle>Isa 49:1-3,5,6,7</epistle>
+    <template>2023-06-24</template>
+  </eo.Z0624>
+  <of.Z0624.ABC>
+    <form>of</form>
+    <coordinates>Z0624</coordinates>
+    <cycle>ABC</cycle>
+    <name>H. JOHANNES DE DOPER – 24 JUNI</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Luke 1:57-66,80</gospel>
+    <lecture>Isa 49:1-6</lecture>
+    <epistle>Acts 13:22-26</epistle>
+    <template></template>
+  </of.Z0624.ABC>
+  <eo.Z0628>
+    <form>eo</form>
+    <coordinates>Z0628</coordinates>
+    <cycle />
+    <name>Vigil for Ss. Peter and Paul Apostles</name>
+    <category>vigilii</category>
+    <color>violet</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>John 21:15-19</gospel>
+    <lecture />
+    <epistle>Acts 3:1-10</epistle>
+    <template>2023-06-28</template>
+  </eo.Z0628>
+  <eo.Z0629>
+    <form>eo</form>
+    <coordinates>Z0629</coordinates>
+    <cycle />
+    <name>Ss. Peter and Paul Apostles</name>
+    <category>feasti</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Matt 16:13-19</gospel>
+    <lecture />
+    <epistle>Acts 12:1-11</epistle>
+    <template>2023-06-29</template>
+  </eo.Z0629>
+  <of.Z0629.ABC>
+    <form>of</form>
+    <coordinates>Z0629</coordinates>
+    <cycle>ABC</cycle>
+    <name>HH. Petrus en Paulus, apostelen</name>
+    <category>solemnity</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Matt 16:13-19</gospel>
+    <lecture>Acts 12:1-11</lecture>
+    <epistle>2Tim 4:6-8,17-18</epistle>
+    <template></template>
+  </of.Z0629.ABC>
+  <eo.Z0701>
+    <form>eo</form>
+    <coordinates>Z0701</coordinates>
+    <cycle />
+    <name>The Most Precious Blood of our Lord Jesus Christ</name>
+    <category>feasti</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>John 19:30-35</gospel>
+    <lecture />
+    <epistle>Heb 9:11-15</epistle>
+    <template>2023-07-01</template>
+  </eo.Z0701>
+  <eo.Z0702>
+    <form>eo</form>
+    <coordinates>Z0702</coordinates>
+    <cycle />
+    <name>Visitation of the Blessed Virgin Mary</name>
+    <category>feastii</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Luke 1:39-47</gospel>
+    <lecture />
+    <epistle>Song 2:8-14</epistle>
+    <template>2023-07-02</template>
+  </eo.Z0702>
+  <of.Z0703.ABC>
+    <form>of</form>
+    <coordinates>Z0703</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saint Thomas the Apostle</name>
+    <category>feast</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>John 20:24-29</gospel>
+    <lecture>Eph 2:19-22</lecture>
+    <epistle />
+    <template></template>
+  </of.Z0703.ABC>
+  <eo.Z0725>
+    <form>eo</form>
+    <coordinates>Z0725</coordinates>
+    <cycle />
+    <name>St. James Apostle</name>
+    <category>feastii</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Matt 20:20-23</gospel>
+    <lecture />
+    <epistle>1Cor 4:9-15</epistle>
+    <template>2023-07-25</template>
+  </eo.Z0725>
+  <of.Z0725.ABC>
+    <form>of</form>
+    <coordinates>Z0725</coordinates>
+    <cycle>ABC</cycle>
+    <name>St. James Apostle</name>
+    <category>solemnity</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Matt 20:20-23</gospel>
+    <lecture>2Cor 4:7-15</lecture>
+    <epistle />
+    <template></template>
+  </of.Z0725.ABC>
+  <eo.Z0726>
+    <form>eo</form>
+    <coordinates>Z0726</coordinates>
+    <cycle />
+    <name>St. Anne Mother of the Blessed Virgin Mary</name>
+    <category>feastii</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Matt 13:44-52</gospel>
+    <lecture />
+    <epistle>Prov 31:10-31</epistle>
+    <template>2023-07-26</template>
+  </eo.Z0726>
+  <eo.Z0806>
+    <form>eo</form>
+    <coordinates>Z0806</coordinates>
+    <cycle />
+    <name>Transfiguration of our Lord Jesus Christ</name>
+    <category>feastii</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Matt 17:1-9</gospel>
+    <lecture />
+    <epistle>2Pet 1:16-19</epistle>
+    <template>2023-08-06</template>
+  </eo.Z0806>
+  <of.Z0806.A>
+    <form>of</form>
+    <coordinates>Z0806</coordinates>
+    <cycle>A</cycle>
+    <name>GEDAANTEVERANDERING VAN DE HEER</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Matt 17:1-9</gospel>
+    <lecture>Dan 7:9-10,13-14</lecture>
+    <epistle>2Pet 1:16-19</epistle>
+    <template></template>
+  </of.Z0806.A>
+  <of.Z0806.B>
+    <form>of</form>
+    <coordinates>Z0806</coordinates>
+    <cycle>B</cycle>
+    <name>GEDAANTEVERANDERING VAN DE HEER</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Mark 9:2-10,</gospel>
+    <lecture>Dan 7:9-10,13-14</lecture>
+    <epistle>2Pet 1:16-19</epistle>
+    <template></template>
+  </of.Z0806.B>
+  <of.Z0806.C>
+    <form>of</form>
+    <coordinates>Z0806</coordinates>
+    <cycle>C</cycle>
+    <name>GEDAANTEVERANDERING VAN DE HEER</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Luke 9:28b-36</gospel>
+    <lecture>Dan 7:9-10,13-14</lecture>
+    <epistle>2Pet 1:16-19</epistle>
+    <template></template>
+  </of.Z0806.C>
+  <eo.Z0810>
+    <form>eo</form>
+    <coordinates>Z0810</coordinates>
+    <cycle />
+    <name>St. Laurence Martyr</name>
+    <category>feastii</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>John 12:24-26</gospel>
+    <lecture />
+    <epistle>2Cor 9:6-10</epistle>
+    <template>2023-08-10</template>
+  </eo.Z0810>
+  <of.Z0810.ABC>
+    <form>of</form>
+    <coordinates>Z0810</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saint Lawrence, deacon and martyr</name>
+    <category>feast</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>John 12:24-26</gospel>
+    <lecture>2Cor 9:6-10</lecture>
+    <epistle />
+    <template></template>
+  </of.Z0810.ABC>
+  <eo.Z0814>
+    <form>eo</form>
+    <coordinates>Z0814</coordinates>
+    <cycle />
+    <name>Vigil for Assumption of Mary</name>
+    <category>feastii</category>
+    <color>violet</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Luke 11:27-28</gospel>
+    <lecture />
+    <epistle>Sir 24:23-31</epistle>
+    <template>2023-08-14</template>
+  </eo.Z0814>
+  <eo.Z0815>
+    <form>eo</form>
+    <coordinates>Z0815</coordinates>
+    <cycle />
+    <name>Assumption of Mary</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Luke 1:41-50</gospel>
+    <lecture />
+    <epistle>Judith 13:22-25; 15:10</epistle>
+    <template>2023-08-15</template>
+  </eo.Z0815>
+  <of.Z0815.ABC>
+    <form>of</form>
+    <coordinates>Z0815</coordinates>
+    <cycle>ABC</cycle>
+    <name>Maria Tenhemelopneming</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Luke 1:39-56</gospel>
+    <lecture>Rev 11:19a,12:1-6a,10</lecture>
+    <epistle>1Cor 15:20-27</epistle>
+    <template></template>
+  </of.Z0815.ABC>
+  <eo.Z0816>
+    <form>eo</form>
+    <coordinates>Z0816</coordinates>
+    <cycle />
+    <name>St. Joachim Father of the Blessed Virgin Mary</name>
+    <category>feastii</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Matt 1:1-16</gospel>
+    <lecture />
+    <epistle>Sir 31:8-11</epistle>
+    <template>2023-08-16</template>
+  </eo.Z0816>
+  <eo.Z0822>
+    <form>eo</form>
+    <coordinates>Z0822</coordinates>
+    <cycle />
+    <name>Immaculate Heart of the Blessed Virgin Mary</name>
+    <category>feastii</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>John 19:25-27</gospel>
+    <lecture />
+    <epistle>Sir 24:23-31</epistle>
+    <template>2023-08-22</template>
+  </eo.Z0822>
+  <eo.Z0824>
+    <form>eo</form>
+    <coordinates>Z0824</coordinates>
+    <cycle />
+    <name>St. Bartholomew Apostle</name>
+    <category>feastii</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Luke 6:12-19</gospel>
+    <lecture />
+    <epistle>1Cor 12:27-31</epistle>
+    <template>2023-08-24</template>
+  </eo.Z0824>
+  <of.Z0824.ABC>
+    <form>of</form>
+    <coordinates>Z0824</coordinates>
+    <cycle>ABC</cycle>
+    <name>saint Bartholomew, apostle</name>
+    <category>feast</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>John 1:45-51</gospel>
+    <lecture>Rev 21:9b-14</lecture>
+    <epistle />
+    <template></template>
+  </of.Z0824.ABC>
+  <of.Z0908.ABC>
+    <form>of</form>
+    <coordinates>Z0908</coordinates>
+    <cycle>ABC</cycle>
+    <name>Birth of the Virgin Mary</name>
+    <category>feast</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Matt 1:18-23</gospel>
+    <lecture />
+    <epistle />
+    <template></template>
+  </of.Z0908.ABC>
+  <eo.Z0914>
+    <form>eo</form>
+    <coordinates>Z0914</coordinates>
+    <cycle />
+    <name>Exaltation of the Holy Cross</name>
+    <category>feastii</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>John 12:31-36</gospel>
+    <lecture />
+    <epistle>Phil 2:5-11</epistle>
+    <template>2023-09-14</template>
+  </eo.Z0914>
+  <of.Z0914.ABC>
+    <form>of</form>
+    <coordinates>Z0914</coordinates>
+    <cycle>ABC</cycle>
+    <name>Kruisverheffing</name>
+    <category>feast</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>John 3:13-17</gospel>
+    <lecture>Num 21:4b-9</lecture>
+    <epistle>Phil 2:6-11</epistle>
+    <template></template>
+  </of.Z0914.ABC>
+  <eo.Z0921>
+    <form>eo</form>
+    <coordinates>Z0921</coordinates>
+    <cycle />
+    <name>St. Matthew Apostle and Evangelist</name>
+    <category>feastii</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Matt 9:9-13</gospel>
+    <lecture />
+    <epistle>Ezek 1:10-14</epistle>
+    <template>2022-09-21</template>
+  </eo.Z0921>
+  <of.Z0921.ABC>
+    <form>of</form>
+    <coordinates>Z0921</coordinates>
+    <cycle>ABC</cycle>
+    <name>H. Matteüs, apostel en evangelist</name>
+    <category>feast</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Matt 9:9-13</gospel>
+    <lecture>Eph 4:1-7,11-13</lecture>
+    <epistle />
+    <template></template>
+  </of.Z0921.ABC>
+  <eo.Z0929>
+    <form>eo</form>
+    <coordinates>Z0929</coordinates>
+    <cycle />
+    <name>Dedication of St. Michael Archangel</name>
+    <category>feastii</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Matt 18:1-10</gospel>
+    <lecture />
+    <epistle>Rev 1:1-5</epistle>
+    <template>2022-09-29</template>
+  </eo.Z0929>
+  <of.Z0929.ABC>
+    <form>of</form>
+    <coordinates>Z0929</coordinates>
+    <cycle>ABC</cycle>
+    <name>HH. Michaël, Gabriël en Rafaël, aartsengelen</name>
+    <category>feast</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>John 1:47-51</gospel>
+    <lecture>Dan 7:9-10,13-14|Rev 12:7-12</lecture>
+    <epistle />
+    <template></template>
+  </of.Z0929.ABC>
+  <eo.Z1007>
+    <form>eo</form>
+    <coordinates>Z1007</coordinates>
+    <cycle />
+    <name>Blessed Virgin Mary of the Rosary</name>
+    <category>feastii</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Luke 1:26-38</gospel>
+    <lecture />
+    <epistle>Prov 8:22-24,32-35</epistle>
+    <template>2022-10-07</template>
+  </eo.Z1007>
+  <eo.Z1011>
+    <form>eo</form>
+    <coordinates>Z1011</coordinates>
+    <cycle />
+    <name>The Maternity of the Blessed Virgin Mary</name>
+    <category>feastii</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Luke 2:43-51</gospel>
+    <lecture />
+    <epistle>Sir 24:23-31</epistle>
+    <template>2022-10-07</template>
+  </eo.Z1011>
+  <eo.Z1018>
+    <form>eo</form>
+    <coordinates>Z1018</coordinates>
+    <cycle />
+    <name>St. Luke Evangelist</name>
+    <category>feastii</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Luke 10:1-9</gospel>
+    <lecture />
+    <epistle>2Cor 8:16-24</epistle>
+    <template>2022-10-18</template>
+  </eo.Z1018>
+  <of.Z1018.ABC>
+    <form>of</form>
+    <coordinates>Z1018</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saint Luke, evangelist</name>
+    <category>sunday</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Luke 10:1-9</gospel>
+    <lecture>2Tim 4:10-17</lecture>
+    <epistle />
+    <template></template>
+  </of.Z1018.ABC>
+  <eo.Z1028>
+    <form>eo</form>
+    <coordinates>Z1028</coordinates>
+    <cycle />
+    <name>Ss. Simon and Jude Apostles</name>
+    <category>feastii</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>John 15:17-25</gospel>
+    <lecture />
+    <epistle>Eph 4:7-13</epistle>
+    <template>2022-10-28</template>
+  </eo.Z1028>
+  <of.Z1028.ABC>
+    <form>of</form>
+    <coordinates>Z1028</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saints Simon and Jude, apostles</name>
+    <category>feast</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Luke 6:12-19</gospel>
+    <lecture>Eph 2:19-22</lecture>
+    <epistle />
+    <template></template>
+  </of.Z1028.ABC>
+  <eo.Z1101>
+    <form>eo</form>
+    <coordinates>Z1101</coordinates>
+    <cycle />
+    <name>All Saints</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order>1</order>
+    <gospel>Matt 5:1-12</gospel>
+    <lecture />
+    <epistle>Rev 7:2-12</epistle>
+    <template>2022-11-01</template>
+  </eo.Z1101>
+  <of.Z1101.ABC>
+    <form>of</form>
+    <coordinates>Z1101</coordinates>
+    <cycle>ABC</cycle>
+    <name>Allerheiligen</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Matt 5:1-12a</gospel>
+    <lecture>Rev 7:2-4,9-14</lecture>
+    <epistle>1John 3:1-3</epistle>
+    <template></template>
+  </of.Z1101.ABC>
+  <of.Z1102.ABC>
+    <form>of</form>
+    <coordinates>Z1102</coordinates>
+    <cycle>ABC</cycle>
+    <name>Allerzielen</name>
+    <category>solemnity</category>
+    <color>violet</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Luke 23:44-46,50,52-53,24:1-6a</gospel>
+    <lecture>Wis 3:1-9</lecture>
+    <epistle>Rom 5:5-11</epistle>
+    <template></template>
+  </of.Z1102.ABC>
+  <of.Z1130.ABC>
+    <form>of</form>
+    <coordinates>Z1130</coordinates>
+    <cycle>ABC</cycle>
+    <name>Saint Andrew, apostle</name>
+    <category>sunday</category>
+    <color>red</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Matt 4:18-22</gospel>
+    <lecture>Rom 10:9-18</lecture>
+    <epistle />
+    <template></template>
+  </of.Z1130.ABC>
+  <of.Z1208.ABC>
+    <form>of</form>
+    <coordinates>Z1208</coordinates>
+    <cycle>ABC</cycle>
+    <name>Onbevlekte ontvangenis van de Heilige Maagd Maria</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Feasts</season>
+    <order />
+    <gospel>Luke 1:26-38</gospel>
+    <lecture>Gen 3:9-15,20</lecture>
+    <epistle>Eph 1:3-6,11-12</epistle>
+    <template></template>
+  </of.Z1208.ABC>
+  <of.Z1224.ABC>
+    <form>of</form>
+    <coordinates>Z1224</coordinates>
+    <cycle>ABC</cycle>
+    <name>Heilige Kerstavond</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>50</order>
+    <gospel>Matt 1:1-25</gospel>
+    <lecture>Isa 62:1-5</lecture>
+    <epistle>Acts 13:16-17,22-25</epistle>
+    <template></template>
+  </of.Z1224.ABC>
+  <of.Z1225_1.ABC>
+    <form>of</form>
+    <coordinates>Z1225+1</coordinates>
+    <cycle>ABC</cycle>
+    <name>Heilige Kerstnacht: Nachtmis</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>60</order>
+    <gospel>Luke 2:1-14</gospel>
+    <lecture>Isa 9:1-6</lecture>
+    <epistle>Titus 2:11-14</epistle>
+    <template></template>
+  </of.Z1225_1.ABC>
+  <of.Z1225_2.ABC>
+    <form>of</form>
+    <coordinates>Z1225+2</coordinates>
+    <cycle>ABC</cycle>
+    <name>Kerstdag: Dageraadsmis</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>70</order>
+    <gospel>Luke 2:15-20</gospel>
+    <lecture>Isa 62:11-12</lecture>
+    <epistle>Titus 3:4-7</epistle>
+    <template></template>
+  </of.Z1225_2.ABC>
+  <of.Z1225_3.ABC>
+    <form>of</form>
+    <coordinates>Z1225+3</coordinates>
+    <cycle>ABC</cycle>
+    <name>Kerstmis: Dagmis</name>
+    <category>solemnity</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>80</order>
+    <gospel>John 1:1-18</gospel>
+    <lecture>Isa 52:7-10</lecture>
+    <epistle>Heb 1:1-6</epistle>
+    <template></template>
+  </of.Z1225_3.ABC>
+  <of.Z1226.ABC>
+    <form>of</form>
+    <coordinates>Z1226</coordinates>
+    <cycle>ABC</cycle>
+    <name>H. Stefanus, martelaar</name>
+    <category>feast</category>
+    <color>red</color>
+    <season>Christmastide</season>
+    <order>90</order>
+    <gospel>Matt 10:17-22</gospel>
+    <lecture>Acts 6:8-10,7:54-59</lecture>
+    <epistle />
+    <template></template>
+  </of.Z1226.ABC>
+  <of.Z1227.ABC>
+    <form>of</form>
+    <coordinates>Z1227</coordinates>
+    <cycle>ABC</cycle>
+    <name>H. Johannes, apostel en evangelist</name>
+    <category>feast</category>
+    <color>white</color>
+    <season>Christmastide</season>
+    <order>100</order>
+    <gospel>John 20:2-8</gospel>
+    <lecture>1John 1:1-4</lecture>
+    <epistle />
+    <template></template>
+  </of.Z1227.ABC>
+  <of.Z1228.ABC>
+    <form>of</form>
+    <coordinates>Z1228</coordinates>
+    <cycle>ABC</cycle>
+    <name>HH. Onnozele Kinderen, martelaren</name>
+    <category>feast</category>
+    <color>red</color>
+    <season>Christmastide</season>
+    <order>105</order>
+    <gospel>Matt 2:13-18</gospel>
+    <lecture>1John 1:5,2-2</lecture>
+    <epistle />
+    <template></template>
+  </of.Z1228.ABC>
+  <eo.CHK>
+    <form>eo</form>
+    <coordinates>CHK</coordinates>
+    <cycle />
+    <name>Christ the King</name>
+    <category>feasti</category>
+    <color>white</color>
+    <season>Season per Annum</season>
+    <order>2</order>
+    <gospel>John 18:33-37</gospel>
+    <lecture />
+    <epistle>Col 1:12-20</epistle>
+    <template>2022-10-30</template>
+  </eo.CHK>
+  <eo.SOS_1>
+    <form>eo</form>
+    <coordinates>SOS+1</coordinates>
+    <cycle />
+    <name>Commemoration of all the Faithful Departed, first Mass</name>
+    <category>feasti</category>
+    <color>black</color>
+    <season>Feasts</season>
+    <order>10</order>
+    <gospel>John 5:25-29</gospel>
+    <lecture />
+    <epistle>1Cor 15:51-57</epistle>
+    <template>2022-11-02</template>
+  </eo.SOS_1>
+  <eo.SOS_2>
+    <form>eo</form>
+    <coordinates>SOS+2</coordinates>
+    <cycle />
+    <name>Commemoration of all the Faithful Departed, second Mass</name>
+    <category>feasti</category>
+    <color>black</color>
+    <season>Feasts</season>
+    <order>10</order>
+    <gospel>John 6:37-40</gospel>
+    <lecture />
+    <epistle>2Macc 12:43-46</epistle>
+    <template>2022-11-02</template>
+  </eo.SOS_2>
+  <eo.SOS_3>
+    <form>eo</form>
+    <coordinates>SOS+3</coordinates>
+    <cycle />
+    <name>Commemoration of all the Faithful Departed, third Mass</name>
+    <category>feasti</category>
+    <color>black</color>
+    <season>Feasts</season>
+    <order>10</order>
+    <gospel>John 6:51-55</gospel>
+    <lecture />
+    <epistle>Rev 14:13</epistle>
+    <template>2022-11-02</template>
+  </eo.SOS_3>
+</data>
+

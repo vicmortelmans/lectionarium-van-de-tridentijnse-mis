@@ -1,0 +1,140 @@
+{
+"rkbijbel": {
+  "name": "rkbijbel",
+  "bookskey": "rkbijbel",
+  "editionskey": "rkbijbel",
+  "step": [{
+    "-nr": "1",
+    "type": "jsonpost",
+    "url": "https://rkbijbel.nl/cms/webservice.php?mode=versen",
+    "postdata": "{\"boektag\":\"$book\",\"hoofdstuknr\":\"$chapter\",\"vertalingtag\":\"$edition\"}",
+    "parser": "def parser(json):\n  return [v['stekst'] for v in json if v['iversnummer'] == '$passage'][0]"
+  }]
+},
+"vatican": {
+  "name": "vatican",
+  "bookskey": "vatican",
+  "editionskey": "vatican",
+  "step": [
+    {
+      "-nr": "1",
+      "type": "html",
+      "url": "http://www.vatican.va/archive/ENG0839/_INDEX.HTM",
+      "xpath": "//li//li[normalize-space(font) = '$book']//a[. = '$chapter']/@href|//li//li/font/a[normalize-space(.) = '$book'][not('$book' = 'Exodus')]/@href"
+    },
+    {
+      "-nr": "2",
+      "type": "html",
+      "url": "http://www.vatican.va/archive/ENG0839/$url",
+      "xpath": "//p[normalize-space(.) = '$passage']/following-sibling::p[1]/text()"
+    }
+  ]
+},
+"can": {
+  "name": "can",
+  "bookskey": "osis",
+  "editionskey": "can",
+  "step": [
+    {
+      "-nr": "1",
+      "type": "url",
+      "url": "https://storage.googleapis.com/geloven-leren/canisius-xml/$book-$chapter.xml"
+    },
+    {
+      "-nr": "2",
+      "type": "xml",
+      "url": "$url",
+      "itemPath": "//verse[@number='$passage']/text()"
+    }
+  ]
+},
+"biblija2_net": {
+  "name": "biblija2_net",
+  "bookskey": "biblija_net",
+  "editionskey": "biblija2_net",
+  "step": [
+    {
+      "-nr": "1",
+      "type": "url",
+      "url": "http://www.biblija.net/biblija.cgi?Bible=Bible&m=$book+$chapter%3A+$passage&$edition=1&pos=0&set=1&l=en"
+    },
+    {
+      "-nr": "2",
+      "type": "css",
+      "url": "$url",
+      "css": ".text,.pi,.p,.m,.q",
+      "select": "td.p,div.p"
+    }
+  ]
+},
+"biblija3_net": {
+  "name": "biblija3_net",
+  "bookskey": "biblija_net",
+  "editionskey": "biblija3_net",
+  "step": [
+    {
+      "-nr": "1",
+      "type": "url",
+      "url": "http://www.biblija.net/biblija.cgi?Bible=Bible&m=$book+$chapter%3A+$passage&$edition=1&pos=0&set=1&l=en"
+    },
+    {
+      "-nr": "2",
+      "type": "html",
+      "url": "$url",
+      "xpath": "//td[contains(@class,'text')]//text()[not(contains(ancestor::div[1]/@class,'mt') or contains(parent::span/@class,'v') or contains(parent::span/@class,'c') or contains(ancestor::div[1]/@class,'s'))]"
+    }
+  ]
+},
+"usccb_org": {
+  "name": "usccb_org",
+  "bookskey": "usccb_org",
+  "editionskey": "usccb_org",
+  "step": [
+    {
+      "-nr": "1",
+      "type": "url",
+      "url": "http://origin.usccb.org/bible/$book/$chapter"
+    },
+    {
+      "-nr": "2",
+      "type": "html",
+      "url": "$url",
+      "xpath": "(//div[@id='scribeI']/p/a/text()|//div[@id='scribeI']/p/text())[preceding::span[@class='bcv'][1]='$passage'][not(ancestor::p[@class='fn' or @class='en'])]"
+    }
+  ]
+},
+"diebibel_de": {
+  "name": "diebibel_de",
+  "bookskey": "diebibel_de",
+  "editionskey": "diebibel_de",
+  "step": [{
+    "-nr": "1",
+    "type": "html",
+    "url": "http://www.die-bibel.de/bibelstelle/$book$chapter,$passage/$edition/",
+    "xpath": "//div[@class='markdown']/p/text()"
+  }]
+},
+"unbound_biola_edu": {
+  "name": "unbound_biola_edu",
+  "bookskey": "unbound_biola_edu",
+  "editionskey": "unbound_biola_edu",
+  "step": [{
+    "-nr": "1",
+    "type": "htmlpost",
+    "url": "http://unbound.biola.edu/index.cfm?method=searchResults.doSearch",
+    "postdata": "search_type=simple_search&parallel_1=$edition&parallel_2=&parallel_3=&parallel_4=&book_section=00&book=$book&from_chap=$chapter&from_verse=$passage&to_chap=&to_verse=&text_word=&and_or=AND&and_word=&not_word=&submit=Search&displayFormat=verseAboveNoHeader&highlightFormat=none&num_main=default&num_left=default&num_right=default&show_commentary=0&show_context=0&show_illustrations=0&show_maps=0&versification=nrsva",
+    "xpath": "//tr[count(preceding-sibling::tr) = 3]/td/text()"
+  }]
+},
+"bibliacatolica_com": {
+  "name": "bibliacatolica_com",
+  "bookskey": "bibliacatolica_com",
+  "editionskey": "bibliacatolica_com",
+  "step": [{
+    "-nr": "1",
+    "type": "html",
+    "url": "http://www.bibliacatolica.com.br/$edition/$book/$chapter.php",
+    "xpath": "//p[@data-v=$passage]/span[@class='t']/text()"
+  }]
+}
+}

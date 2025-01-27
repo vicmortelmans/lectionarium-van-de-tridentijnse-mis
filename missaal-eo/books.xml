@@ -1,0 +1,3222 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <input>genesis</input>
+    <input>1 mz</input>
+    <input>1 mojz</input>
+    <input>gen</input>
+    <input>gn</input>
+    <input>ge</input>
+    <input>post</input>
+    <input>has</input>
+    <input>geneza</input>
+    <input>1 mojzes</input>
+    <input>genesis</input>
+    <input>1 mose</input>
+    <input>génesis</input>
+    <code>
+      <usfm>GEN</usfm>
+      <crosswire_org>genesis</crosswire_org>
+      <vatican>Genesis</vatican>
+      <diebibel_de>1.mose</diebibel_de>
+      <unbound_biola_edu>01O</unbound_biola_edu>
+      <usccb_org>genesis</usccb_org>
+      <laparola_net>Genesi</laparola_net>
+      <bibliacatolica_com>1</bibliacatolica_com>
+      <osis>Gen</osis>
+      <biblija_net>Gn</biblija_net>
+      <can>1</can>
+      <rkbijbel>genesis</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Genesis</nl>
+      <en>Genesis</en>
+    </spoken>
+    <language>
+      <nl>gen</nl>
+      <en>gen</en>
+      <fr>gn</fr>
+    </language>
+  </row>
+  <row>
+    <input>exodus</input>
+    <input>2 mz</input>
+    <input>2 mojz</input>
+    <input>exo</input>
+    <input>ex</input>
+    <input>exod</input>
+    <input>izl</input>
+    <input>ir</input>
+    <input>eksodus</input>
+    <input>2 mojzes</input>
+    <input>exodus</input>
+    <input>2 mose</input>
+    <input>éxodo</input>
+    <code>
+      <usfm>EXO</usfm>
+      <crosswire_org>exodus</crosswire_org>
+      <vatican>Exodus</vatican>
+      <diebibel_de>2.mose</diebibel_de>
+      <unbound_biola_edu>02O</unbound_biola_edu>
+      <usccb_org>exodus</usccb_org>
+      <laparola_net>Esodo</laparola_net>
+      <bibliacatolica_com>2</bibliacatolica_com>
+      <osis>Exod</osis>
+      <biblija_net>Ex</biblija_net>
+      <can>2</can>
+      <rkbijbel>exodus</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Exodus</nl>
+      <en>Exodus</en>
+    </spoken>
+    <language>
+      <nl>ex</nl>
+      <en>ex</en>
+      <fr>ex</fr>
+    </language>
+  </row>
+  <row>
+    <input>leviticus</input>
+    <input>3 mz</input>
+    <input>3 mojz</input>
+    <input>lev</input>
+    <input>lév</input>
+    <input>lv</input>
+    <input>lb</input>
+    <input>leu</input>
+    <input>levitik</input>
+    <input>3 mojzes</input>
+    <input>leviticus</input>
+    <input>3 mose</input>
+    <input>levítico</input>
+    <code>
+      <usfm>LEV</usfm>
+      <crosswire_org>leviticus</crosswire_org>
+      <vatican>Leviticus</vatican>
+      <diebibel_de>3.mose</diebibel_de>
+      <unbound_biola_edu>03O</unbound_biola_edu>
+      <usccb_org>leviticus</usccb_org>
+      <laparola_net>Levitico</laparola_net>
+      <bibliacatolica_com>3</bibliacatolica_com>
+      <osis>Lev</osis>
+      <biblija_net>Lv</biblija_net>
+      <can>3</can>
+      <rkbijbel>leviticus</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Leviticus</nl>
+      <en>Leviticus</en>
+    </spoken>
+    <language>
+      <nl>lev</nl>
+      <en>lev</en>
+      <fr>lv</fr>
+    </language>
+  </row>
+  <row>
+    <input>numeri</input>
+    <input>numbers</input>
+    <input>4 mz</input>
+    <input>4 mojz</input>
+    <input>num</input>
+    <input>nm</input>
+    <input>nu</input>
+    <input>nb</input>
+    <input>nomb</input>
+    <input>br</input>
+    <input>zen</input>
+    <input>numeri</input>
+    <input>4 mojzes</input>
+    <input>numbers</input>
+    <input>4 mose</input>
+    <input>números</input>
+    <code>
+      <usfm>NUM</usfm>
+      <crosswire_org>numbers</crosswire_org>
+      <vatican>Numbers</vatican>
+      <diebibel_de>4.mose</diebibel_de>
+      <unbound_biola_edu>04O</unbound_biola_edu>
+      <usccb_org>numbers</usccb_org>
+      <laparola_net>Numeri</laparola_net>
+      <bibliacatolica_com>4</bibliacatolica_com>
+      <osis>Num</osis>
+      <biblija_net>Nm</biblija_net>
+      <can>4</can>
+      <rkbijbel>numeri</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Numeri</nl>
+      <en>Numbers</en>
+    </spoken>
+    <language>
+      <nl>num</nl>
+      <en>num</en>
+      <fr>nb</fr>
+    </language>
+  </row>
+  <row>
+    <input>deuteronomium</input>
+    <input>deuteronomy</input>
+    <input>5 mz</input>
+    <input>5 mojz</input>
+    <input>deu</input>
+    <input>dt</input>
+    <input>deut</input>
+    <input>pnz</input>
+    <input>devteronomij</input>
+    <input>5 mojzes</input>
+    <input>deuteronomium</input>
+    <input>deuteronomy</input>
+    <input>5 mose</input>
+    <input>deuteronomio</input>
+    <code>
+      <usfm>DEU</usfm>
+      <crosswire_org>deuteronomy</crosswire_org>
+      <vatican>Deuteronomy</vatican>
+      <diebibel_de>5.mose</diebibel_de>
+      <unbound_biola_edu>05O</unbound_biola_edu>
+      <usccb_org>deuteronomy</usccb_org>
+      <laparola_net>Deuteronomio</laparola_net>
+      <bibliacatolica_com>5</bibliacatolica_com>
+      <osis>Deut</osis>
+      <biblija_net>Dt</biblija_net>
+      <can>5</can>
+      <rkbijbel>deuteronomium</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Deuteronomium</nl>
+      <en>Deuteronomy</en>
+    </spoken>
+    <language>
+      <nl>deut</nl>
+      <en>deut</en>
+      <fr>dt</fr>
+    </language>
+  </row>
+  <row>
+    <input>jozua</input>
+    <input>joshua</input>
+    <input>joz</input>
+    <input>jos</input>
+    <input>josh</input>
+    <input>ios</input>
+    <input>jš</input>
+    <input>jozue</input>
+    <input>joshua</input>
+    <input>jozua</input>
+    <input>josua</input>
+    <input>josué</input>
+    <code>
+      <usfm>JOS</usfm>
+      <crosswire_org>joshua</crosswire_org>
+      <vatican>Joshua</vatican>
+      <diebibel_de>jos</diebibel_de>
+      <unbound_biola_edu>06O</unbound_biola_edu>
+      <usccb_org>joshua</usccb_org>
+      <laparola_net>Giosuè</laparola_net>
+      <bibliacatolica_com>6</bibliacatolica_com>
+      <osis>Josh</osis>
+      <biblija_net>Josh</biblija_net>
+      <can>6</can>
+      <rkbijbel>jozua</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Jozua</nl>
+      <en>Joshua</en>
+    </spoken>
+    <language>
+      <nl>joz</nl>
+      <en>josh</en>
+      <fr>jos</fr>
+    </language>
+  </row>
+  <row>
+    <input>rechters</input>
+    <input>judges</input>
+    <input>sod</input>
+    <input>sodn</input>
+    <input>jdg</input>
+    <input>judg</input>
+    <input>jg</input>
+    <input>jug</input>
+    <input>jdc</input>
+    <input>jue</input>
+    <input>jt</input>
+    <input>idc</input>
+    <input>re</input>
+    <input>ri</input>
+    <input>richt</input>
+    <input>epa</input>
+    <input>sodniki</input>
+    <input>judges</input>
+    <input>rechters</input>
+    <input>richteren</input>
+    <input>richter</input>
+    <input>jueces</input>
+    <input>juges</input>
+    <code>
+      <usfm>JDG</usfm>
+      <crosswire_org>judges</crosswire_org>
+      <vatican>Judges</vatican>
+      <diebibel_de>ri</diebibel_de>
+      <unbound_biola_edu>07O</unbound_biola_edu>
+      <usccb_org>judges</usccb_org>
+      <laparola_net>Giudici</laparola_net>
+      <bibliacatolica_com>7</bibliacatolica_com>
+      <osis>Judg</osis>
+      <biblija_net>Judg</biblija_net>
+      <can>7</can>
+      <rkbijbel>rechters</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Rechters</nl>
+      <en>Judges</en>
+    </spoken>
+    <language>
+      <nl>ri</nl>
+      <en>judg</en>
+      <fr>jg</fr>
+    </language>
+  </row>
+  <row>
+    <input>ruth</input>
+    <input>rut</input>
+    <input>ru</input>
+    <input>rth</input>
+    <input>rt</input>
+    <input>ruta</input>
+    <code>
+      <usfm>RUT</usfm>
+      <crosswire_org>ruth</crosswire_org>
+      <vatican>Ruth</vatican>
+      <diebibel_de>buch%20rut</diebibel_de>
+      <unbound_biola_edu>08O</unbound_biola_edu>
+      <usccb_org>ruth</usccb_org>
+      <laparola_net>Rut</laparola_net>
+      <bibliacatolica_com>8</bibliacatolica_com>
+      <osis>Ruth</osis>
+      <biblija_net>Rt</biblija_net>
+      <can>8</can>
+      <rkbijbel>ruth</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Ruth</nl>
+      <en>Ruth</en>
+    </spoken>
+    <language>
+      <nl>ruth</nl>
+      <en>ruth</en>
+      <fr>rt</fr>
+    </language>
+  </row>
+  <row>
+    <input>het eerste boek samuël</input>
+    <input>the first book of samuel</input>
+    <input>1 samuel</input>
+    <input>1 sam</input>
+    <input>1 sa</input>
+    <input>1 s</input>
+    <input>1 sm</input>
+    <input>1 rg</input>
+    <input>1 regn</input>
+    <input>1 samuel</input>
+    <input>1 samuël</input>
+    <input>1samuel</input>
+    <input>1sam</input>
+    <input>1sa</input>
+    <input>1s</input>
+    <input>1sm</input>
+    <input>1rg</input>
+    <input>1regn</input>
+    <input>1samuel</input>
+    <input>1samuël</input>
+    <code>
+      <usfm>1SA</usfm>
+      <crosswire_org>1samuel</crosswire_org>
+      <vatican>1 Samuel</vatican>
+      <diebibel_de>1.sam</diebibel_de>
+      <unbound_biola_edu>09O</unbound_biola_edu>
+      <usccb_org>1samuel</usccb_org>
+      <laparola_net>1 Samuele</laparola_net>
+      <bibliacatolica_com>9</bibliacatolica_com>
+      <osis>1Sam</osis>
+      <biblija_net>1 Sa</biblija_net>
+      <can>9</can>
+      <rkbijbel>1samuel</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het eerste boek Samuël</nl>
+      <en>The First Book of Samuel</en>
+    </spoken>
+    <language>
+      <nl>1 sam</nl>
+      <en>1 sam</en>
+      <fr>1 s</fr>
+    </language>
+  </row>
+  <row>
+    <input>het tweede boek samuël</input>
+    <input>the second book of samuel</input>
+    <input>2 samuel</input>
+    <input>2 sam</input>
+    <input>2 sa</input>
+    <input>2 s</input>
+    <input>2 sm</input>
+    <input>2 rg</input>
+    <input>2 regn</input>
+    <input>2 samuel</input>
+    <input>2 samuël</input>
+    <input>2samuel</input>
+    <input>2sam</input>
+    <input>2sa</input>
+    <input>2s</input>
+    <input>2sm</input>
+    <input>2rg</input>
+    <input>2regn</input>
+    <input>2samuel</input>
+    <input>2samuël</input>
+    <code>
+      <usfm>2SA</usfm>
+      <crosswire_org>2samuel</crosswire_org>
+      <vatican>2 Samuel</vatican>
+      <diebibel_de>2.sam</diebibel_de>
+      <unbound_biola_edu>10O</unbound_biola_edu>
+      <usccb_org>2samuel</usccb_org>
+      <laparola_net>2 Samuele</laparola_net>
+      <bibliacatolica_com>10</bibliacatolica_com>
+      <osis>2Sam</osis>
+      <biblija_net>2 Sa</biblija_net>
+      <can>10</can>
+      <rkbijbel>2samuel</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het tweede boek Samuël</nl>
+      <en>The Second Book of Samuel</en>
+    </spoken>
+    <language>
+      <nl>2 sam</nl>
+      <en>2 sam</en>
+      <fr>2 s</fr>
+    </language>
+  </row>
+  <row>
+    <input>het eerste boek koningen</input>
+    <input>the first book of kings</input>
+    <input>1 kings</input>
+    <input>1 kr</input>
+    <input>1 kra</input>
+    <input>1 kralj</input>
+    <input>1 ki</input>
+    <input>1 kgs</input>
+    <input>1 r</input>
+    <input>1 re</input>
+    <input>3 rg</input>
+    <input>3 regn</input>
+    <input>1 kon</input>
+    <input>1 kön</input>
+    <input>1 erg</input>
+    <input>1 rois</input>
+    <input>1 kings</input>
+    <input>1 kralji</input>
+    <input>1 koningen</input>
+    <input>1 königen</input>
+    <input>1 reyes</input>
+    <input>1kings</input>
+    <input>1kr</input>
+    <input>1kra</input>
+    <input>1kralj</input>
+    <input>1ki</input>
+    <input>1kgs</input>
+    <input>1r</input>
+    <input>1re</input>
+    <input>3rg</input>
+    <input>3regn</input>
+    <input>1kon</input>
+    <input>1kön</input>
+    <input>1erg</input>
+    <input>1rois</input>
+    <input>1kings</input>
+    <input>1kralji</input>
+    <input>1koningen</input>
+    <input>1königen</input>
+    <input>1reyes</input>
+    <code>
+      <usfm>1KI</usfm>
+      <crosswire_org>1kings</crosswire_org>
+      <vatican>1 Kings</vatican>
+      <diebibel_de>1.k%C3%B6n</diebibel_de>
+      <unbound_biola_edu>11O</unbound_biola_edu>
+      <usccb_org>1kings</usccb_org>
+      <laparola_net>1 Re</laparola_net>
+      <bibliacatolica_com>11</bibliacatolica_com>
+      <osis>1Kgs</osis>
+      <biblija_net>1 Kgs</biblija_net>
+      <can>11</can>
+      <rkbijbel>1koningen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het eerste boek Koningen</nl>
+      <en>The First Book of Kings</en>
+    </spoken>
+    <language>
+      <nl>1 kon</nl>
+      <en>1 kings</en>
+      <fr>1 r</fr>
+    </language>
+  </row>
+  <row>
+    <input>het tweede boek koningen</input>
+    <input>the second book of kings</input>
+    <input>2 kings</input>
+    <input>2 kr</input>
+    <input>2 kra</input>
+    <input>2 kralj</input>
+    <input>2 ki</input>
+    <input>2 kgs</input>
+    <input>2 r</input>
+    <input>2 re</input>
+    <input>4 rg</input>
+    <input>4 regn</input>
+    <input>2 kon</input>
+    <input>2 kön</input>
+    <input>2 erg</input>
+    <input>2 rois</input>
+    <input>2 kings</input>
+    <input>2 kralji</input>
+    <input>2 koningen</input>
+    <input>2 königen</input>
+    <input>2 reyes</input>
+    <input>2kings</input>
+    <input>2kr</input>
+    <input>2kra</input>
+    <input>2kralj</input>
+    <input>2ki</input>
+    <input>2kgs</input>
+    <input>2r</input>
+    <input>2re</input>
+    <input>4rg</input>
+    <input>4regn</input>
+    <input>2kon</input>
+    <input>2kön</input>
+    <input>2erg</input>
+    <input>2rois</input>
+    <input>2kings</input>
+    <input>2kralji</input>
+    <input>2koningen</input>
+    <input>2königen</input>
+    <input>2reyes</input>
+    <code>
+      <usfm>2KI</usfm>
+      <crosswire_org>2kings</crosswire_org>
+      <vatican>2 Kings</vatican>
+      <diebibel_de>2.k%C3%B6n</diebibel_de>
+      <unbound_biola_edu>12O</unbound_biola_edu>
+      <usccb_org>2kings</usccb_org>
+      <laparola_net>2 Re</laparola_net>
+      <bibliacatolica_com>12</bibliacatolica_com>
+      <osis>2Kgs</osis>
+      <biblija_net>2 Kgs</biblija_net>
+      <can>12</can>
+      <rkbijbel>2koningen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het tweede boek Koningen</nl>
+      <en>The Second Book of Kings</en>
+    </spoken>
+    <language>
+      <nl>2 kon</nl>
+      <en>2 kings</en>
+      <fr>2 r</fr>
+    </language>
+  </row>
+  <row>
+    <input>het eerste boek kronieken</input>
+    <input>the first book of chronicles</input>
+    <input>1 chronicles</input>
+    <input>1 krn</input>
+    <input>1 kron</input>
+    <input>1 let</input>
+    <input>1 ljet</input>
+    <input>1 ch</input>
+    <input>1 cr</input>
+    <input>1 cro</input>
+    <input>1 kro</input>
+    <input>1 chron</input>
+    <input>1 chr</input>
+    <input>1 kroniška</input>
+    <input>1 letopisi</input>
+    <input>1 chronicles</input>
+    <input>1 kronieken</input>
+    <input>1 chronik</input>
+    <input>1 crónicas</input>
+    <input>1chronicles</input>
+    <input>1krn</input>
+    <input>1kron</input>
+    <input>1let</input>
+    <input>1ljet</input>
+    <input>1ch</input>
+    <input>1cr</input>
+    <input>1cro</input>
+    <input>1kro</input>
+    <input>1chron</input>
+    <input>1chr</input>
+    <input>1kroniška</input>
+    <input>1letopisi</input>
+    <input>1chronicles</input>
+    <input>1kronieken</input>
+    <input>1chronik</input>
+    <input>1crónicas</input>
+    <code>
+      <usfm>1CH</usfm>
+      <crosswire_org>1chronicles</crosswire_org>
+      <vatican>1 Chronicles</vatican>
+      <diebibel_de>1.chr</diebibel_de>
+      <unbound_biola_edu>13O</unbound_biola_edu>
+      <usccb_org>1chronicles</usccb_org>
+      <laparola_net>1 Cronache</laparola_net>
+      <bibliacatolica_com>13</bibliacatolica_com>
+      <osis>1Chr</osis>
+      <biblija_net>1 Ch</biblija_net>
+      <can>13</can>
+      <rkbijbel>1kronieken</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het eerste boek Kronieken</nl>
+      <en>The First Book of Chronicles</en>
+    </spoken>
+    <language>
+      <nl>1 kron</nl>
+      <en>1 chr</en>
+      <fr>1 ch</fr>
+    </language>
+  </row>
+  <row>
+    <input>het tweede boek kronieken</input>
+    <input>the second book of chronicles</input>
+    <input>2 chronicles</input>
+    <input>2 krn</input>
+    <input>2 kron</input>
+    <input>2 let</input>
+    <input>2 ljet</input>
+    <input>2 ch</input>
+    <input>2 cr</input>
+    <input>2 cro</input>
+    <input>2 kro</input>
+    <input>2 chron</input>
+    <input>2 chr</input>
+    <input>2 kroniška</input>
+    <input>2 letopisi</input>
+    <input>2 chronicles</input>
+    <input>2 kronieken</input>
+    <input>2 chronik</input>
+    <input>2 crónicas</input>
+    <input>2chronicles</input>
+    <input>2krn</input>
+    <input>2kron</input>
+    <input>2let</input>
+    <input>2ljet</input>
+    <input>2ch</input>
+    <input>2cr</input>
+    <input>2cro</input>
+    <input>2kro</input>
+    <input>2chron</input>
+    <input>2chr</input>
+    <input>2kroniška</input>
+    <input>2letopisi</input>
+    <input>2chronicles</input>
+    <input>2kronieken</input>
+    <input>2chronik</input>
+    <input>2crónicas</input>
+    <code>
+      <usfm>2CH</usfm>
+      <crosswire_org>2chronicles</crosswire_org>
+      <vatican>2 Chronicles</vatican>
+      <diebibel_de>2.chr</diebibel_de>
+      <unbound_biola_edu>14O</unbound_biola_edu>
+      <usccb_org>2chronicles</usccb_org>
+      <laparola_net>2 Cronache</laparola_net>
+      <bibliacatolica_com>14</bibliacatolica_com>
+      <osis>2Chr</osis>
+      <biblija_net>2 Ch</biblija_net>
+      <can>14</can>
+      <rkbijbel>2kronieken</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het tweede boek Kronieken</nl>
+      <en>The Second Book of Chronicles</en>
+    </spoken>
+    <language>
+      <nl>2 kron</nl>
+      <en>2 chr</en>
+      <fr>2 ch</fr>
+    </language>
+  </row>
+  <row>
+    <input>ezra</input>
+    <input>ezr</input>
+    <input>ezdr</input>
+    <input>esra</input>
+    <input>esr</input>
+    <input>esd</input>
+    <input>1 ezr</input>
+    <input>1 esr</input>
+    <input>ezdra</input>
+    <input>esdras</input>
+    <code>
+      <usfm>EZR</usfm>
+      <crosswire_org>ezra</crosswire_org>
+      <vatican>Ezra</vatican>
+      <diebibel_de>esra</diebibel_de>
+      <unbound_biola_edu>15O</unbound_biola_edu>
+      <usccb_org>ezra</usccb_org>
+      <laparola_net>Esdra</laparola_net>
+      <bibliacatolica_com>15</bibliacatolica_com>
+      <osis>Ezra</osis>
+      <biblija_net>Esr</biblija_net>
+      <can>15</can>
+      <rkbijbel>ezra</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Ezra</nl>
+      <en>Ezra</en>
+    </spoken>
+    <language>
+      <nl>ezra</nl>
+      <en>ezra</en>
+      <fr>esd</fr>
+    </language>
+  </row>
+  <row>
+    <input>nehemia</input>
+    <input>nehemiah</input>
+    <input>neh</input>
+    <input>néh</input>
+    <input>ne</input>
+    <input>né</input>
+    <input>2 ezr</input>
+    <input>2 esr</input>
+    <input>nehemija</input>
+    <input>nehemiah</input>
+    <input>nehemia</input>
+    <input>nehemías</input>
+    <code>
+      <usfm>NEH</usfm>
+      <crosswire_org>nehemiah</crosswire_org>
+      <vatican>Nehemiah</vatican>
+      <diebibel_de>neh</diebibel_de>
+      <unbound_biola_edu>16O</unbound_biola_edu>
+      <usccb_org>nehemiah</usccb_org>
+      <laparola_net>Neemia</laparola_net>
+      <bibliacatolica_com>16</bibliacatolica_com>
+      <osis>Neh</osis>
+      <biblija_net>Ne</biblija_net>
+      <can>16</can>
+      <rkbijbel>nehemia</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Nehemia</nl>
+      <en>Nehemiah</en>
+    </spoken>
+    <language>
+      <nl>neh</nl>
+      <en>neh</en>
+      <fr>ne</fr>
+    </language>
+  </row>
+  <row>
+    <input>ester</input>
+    <input>esther</input>
+    <input>est</input>
+    <input>ester</input>
+    <input>esth</input>
+    <input>esther</input>
+    <input>estera</input>
+    <code>
+      <usfm>EST</usfm>
+      <crosswire_org>esther</crosswire_org>
+      <vatican>Esther</vatican>
+      <diebibel_de>est</diebibel_de>
+      <unbound_biola_edu>17O</unbound_biola_edu>
+      <usccb_org>esther</usccb_org>
+      <laparola_net>Ester</laparola_net>
+      <bibliacatolica_com>19</bibliacatolica_com>
+      <osis>Esth</osis>
+      <biblija_net>Esth</biblija_net>
+      <can>17</can>
+      <rkbijbel>ester</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Ester</nl>
+      <en>Esther</en>
+    </spoken>
+    <language>
+      <nl>est</nl>
+      <en>esth</en>
+      <fr>est</fr>
+    </language>
+  </row>
+  <row>
+    <input>job</input>
+    <input>hi</input>
+    <input>jb</input>
+    <input>iob</input>
+    <input>hiob</input>
+    <input>ijob</input>
+    <code>
+      <usfm>JOB</usfm>
+      <crosswire_org>job</crosswire_org>
+      <vatican>Job</vatican>
+      <diebibel_de>hiob</diebibel_de>
+      <unbound_biola_edu>18O</unbound_biola_edu>
+      <usccb_org>job</usccb_org>
+      <laparola_net>Giobbe</laparola_net>
+      <bibliacatolica_com>20</bibliacatolica_com>
+      <osis>Job</osis>
+      <biblija_net>Jb</biblija_net>
+      <can>18</can>
+      <rkbijbel>job</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Job</nl>
+      <en>Job</en>
+    </spoken>
+    <language>
+      <nl>job</nl>
+      <en>job</en>
+      <fr>jb</fr>
+    </language>
+  </row>
+  <row>
+    <input>de psalmen</input>
+    <input>psalms</input>
+    <input>ps</input>
+    <input>psa</input>
+    <input>psg</input>
+    <input>sal</input>
+    <input>sl</input>
+    <input>psalm</input>
+    <input>psalmi</input>
+    <input>psalmen</input>
+    <input>salmos</input>
+    <code>
+      <usfm>PSA</usfm>
+      <diebibel_de>ps</diebibel_de>
+      <unbound_biola_edu>19O</unbound_biola_edu>
+      <usccb_org>psalms</usccb_org>
+      <laparola_net>Salmi</laparola_net>
+      <bibliacatolica_com>21</bibliacatolica_com>
+      <osis>Ps</osis>
+      <biblija_net>Ps</biblija_net>
+      <can>19</can>
+      <rkbijbel>psalmen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De psalmen</nl>
+      <en>Psalms</en>
+    </spoken>
+    <language>
+      <nl>ps</nl>
+      <en>ps</en>
+      <fr>ps</fr>
+    </language>
+  </row>
+  <row>
+    <input>spreuken</input>
+    <input>proverbs</input>
+    <input>prg</input>
+    <input>preg</input>
+    <input>pro</input>
+    <input>prov</input>
+    <input>pr</input>
+    <input>prv</input>
+    <input>prou</input>
+    <input>spr</input>
+    <input>izr</input>
+    <input>esz</input>
+    <input>pregovori</input>
+    <input>proverbs</input>
+    <input>spreuken</input>
+    <input>sprüche</input>
+    <input>sprichwörter</input>
+    <input>proverbios</input>
+    <code>
+      <usfm>PRO</usfm>
+      <crosswire_org>proverbs</crosswire_org>
+      <vatican>Proverbs</vatican>
+      <diebibel_de>spr</diebibel_de>
+      <unbound_biola_edu>20O</unbound_biola_edu>
+      <usccb_org>proverbs</usccb_org>
+      <laparola_net>Proverbi</laparola_net>
+      <bibliacatolica_com>24</bibliacatolica_com>
+      <osis>Prov</osis>
+      <biblija_net>Pr</biblija_net>
+      <can>20</can>
+      <rkbijbel>spreuken</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Spreuken</nl>
+      <en>Proverbs</en>
+    </spoken>
+    <language>
+      <nl>spr</nl>
+      <en>prov</en>
+      <fr>pr</fr>
+    </language>
+  </row>
+  <row>
+    <input>prediker</input>
+    <input>ecclesiastes</input>
+    <input>prd</input>
+    <input>prid</input>
+    <input>prop</input>
+    <input>ec</input>
+    <input>ecc</input>
+    <input>eccl</input>
+    <input>ecl</input>
+    <input>qo</input>
+    <input>qoh</input>
+    <input>coh</input>
+    <input>koh</input>
+    <input>pred</input>
+    <input>pridigar</input>
+    <input>ecclesiastes</input>
+    <input>prediger</input>
+    <input>qoheleth</input>
+    <input>qohéleth</input>
+    <input>eclesiastés</input>
+    <code>
+      <usfm>ECC</usfm>
+      <crosswire_org>ecclesiastes</crosswire_org>
+      <vatican>Ecclesiastes</vatican>
+      <diebibel_de>pred</diebibel_de>
+      <unbound_biola_edu>21O</unbound_biola_edu>
+      <usccb_org>ecclesiastes</usccb_org>
+      <laparola_net>Qoelet</laparola_net>
+      <bibliacatolica_com>25</bibliacatolica_com>
+      <osis>Eccl</osis>
+      <biblija_net>Ec</biblija_net>
+      <can>21</can>
+      <rkbijbel>prediker</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Prediker</nl>
+      <en>Ecclesiastes</en>
+    </spoken>
+    <language>
+      <nl>pred</nl>
+      <en>ecc</en>
+      <fr>qo</fr>
+    </language>
+  </row>
+  <row>
+    <input>hooglied</input>
+    <input>song of solomon</input>
+    <input>vp</input>
+    <input>sng</input>
+    <input>song</input>
+    <input>sgs</input>
+    <input>ss</input>
+    <input>cant</input>
+    <input>cnt</input>
+    <input>ct</input>
+    <input>kt</input>
+    <input>hoogl</input>
+    <input>hl</input>
+    <input>hld</input>
+    <input>pj</input>
+    <input>visokapesem</input>
+    <input>visokap</input>
+    <input>canticles</input>
+    <input>hooglied</input>
+    <input>hoheslied</input>
+    <input>cantares</input>
+    <code>
+      <usfm>SNG</usfm>
+      <crosswire_org>song</crosswire_org>
+      <vatican>The Song of Songs</vatican>
+      <diebibel_de>hld</diebibel_de>
+      <unbound_biola_edu>22O</unbound_biola_edu>
+      <usccb_org>song</usccb_org>
+      <laparola_net>Cantico dei Cantici</laparola_net>
+      <bibliacatolica_com>26</bibliacatolica_com>
+      <osis>Song</osis>
+      <biblija_net>Song</biblija_net>
+      <can>22</can>
+      <rkbijbel>hooglied</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Hooglied</nl>
+      <en>Song of Solomon</en>
+    </spoken>
+    <language>
+      <nl>hoogl</nl>
+      <en>song</en>
+      <fr>ct</fr>
+    </language>
+  </row>
+  <row>
+    <input>jesaja</input>
+    <input>isaiah</input>
+    <input>iz</input>
+    <input>izai</input>
+    <input>izaija</input>
+    <input>isa</input>
+    <input>is</input>
+    <input>jes</input>
+    <input>js</input>
+    <input>es</input>
+    <input>és</input>
+    <input>isaiah</input>
+    <input>jesaja</input>
+    <input>isaías</input>
+    <code>
+      <usfm>ISA</usfm>
+      <crosswire_org>isaiah</crosswire_org>
+      <vatican>Isaiah</vatican>
+      <diebibel_de>jes</diebibel_de>
+      <unbound_biola_edu>23O</unbound_biola_edu>
+      <usccb_org>isaiah</usccb_org>
+      <laparola_net>Isaia</laparola_net>
+      <bibliacatolica_com>29</bibliacatolica_com>
+      <osis>Isa</osis>
+      <biblija_net>Is</biblija_net>
+      <can>23</can>
+      <rkbijbel>jesaja</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Jesaja</nl>
+      <en>Isaiah</en>
+    </spoken>
+    <language>
+      <nl>jes</nl>
+      <en>isa</en>
+      <fr>is</fr>
+    </language>
+  </row>
+  <row>
+    <input>jeremia</input>
+    <input>jeremiah</input>
+    <input>jer</input>
+    <input>jér</input>
+    <input>jr</input>
+    <input>ier</input>
+    <input>jeremija</input>
+    <input>jeremiah</input>
+    <input>jeremia</input>
+    <input>jeremías</input>
+    <code>
+      <usfm>JER</usfm>
+      <crosswire_org>jeremiah</crosswire_org>
+      <vatican>Jeremiah</vatican>
+      <diebibel_de>jer</diebibel_de>
+      <unbound_biola_edu>24O</unbound_biola_edu>
+      <usccb_org>jeremiah</usccb_org>
+      <laparola_net>Geremia</laparola_net>
+      <bibliacatolica_com>30</bibliacatolica_com>
+      <osis>Jer</osis>
+      <biblija_net>Jr</biblija_net>
+      <can>24</can>
+      <rkbijbel>jeremia</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Jeremia</nl>
+      <en>Jeremiah</en>
+    </spoken>
+    <language>
+      <nl>jer</nl>
+      <en>jer</en>
+      <fr>jr</fr>
+    </language>
+  </row>
+  <row>
+    <input>klaagliederen</input>
+    <input>lamentations</input>
+    <input>žal</input>
+    <input>lam</input>
+    <input>la</input>
+    <input>lm</input>
+    <input>thr</input>
+    <input>klaagl</input>
+    <input>kl</input>
+    <input>klgl</input>
+    <input>klgld</input>
+    <input>tuž</input>
+    <input>nk</input>
+    <input>žalostinke</input>
+    <input>lamentations</input>
+    <input>klaagliederen</input>
+    <input>klagelieder</input>
+    <input>lamentaciones</input>
+    <code>
+      <usfm>LAM</usfm>
+      <crosswire_org>lamentations</crosswire_org>
+      <vatican>Lamentations</vatican>
+      <diebibel_de>klgl</diebibel_de>
+      <unbound_biola_edu>25O</unbound_biola_edu>
+      <usccb_org>lamentations</usccb_org>
+      <laparola_net>Lamentazioni</laparola_net>
+      <bibliacatolica_com>31</bibliacatolica_com>
+      <osis>Lam</osis>
+      <biblija_net>La</biblija_net>
+      <can>25</can>
+      <rkbijbel>klaagliederen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Klaagliederen</nl>
+      <en>Lamentations</en>
+    </spoken>
+    <language>
+      <nl>klaagl</nl>
+      <en>lam</en>
+      <fr>lm</fr>
+    </language>
+  </row>
+  <row>
+    <input>ezechiël</input>
+    <input>ezekiel</input>
+    <input>ezk</input>
+    <input>ez</input>
+    <input>eze</input>
+    <input>ezec</input>
+    <input>ezek</input>
+    <input>ézék</input>
+    <input>hes</input>
+    <input>ezekiel</input>
+    <input>ezekijel</input>
+    <input>ezechiël</input>
+    <input>ezechiel</input>
+    <input>hesekiel</input>
+    <input>ézékiel</input>
+    <input>ezequiel</input>
+    <code>
+      <usfm>EZK</usfm>
+      <crosswire_org>ezekiel</crosswire_org>
+      <vatican>Ezekiel</vatican>
+      <diebibel_de>hes</diebibel_de>
+      <unbound_biola_edu>26O</unbound_biola_edu>
+      <usccb_org>ezekiel</usccb_org>
+      <laparola_net>Ezechiele</laparola_net>
+      <bibliacatolica_com>33</bibliacatolica_com>
+      <osis>Ezek</osis>
+      <biblija_net>Ez</biblija_net>
+      <can>26</can>
+      <rkbijbel>ezechiel</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Ezechiël</nl>
+      <en>Ezekiel</en>
+    </spoken>
+    <language>
+      <nl>eze</nl>
+      <en>ezek</en>
+      <fr>ez</fr>
+    </language>
+  </row>
+  <row>
+    <input>daniël</input>
+    <input>daniel</input>
+    <input>dan</input>
+    <input>da</input>
+    <input>dn</input>
+    <input>daniel</input>
+    <input>danijel</input>
+    <input>daniël</input>
+    <code>
+      <usfm>DAN</usfm>
+      <crosswire_org>daniel</crosswire_org>
+      <vatican>Daniel</vatican>
+      <diebibel_de>dan</diebibel_de>
+      <unbound_biola_edu>27O</unbound_biola_edu>
+      <usccb_org>daniel</usccb_org>
+      <laparola_net>Daniele</laparola_net>
+      <bibliacatolica_com>34</bibliacatolica_com>
+      <osis>Dan</osis>
+      <biblija_net>Da</biblija_net>
+      <can>27</can>
+      <rkbijbel>daniel</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Daniël</nl>
+      <en>Daniel</en>
+    </spoken>
+    <language>
+      <nl>dan</nl>
+      <en>dan</en>
+      <fr>dn</fr>
+    </language>
+  </row>
+  <row>
+    <input>hosea</input>
+    <input>oz</input>
+    <input>ozea</input>
+    <input>hos</input>
+    <input>ho</input>
+    <input>os</input>
+    <input>hoš</input>
+    <input>ozej</input>
+    <input>hosea</input>
+    <input>osee</input>
+    <input>osée</input>
+    <input>oseas</input>
+    <code>
+      <usfm>HOS</usfm>
+      <crosswire_org>hosea</crosswire_org>
+      <vatican>Hosea</vatican>
+      <diebibel_de>hos</diebibel_de>
+      <unbound_biola_edu>28O</unbound_biola_edu>
+      <usccb_org>hosea</usccb_org>
+      <laparola_net>Osea</laparola_net>
+      <bibliacatolica_com>35</bibliacatolica_com>
+      <osis>Hos</osis>
+      <biblija_net>Ho</biblija_net>
+      <can>28</can>
+      <rkbijbel>hosea</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Hosea</nl>
+      <en>Hosea</en>
+    </spoken>
+    <language>
+      <nl>hos</nl>
+      <en>hos</en>
+      <fr>os</fr>
+    </language>
+  </row>
+  <row>
+    <input>joël</input>
+    <input>joel</input>
+    <input>jl</input>
+    <input>jol</input>
+    <input>joel</input>
+    <input>ioel</input>
+    <input>joël</input>
+    <code>
+      <usfm>JOL</usfm>
+      <crosswire_org>joel</crosswire_org>
+      <vatican>Joel</vatican>
+      <diebibel_de>joel</diebibel_de>
+      <unbound_biola_edu>29O</unbound_biola_edu>
+      <usccb_org>joel</usccb_org>
+      <laparola_net>Gioele</laparola_net>
+      <bibliacatolica_com>36</bibliacatolica_com>
+      <osis>Joel</osis>
+      <biblija_net>Jl</biblija_net>
+      <can>29</can>
+      <rkbijbel>joel</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Joël</nl>
+      <en>Joel</en>
+    </spoken>
+    <language>
+      <nl>joël</nl>
+      <en>joel</en>
+      <fr>jl</fr>
+    </language>
+  </row>
+  <row>
+    <input>amos</input>
+    <input>am</input>
+    <input>amo</input>
+    <input>amós</input>
+    <code>
+      <usfm>AMO</usfm>
+      <crosswire_org>amos</crosswire_org>
+      <vatican>Amos</vatican>
+      <diebibel_de>am</diebibel_de>
+      <unbound_biola_edu>30O</unbound_biola_edu>
+      <usccb_org>amos</usccb_org>
+      <laparola_net>Amos</laparola_net>
+      <bibliacatolica_com>37</bibliacatolica_com>
+      <osis>Amos</osis>
+      <biblija_net>Am</biblija_net>
+      <can>30</can>
+      <rkbijbel>amos</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Amos</nl>
+      <en>Amos</en>
+    </spoken>
+    <language>
+      <nl>am</nl>
+      <en>am</en>
+      <fr>am</fr>
+    </language>
+  </row>
+  <row>
+    <input>obadja</input>
+    <input>obadiah</input>
+    <input>abd</input>
+    <input>ab</input>
+    <input>oba</input>
+    <input>obd</input>
+    <input>obad</input>
+    <input>ob</input>
+    <input>abdija</input>
+    <input>obadija</input>
+    <input>obadiah</input>
+    <input>obadja</input>
+    <input>abdías</input>
+    <code>
+      <usfm>OBA</usfm>
+      <crosswire_org>obadiah</crosswire_org>
+      <vatican>Obadiah</vatican>
+      <diebibel_de>obd</diebibel_de>
+      <unbound_biola_edu>31O</unbound_biola_edu>
+      <usccb_org>obadiah</usccb_org>
+      <laparola_net>Abdia</laparola_net>
+      <bibliacatolica_com>38</bibliacatolica_com>
+      <osis>Obad</osis>
+      <biblija_net>Ob</biblija_net>
+      <can>31</can>
+      <rkbijbel>obadja</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Obadja</nl>
+      <en>Obadiah</en>
+    </spoken>
+    <language>
+      <nl>ob</nl>
+      <en>ob</en>
+      <fr>ab</fr>
+    </language>
+  </row>
+  <row>
+    <input>jona</input>
+    <input>jonah</input>
+    <input>jon</input>
+    <input>jnh</input>
+    <input>ion</input>
+    <input>jonás</input>
+    <code>
+      <usfm>JON</usfm>
+      <crosswire_org>jonah</crosswire_org>
+      <vatican>Jonah</vatican>
+      <diebibel_de>jona</diebibel_de>
+      <unbound_biola_edu>32O</unbound_biola_edu>
+      <usccb_org>jonah</usccb_org>
+      <laparola_net>Giona</laparola_net>
+      <bibliacatolica_com>39</bibliacatolica_com>
+      <osis>Jonah</osis>
+      <biblija_net>Jnh</biblija_net>
+      <can>32</can>
+      <rkbijbel>jonas</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Jona</nl>
+      <en>Jonah</en>
+    </spoken>
+    <language>
+      <nl>jona</nl>
+      <en>jon</en>
+      <fr>jon</fr>
+    </language>
+  </row>
+  <row>
+    <input>micha</input>
+    <input>micah</input>
+    <input>mih</input>
+    <input>mic</input>
+    <input>mi</input>
+    <input>mch</input>
+    <input>mich</input>
+    <input>miq</input>
+    <input>mihej</input>
+    <input>miha</input>
+    <input>miqueas</input>
+    <code>
+      <usfm>MIC</usfm>
+      <crosswire_org>micah</crosswire_org>
+      <vatican>Micah</vatican>
+      <diebibel_de>mi</diebibel_de>
+      <unbound_biola_edu>33O</unbound_biola_edu>
+      <usccb_org>micah</usccb_org>
+      <laparola_net>Michea</laparola_net>
+      <bibliacatolica_com>40</bibliacatolica_com>
+      <osis>Mic</osis>
+      <biblija_net>Mi</biblija_net>
+      <can>33</can>
+      <rkbijbel>micha</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Micha</nl>
+      <en>Micah</en>
+    </spoken>
+    <language>
+      <nl>mi</nl>
+      <en>mic</en>
+      <fr>mi</fr>
+    </language>
+  </row>
+  <row>
+    <input>nah</input>
+    <input>nam</input>
+    <input>na</input>
+    <input>nahum</input>
+    <input>nahúm</input>
+    <code>
+      <usfm>NAM</usfm>
+      <crosswire_org>nahum</crosswire_org>
+      <vatican>Nahum</vatican>
+      <diebibel_de>nah</diebibel_de>
+      <unbound_biola_edu>34O</unbound_biola_edu>
+      <usccb_org>nahum</usccb_org>
+      <laparola_net>Naum</laparola_net>
+      <bibliacatolica_com>41</bibliacatolica_com>
+      <osis>Nah</osis>
+      <biblija_net>Na</biblija_net>
+      <can>34</can>
+      <rkbijbel>nahum</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Nahum</nl>
+      <en>Nahum</en>
+    </spoken>
+    <language>
+      <nl>nah</nl>
+      <en>nah</en>
+      <fr>na</fr>
+    </language>
+  </row>
+  <row>
+    <input>habakuk</input>
+    <input>habakkuk</input>
+    <input>hab</input>
+    <input>ha</input>
+    <input>habb</input>
+    <input>habacuc</input>
+    <code>
+      <usfm>HAB</usfm>
+      <crosswire_org>habakkuk</crosswire_org>
+      <vatican>Habakkuk</vatican>
+      <diebibel_de>hab</diebibel_de>
+      <unbound_biola_edu>35O</unbound_biola_edu>
+      <usccb_org>habakkuk</usccb_org>
+      <laparola_net>Abacuc</laparola_net>
+      <bibliacatolica_com>42</bibliacatolica_com>
+      <osis>Hab</osis>
+      <biblija_net>Ha</biblija_net>
+      <can>35</can>
+      <rkbijbel>habakuk</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Habakuk</nl>
+      <en>Habakkuk</en>
+    </spoken>
+    <language>
+      <nl>hab</nl>
+      <en>hab</en>
+      <fr>ha</fr>
+    </language>
+  </row>
+  <row>
+    <input>sefanja</input>
+    <input>zephaniah</input>
+    <input>sof</input>
+    <input>zep</input>
+    <input>zeph</input>
+    <input>zef</input>
+    <input>sef</input>
+    <input>so</input>
+    <input>soph</input>
+    <input>sofonija</input>
+    <input>zefanija</input>
+    <input>zephanja</input>
+    <input>zefanja</input>
+    <input>sofonías</input>
+    <code>
+      <usfm>ZEP</usfm>
+      <crosswire_org>zephaniah</crosswire_org>
+      <vatican>Zephaniah</vatican>
+      <diebibel_de>zeph</diebibel_de>
+      <unbound_biola_edu>38O</unbound_biola_edu>
+      <usccb_org>zephaniah</usccb_org>
+      <laparola_net>Sofonia</laparola_net>
+      <bibliacatolica_com>43</bibliacatolica_com>
+      <osis>Zeph</osis>
+      <biblija_net>Zep</biblija_net>
+      <can>36</can>
+      <rkbijbel>sefanja</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Sefanja</nl>
+      <en>Zephaniah</en>
+    </spoken>
+    <language>
+      <nl>sef</nl>
+      <en>zeph</en>
+      <fr>so</fr>
+    </language>
+  </row>
+  <row>
+    <input>haggai</input>
+    <input>ag</input>
+    <input>hag</input>
+    <input>hagg</input>
+    <input>hgg</input>
+    <input>hg</input>
+    <input>agg</input>
+    <input>agej</input>
+    <input>hagaj</input>
+    <input>hageo</input>
+    <code>
+      <usfm>HAG</usfm>
+      <crosswire_org>haggai</crosswire_org>
+      <vatican>Haggai</vatican>
+      <diebibel_de>hag</diebibel_de>
+      <unbound_biola_edu>37O</unbound_biola_edu>
+      <usccb_org>haggai</usccb_org>
+      <laparola_net>Aggeo</laparola_net>
+      <bibliacatolica_com>44</bibliacatolica_com>
+      <osis>Hag</osis>
+      <biblija_net>Hagg</biblija_net>
+      <can>37</can>
+      <rkbijbel>haggai</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Haggai</nl>
+      <en>Haggai</en>
+    </spoken>
+    <language>
+      <nl>hag</nl>
+      <en>hag</en>
+      <fr>ag</fr>
+    </language>
+  </row>
+  <row>
+    <input>zacharia</input>
+    <input>zechariah</input>
+    <input>zah</input>
+    <input>zec</input>
+    <input>zech</input>
+    <input>zch</input>
+    <input>za</input>
+    <input>zac</input>
+    <input>zach</input>
+    <input>sach</input>
+    <input>zaharija</input>
+    <input>sacharja</input>
+    <input>zacarías</input>
+    <code>
+      <usfm>ZEC</usfm>
+      <diebibel_de>sach</diebibel_de>
+      <vatican>Zechariah</vatican>
+      <unbound_biola_edu>38O</unbound_biola_edu>
+      <usccb_org>zechariah</usccb_org>
+      <laparola_net>Zaccaria</laparola_net>
+      <bibliacatolica_com>45</bibliacatolica_com>
+      <osis>Zech</osis>
+      <biblija_net>Zec</biblija_net>
+      <can>38</can>
+      <rkbijbel>zacharias</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Zacharia</nl>
+      <en>Zechariah</en>
+    </spoken>
+    <language>
+      <nl>zach</nl>
+      <en>zech</en>
+      <fr>za</fr>
+    </language>
+  </row>
+  <row>
+    <input>maleachi</input>
+    <input>malachi</input>
+    <input>mal</input>
+    <input>ml</input>
+    <input>malahija</input>
+    <input>malaquías</input>
+    <code>
+      <usfm>MAL</usfm>
+      <crosswire_org>malachi</crosswire_org>
+      <vatican>Malachi</vatican>
+      <diebibel_de>mal</diebibel_de>
+      <unbound_biola_edu>39O</unbound_biola_edu>
+      <usccb_org>malachi</usccb_org>
+      <laparola_net>Malachia</laparola_net>
+      <bibliacatolica_com>46</bibliacatolica_com>
+      <osis>Mal</osis>
+      <biblija_net>Ml</biblija_net>
+      <can>39</can>
+      <rkbijbel>maleachi</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Maleachi</nl>
+      <en>Malachi</en>
+    </spoken>
+    <language>
+      <nl>mal</nl>
+      <en>mal</en>
+      <fr>ml</fr>
+    </language>
+  </row>
+  <row>
+    <input>het evangelie volgens matteüs</input>
+    <input>the gospel of matthew</input>
+    <input>matthew</input>
+    <input>mt</input>
+    <input>mat</input>
+    <input>matt</input>
+    <input>matej</input>
+    <input>matevž</input>
+    <input>matthew</input>
+    <input>matteüs</input>
+    <input>mattheus</input>
+    <input>matteus</input>
+    <input>matthäus</input>
+    <input>mateo</input>
+    <code>
+      <usfm>MAT</usfm>
+      <crosswire_org>matthew</crosswire_org>
+      <vatican>Matthew</vatican>
+      <diebibel_de>mt</diebibel_de>
+      <unbound_biola_edu>40N</unbound_biola_edu>
+      <usccb_org>matthew</usccb_org>
+      <laparola_net>Matteo</laparola_net>
+      <bibliacatolica_com>47</bibliacatolica_com>
+      <osis>Matt</osis>
+      <biblija_net>Mat</biblija_net>
+      <can>40</can>
+      <rkbijbel>matteus</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het Evangelie volgens Matteüs</nl>
+      <en>The Gospel of Matthew</en>
+    </spoken>
+    <language>
+      <nl>mt</nl>
+      <en>mt</en>
+      <fr>mt</fr>
+    </language>
+  </row>
+  <row>
+    <input>het evangelie volgens marcus</input>
+    <input>the gospel of mark</input>
+    <input>mark</input>
+    <input>mr</input>
+    <input>mar</input>
+    <input>mrk</input>
+    <input>mk</input>
+    <input>mc</input>
+    <input>marko</input>
+    <input>marcus</input>
+    <input>markus</input>
+    <input>marc</input>
+    <input>marcos</input>
+    <code>
+      <usfm>MRK</usfm>
+      <crosswire_org>mark</crosswire_org>
+      <vatican>Mark</vatican>
+      <diebibel_de>mk</diebibel_de>
+      <unbound_biola_edu>41N</unbound_biola_edu>
+      <usccb_org>mark</usccb_org>
+      <laparola_net>Marco</laparola_net>
+      <bibliacatolica_com>48</bibliacatolica_com>
+      <osis>Mark</osis>
+      <biblija_net>Mr</biblija_net>
+      <can>41</can>
+      <rkbijbel>marcus</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het Evangelie volgens Marcus</nl>
+      <en>The Gospel of Mark</en>
+    </spoken>
+    <language>
+      <nl>mc</nl>
+      <en>mc</en>
+      <fr>mc</fr>
+    </language>
+  </row>
+  <row>
+    <input>het evangelie volgens lucas</input>
+    <input>the gospel of luke</input>
+    <input>luke</input>
+    <input>lk</input>
+    <input>luk</input>
+    <input>lc</input>
+    <input>luc</input>
+    <input>lu</input>
+    <input>l</input>
+    <input>luka</input>
+    <input>lukež</input>
+    <input>lucas</input>
+    <input>lukas</input>
+    <code>
+      <usfm>LUK</usfm>
+      <crosswire_org>luke</crosswire_org>
+      <vatican>Luke</vatican>
+      <diebibel_de>lk</diebibel_de>
+      <unbound_biola_edu>42N</unbound_biola_edu>
+      <usccb_org>luke</usccb_org>
+      <laparola_net>Luca</laparola_net>
+      <bibliacatolica_com>49</bibliacatolica_com>
+      <osis>Luke</osis>
+      <biblija_net>Luk</biblija_net>
+      <can>42</can>
+      <rkbijbel>lucas</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het Evangelie volgens Lucas</nl>
+      <en>The Gospel of Luke</en>
+    </spoken>
+    <language>
+      <nl>lc</nl>
+      <en>lc</en>
+      <fr>lc</fr>
+    </language>
+  </row>
+  <row>
+    <input>het evangelie volgens johannes</input>
+    <input>the gospel of john</input>
+    <input>john</input>
+    <input>jn</input>
+    <input>jan</input>
+    <input>jhn</input>
+    <input>jh</input>
+    <input>joh</input>
+    <input>jo</input>
+    <input>j</input>
+    <input>io</input>
+    <input>iv</input>
+    <input>janez</input>
+    <input>john</input>
+    <input>johannes</input>
+    <input>jean</input>
+    <input>juan</input>
+    <code>
+      <usfm>JHN</usfm>
+      <crosswire_org>john</crosswire_org>
+      <vatican>John</vatican>
+      <diebibel_de>jh</diebibel_de>
+      <unbound_biola_edu>43N</unbound_biola_edu>
+      <usccb_org>john</usccb_org>
+      <laparola_net>Giovanni</laparola_net>
+      <bibliacatolica_com>50</bibliacatolica_com>
+      <osis>John</osis>
+      <biblija_net>Jhn</biblija_net>
+      <can>43</can>
+      <rkbijbel>johannes</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het Evangelie volgens Johannes</nl>
+      <en>The Gospel of John</en>
+    </spoken>
+    <language>
+      <nl>jh</nl>
+      <en>jn</en>
+      <fr>jn</fr>
+    </language>
+  </row>
+  <row>
+    <input>handelingen van de apostelen</input>
+    <input>the acts</input>
+    <input>apd</input>
+    <input>dej</input>
+    <input>dejap</input>
+    <input>act</input>
+    <input>ac</input>
+    <input>hand</input>
+    <input>hnd</input>
+    <input>apg</input>
+    <input>dj</input>
+    <input>hch</input>
+    <input>eg</input>
+    <input>acts</input>
+    <input>dela</input>
+    <input>dejanja</input>
+    <input>handelingen</input>
+    <input>apostelgeschichte</input>
+    <input>hechos</input>
+    <code>
+      <usfm>ACT</usfm>
+      <crosswire_org>acts</crosswire_org>
+      <vatican>Acts</vatican>
+      <diebibel_de>apg</diebibel_de>
+      <unbound_biola_edu>44N</unbound_biola_edu>
+      <usccb_org>acts</usccb_org>
+      <laparola_net>Atti</laparola_net>
+      <bibliacatolica_com>51</bibliacatolica_com>
+      <osis>Acts</osis>
+      <biblija_net>Ac</biblija_net>
+      <can>44</can>
+      <rkbijbel>handelingen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Handelingen van de Apostelen</nl>
+      <en>The Acts</en>
+    </spoken>
+    <language>
+      <nl>hand</nl>
+      <en>acts</en>
+      <fr>ac</fr>
+    </language>
+  </row>
+  <row>
+    <input>de brief aan de romeinen</input>
+    <input>the letter to the romans</input>
+    <input>romans</input>
+    <input>rim</input>
+    <input>rimlj</input>
+    <input>rom</input>
+    <input>röm</input>
+    <input>ro</input>
+    <input>rm</input>
+    <input>r</input>
+    <input>erm</input>
+    <input>rimljanom</input>
+    <input>romans</input>
+    <input>romeinen</input>
+    <input>römer</input>
+    <input>romanos</input>
+    <code>
+      <usfm>ROM</usfm>
+      <crosswire_org>romans</crosswire_org>
+      <vatican>Romans</vatican>
+      <diebibel_de>r%C3%B6m</diebibel_de>
+      <unbound_biola_edu>45N</unbound_biola_edu>
+      <usccb_org>romans</usccb_org>
+      <laparola_net>Romani</laparola_net>
+      <bibliacatolica_com>52</bibliacatolica_com>
+      <osis>Rom</osis>
+      <biblija_net>Ro</biblija_net>
+      <can>45</can>
+      <rkbijbel>romeinen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De brief aan de Romeinen</nl>
+      <en>The Letter to the Romans</en>
+    </spoken>
+    <language>
+      <nl>rom</nl>
+      <en>rom</en>
+      <fr>rm</fr>
+    </language>
+  </row>
+  <row>
+    <input>de eerste brief aan de korintiërs</input>
+    <input>the first letter to the corinthians</input>
+    <input>1 corinthians</input>
+    <input>1 kor</input>
+    <input>1 cor</input>
+    <input>1 co</input>
+    <input>1 ko</input>
+    <input>1 k</input>
+    <input>1 korinčanom</input>
+    <input>1 corinthians</input>
+    <input>1 korintiërs</input>
+    <input>1 korintiers</input>
+    <input>1 korinthe</input>
+    <input>1 korinther</input>
+    <input>1 corintios</input>
+    <input>1corinthians</input>
+    <input>1kor</input>
+    <input>1cor</input>
+    <input>1co</input>
+    <input>1ko</input>
+    <input>1k</input>
+    <input>1korinčanom</input>
+    <input>1corinthians</input>
+    <input>1korintiërs</input>
+    <input>1korintiers</input>
+    <input>1korinthe</input>
+    <input>1korinther</input>
+    <input>1corintios</input>
+    <code>
+      <usfm>1CO</usfm>
+      <crosswire_org>1corinthians</crosswire_org>
+      <vatican>1 Corinthians</vatican>
+      <diebibel_de>1.kor</diebibel_de>
+      <unbound_biola_edu>46N</unbound_biola_edu>
+      <usccb_org>1corinthians</usccb_org>
+      <laparola_net>1 Corinzi</laparola_net>
+      <bibliacatolica_com>53</bibliacatolica_com>
+      <osis>1Cor</osis>
+      <biblija_net>1 Co</biblija_net>
+      <can>46</can>
+      <rkbijbel>1korintiers</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De eerste brief aan de Korintiërs</nl>
+      <en>The First Letter to the Corinthians</en>
+    </spoken>
+    <language>
+      <nl>1 kor</nl>
+      <en>1 cor</en>
+      <fr>1 co</fr>
+    </language>
+  </row>
+  <row>
+    <input>de tweede brief aan de korintiërs</input>
+    <input>the second letter to the corinthians</input>
+    <input>2 corinthians</input>
+    <input>2 kor</input>
+    <input>2 cor</input>
+    <input>2 co</input>
+    <input>2 ko</input>
+    <input>2 k</input>
+    <input>2 korinčanom</input>
+    <input>2 corinthians</input>
+    <input>2 korintiërs</input>
+    <input>2 korintiers</input>
+    <input>2 korinthe</input>
+    <input>2 korinther</input>
+    <input>2 corintios</input>
+    <input>2corinthians</input>
+    <input>2kor</input>
+    <input>2cor</input>
+    <input>2co</input>
+    <input>2ko</input>
+    <input>2k</input>
+    <input>2korinčanom</input>
+    <input>2corinthians</input>
+    <input>2korintiërs</input>
+    <input>2korintiers</input>
+    <input>2korinthe</input>
+    <input>2korinther</input>
+    <input>2corintios</input>
+    <code>
+      <usfm>2CO</usfm>
+      <crosswire_org>2corinthians</crosswire_org>
+      <vatican>2 Corinthians</vatican>
+      <diebibel_de>2.kor</diebibel_de>
+      <unbound_biola_edu>47N</unbound_biola_edu>
+      <usccb_org>2corinthians</usccb_org>
+      <laparola_net>2 Corinzi</laparola_net>
+      <bibliacatolica_com>54</bibliacatolica_com>
+      <osis>2Cor</osis>
+      <biblija_net>2 Co</biblija_net>
+      <can>47</can>
+      <rkbijbel>2korintiers</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De tweede brief aan de Korintiërs</nl>
+      <en>The Second Letter to the Corinthians</en>
+    </spoken>
+    <language>
+      <nl>2 kor</nl>
+      <en>2 cor</en>
+      <fr>2 co</fr>
+    </language>
+  </row>
+  <row>
+    <input>de brief aan de galaten</input>
+    <input>the letter to the galatians</input>
+    <input>galatians</input>
+    <input>gal</input>
+    <input>ga</input>
+    <input>gl</input>
+    <input>g</input>
+    <input>galačanom</input>
+    <input>galatians</input>
+    <input>galaten</input>
+    <input>galater</input>
+    <input>gálatas</input>
+    <code>
+      <usfm>GAL</usfm>
+      <crosswire_org>galatians</crosswire_org>
+      <vatican>Galatians</vatican>
+      <diebibel_de>gal</diebibel_de>
+      <unbound_biola_edu>48N</unbound_biola_edu>
+      <usccb_org>galatians</usccb_org>
+      <laparola_net>Galati</laparola_net>
+      <bibliacatolica_com>55</bibliacatolica_com>
+      <osis>Gal</osis>
+      <biblija_net>Ga</biblija_net>
+      <can>48</can>
+      <rkbijbel>galaten</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De brief aan de Galaten</nl>
+      <en>The Letter to the Galatians</en>
+    </spoken>
+    <language>
+      <nl>gal</nl>
+      <en>gal</en>
+      <fr>ga</fr>
+    </language>
+  </row>
+  <row>
+    <input>de brief aan de efeziërs</input>
+    <input>the letter to the ephesians</input>
+    <input>ephesians</input>
+    <input>ef</input>
+    <input>efež</input>
+    <input>éfez</input>
+    <input>efez</input>
+    <input>eph</input>
+    <input>éph</input>
+    <input>ep</input>
+    <input>e</input>
+    <input>efežanom</input>
+    <input>ephesians</input>
+    <input>efeziërs</input>
+    <input>efeziers</input>
+    <input>efeze</input>
+    <input>epheser</input>
+    <input>efesios</input>
+    <code>
+      <usfm>EPH</usfm>
+      <crosswire_org>ephesians</crosswire_org>
+      <vatican>Ephesians</vatican>
+      <diebibel_de>eph</diebibel_de>
+      <unbound_biola_edu>49N</unbound_biola_edu>
+      <usccb_org>ephesians</usccb_org>
+      <laparola_net>Efesini</laparola_net>
+      <bibliacatolica_com>56</bibliacatolica_com>
+      <osis>Eph</osis>
+      <biblija_net>Ep</biblija_net>
+      <can>49</can>
+      <rkbijbel>efesiers</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De brief aan de Efeziërs</nl>
+      <en>The Letter to the Ephesians</en>
+    </spoken>
+    <language>
+      <nl>ef</nl>
+      <en>eph</en>
+      <fr>eph</fr>
+    </language>
+  </row>
+  <row>
+    <input>de brief aan de filippenzen</input>
+    <input>the letter to the philippians</input>
+    <input>philippians</input>
+    <input>flp</input>
+    <input>filip</input>
+    <input>filipp</input>
+    <input>fil</input>
+    <input>fl</input>
+    <input>php</input>
+    <input>ph</input>
+    <input>phil</input>
+    <input>phili</input>
+    <input>filipljanom</input>
+    <input>philippians</input>
+    <input>filippenzen</input>
+    <input>philipper</input>
+    <input>filipenses</input>
+    <code>
+      <usfm>PHP</usfm>
+      <crosswire_org>philippians</crosswire_org>
+      <vatican>Philippians</vatican>
+      <diebibel_de>phil</diebibel_de>
+      <unbound_biola_edu>50N</unbound_biola_edu>
+      <usccb_org>philippians</usccb_org>
+      <laparola_net>Filippesi</laparola_net>
+      <bibliacatolica_com>57</bibliacatolica_com>
+      <osis>Phil</osis>
+      <biblija_net>Php</biblija_net>
+      <can>50</can>
+      <rkbijbel>filippenzen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De brief aan de Filippenzen</nl>
+      <en>The Letter to the Philippians</en>
+    </spoken>
+    <language>
+      <nl>fil</nl>
+      <en>phil</en>
+      <fr>ph</fr>
+    </language>
+  </row>
+  <row>
+    <input>de brief aan de kolossenzen</input>
+    <input>the letter to the collosians</input>
+    <input>colossians</input>
+    <input>kol</input>
+    <input>col</input>
+    <input>kološanom</input>
+    <input>colossians</input>
+    <input>kolossenzen</input>
+    <input>kolosser</input>
+    <input>colosenses</input>
+    <code>
+      <usfm>COL</usfm>
+      <crosswire_org>colossians</crosswire_org>
+      <vatican>Colossians</vatican>
+      <diebibel_de>kol</diebibel_de>
+      <unbound_biola_edu>51N</unbound_biola_edu>
+      <usccb_org>colossians</usccb_org>
+      <laparola_net>Colossesi</laparola_net>
+      <bibliacatolica_com>58</bibliacatolica_com>
+      <osis>Col</osis>
+      <biblija_net>Col</biblija_net>
+      <can>51</can>
+      <rkbijbel>kolossenzen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De brief aan de Kolossenzen</nl>
+      <en>The Letter to the Collosians</en>
+    </spoken>
+    <language>
+      <nl>kol</nl>
+      <en>col</en>
+      <fr>col</fr>
+    </language>
+  </row>
+  <row>
+    <input>de eerste brief aan de tessalonicenzen</input>
+    <input>the first letter to the thessalonians</input>
+    <input>1 thessalonians</input>
+    <input>1 tes</input>
+    <input>1 sol</input>
+    <input>1 th</input>
+    <input>1 ts</input>
+    <input>1 te</input>
+    <input>1 tess</input>
+    <input>1 thes</input>
+    <input>1 thess</input>
+    <input>1 tesaloničanom</input>
+    <input>1 thessalonians</input>
+    <input>1 tessalonicenzen</input>
+    <input>1 thessalonicher</input>
+    <input>1 tesalonicenses</input>
+    <input>1thessalonians</input>
+    <input>1tes</input>
+    <input>1sol</input>
+    <input>1th</input>
+    <input>1ts</input>
+    <input>1te</input>
+    <input>1tess</input>
+    <input>1thes</input>
+    <input>1thess</input>
+    <input>1tesaloničanom</input>
+    <input>1thessalonians</input>
+    <input>1tessalonicenzen</input>
+    <input>1thessalonicher</input>
+    <input>1tesalonicenses</input>
+    <code>
+      <usfm>1TH</usfm>
+      <crosswire_org>1thessalonians</crosswire_org>
+      <vatican>1 Thessalonians</vatican>
+      <diebibel_de>1.thess</diebibel_de>
+      <unbound_biola_edu>52N</unbound_biola_edu>
+      <usccb_org>1thessalonians</usccb_org>
+      <laparola_net>1 Tessalonicesi</laparola_net>
+      <bibliacatolica_com>59</bibliacatolica_com>
+      <osis>1Thess</osis>
+      <biblija_net>1 Thess</biblija_net>
+      <can>52</can>
+      <rkbijbel>1tessalonicenzen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De eerste brief aan de Tessalonicenzen</nl>
+      <en>The First Letter to the Thessalonians</en>
+    </spoken>
+    <language>
+      <nl>1 tes</nl>
+      <en>1 thess</en>
+      <fr>1 th</fr>
+    </language>
+  </row>
+  <row>
+    <input>de tweede brief aan de tessalonicenzen</input>
+    <input>the second letter to the thessalonians</input>
+    <input>2 thessalonians</input>
+    <input>de tweede brief aan de tessalonicenzen</input>
+    <input>2 thessalonians</input>
+    <input>2 tes</input>
+    <input>2 sol</input>
+    <input>2 th</input>
+    <input>2 ts</input>
+    <input>2 te</input>
+    <input>2 tess</input>
+    <input>2 thes</input>
+    <input>2 thess</input>
+    <input>2 tesaloničanom</input>
+    <input>2 thessalonians</input>
+    <input>2 tessalonicenzen</input>
+    <input>2 thessalonicher</input>
+    <input>2 tesalonicenses</input>
+    <input>2thessalonians</input>
+    <input>2tes</input>
+    <input>2sol</input>
+    <input>2th</input>
+    <input>2ts</input>
+    <input>2te</input>
+    <input>2tess</input>
+    <input>2thes</input>
+    <input>2thess</input>
+    <input>2tesaloničanom</input>
+    <input>2thessalonians</input>
+    <input>2tessalonicenzen</input>
+    <input>2thessalonicher</input>
+    <input>2tesalonicenses</input>
+    <code>
+      <usfm>2TH</usfm>
+      <crosswire_org>2thessalonians</crosswire_org>
+      <vatican>2 Thessalonians</vatican>
+      <diebibel_de>2.thess</diebibel_de>
+      <unbound_biola_edu>53N</unbound_biola_edu>
+      <usccb_org>2thessalonians</usccb_org>
+      <laparola_net>2 Tessalonicesi</laparola_net>
+      <bibliacatolica_com>60</bibliacatolica_com>
+      <osis>2Thess</osis>
+      <biblija_net>2 Thess</biblija_net>
+      <can>53</can>
+      <rkbijbel>2tessalonicenzen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De tweede brief aan de Tessalonicenzen</nl>
+      <en>The Second Letter to the Thessalonians</en>
+    </spoken>
+    <language>
+      <nl>2 tes</nl>
+      <en>2 thess</en>
+      <fr>2 th</fr>
+    </language>
+  </row>
+  <row>
+    <input>de eerste brief aan timoteüs</input>
+    <input>the first letter to timothy</input>
+    <input>1 timothy</input>
+    <input>1 tim</input>
+    <input>1 ti</input>
+    <input>1 tm</input>
+    <input>1 t</input>
+    <input>1 timoteju</input>
+    <input>1 timothy</input>
+    <input>1 timoteüs</input>
+    <input>1 timoteus</input>
+    <input>1 timotheus</input>
+    <input>1 timoteo</input>
+    <input>1timothy</input>
+    <input>1tim</input>
+    <input>1ti</input>
+    <input>1tm</input>
+    <input>1t</input>
+    <input>1timoteju</input>
+    <input>1timothy</input>
+    <input>1timoteüs</input>
+    <input>1timoteus</input>
+    <input>1timotheus</input>
+    <input>1timoteo</input>
+    <code>
+      <usfm>1TI</usfm>
+      <crosswire_org>1timothy</crosswire_org>
+      <vatican>1 Timothy</vatican>
+      <diebibel_de>1.tim</diebibel_de>
+      <unbound_biola_edu>54N</unbound_biola_edu>
+      <usccb_org>1timothy</usccb_org>
+      <laparola_net>1 Timoteo</laparola_net>
+      <bibliacatolica_com>61</bibliacatolica_com>
+      <osis>1Tim</osis>
+      <biblija_net>1 Ti</biblija_net>
+      <can>54</can>
+      <rkbijbel>1timoteus</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De eerste brief aan Timoteüs</nl>
+      <en>The First Letter to Timothy</en>
+    </spoken>
+    <language>
+      <nl>1 tim</nl>
+      <en>1 tim</en>
+      <fr>1 tm</fr>
+    </language>
+  </row>
+  <row>
+    <input>de tweede brief aan timoteüs</input>
+    <input>the second letter to timothy</input>
+    <input>2 timothy</input>
+    <input>2 tim</input>
+    <input>2 ti</input>
+    <input>2 tm</input>
+    <input>2 t</input>
+    <input>2 timoteju</input>
+    <input>2 timothy</input>
+    <input>2 timoteus</input>
+    <input>2 timoteus</input>
+    <input>2 timotheus</input>
+    <input>2 timoteo</input>
+    <input>2timothy</input>
+    <input>2tim</input>
+    <input>2ti</input>
+    <input>2tm</input>
+    <input>2t</input>
+    <input>2timoteju</input>
+    <input>2timothy</input>
+    <input>2timoteus</input>
+    <input>2timoteus</input>
+    <input>2timotheus</input>
+    <input>2timoteo</input>
+    <code>
+      <usfm>2TI</usfm>
+      <crosswire_org>2timothy</crosswire_org>
+      <vatican>2 Timothy</vatican>
+      <diebibel_de>2.tim</diebibel_de>
+      <unbound_biola_edu>55N</unbound_biola_edu>
+      <usccb_org>2timothy</usccb_org>
+      <laparola_net>2 Timoteo</laparola_net>
+      <bibliacatolica_com>62</bibliacatolica_com>
+      <osis>2Tim</osis>
+      <biblija_net>2 Ti</biblija_net>
+      <can>55</can>
+      <rkbijbel>2timoteus</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De tweede brief aan Timoteüs</nl>
+      <en>The Second Letter to Timothy</en>
+    </spoken>
+    <language>
+      <nl>2 tim</nl>
+      <en>2 tim</en>
+      <fr>2 tm</fr>
+    </language>
+  </row>
+  <row>
+    <input>de brief aan titus</input>
+    <input>the letter to titus</input>
+    <input>titus</input>
+    <input>tit</input>
+    <input>tt</input>
+    <input>titus</input>
+    <input>titu</input>
+    <input>tite</input>
+    <input>tito</input>
+    <code>
+      <usfm>TIT</usfm>
+      <crosswire_org>titus</crosswire_org>
+      <vatican>Titus</vatican>
+      <diebibel_de>tit</diebibel_de>
+      <unbound_biola_edu>56N</unbound_biola_edu>
+      <usccb_org>titus</usccb_org>
+      <laparola_net>Tito</laparola_net>
+      <bibliacatolica_com>63</bibliacatolica_com>
+      <osis>Titus</osis>
+      <biblija_net>Tt</biblija_net>
+      <can>56</can>
+      <rkbijbel>titus</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De brief aan Titus</nl>
+      <en>The Letter to Titus</en>
+    </spoken>
+    <language>
+      <nl>tit</nl>
+      <en>titus</en>
+      <fr>tt</fr>
+    </language>
+  </row>
+  <row>
+    <input>philemon</input>
+    <input>de brief aan filemon</input>
+    <input>the letter to philemon</input>
+    <input>flm</input>
+    <input>filem</input>
+    <input>film</input>
+    <input>phm</input>
+    <input>phlm</input>
+    <input>phile</input>
+    <input>philem</input>
+    <input>filemonu</input>
+    <input>philemon</input>
+    <input>filemon</input>
+    <input>filemón</input>
+    <code>
+      <usfm>PHM</usfm>
+      <crosswire_org>philemon</crosswire_org>
+      <vatican>Philemon</vatican>
+      <diebibel_de>phlm</diebibel_de>
+      <unbound_biola_edu>57N</unbound_biola_edu>
+      <usccb_org>philemon</usccb_org>
+      <laparola_net>Filemone</laparola_net>
+      <bibliacatolica_com>64</bibliacatolica_com>
+      <osis>Phlm</osis>
+      <biblija_net>Phlm</biblija_net>
+      <can>57</can>
+      <rkbijbel>filemon</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De brief aan Filemon</nl>
+      <en>The Letter to Philemon</en>
+    </spoken>
+    <language>
+      <nl>filem</nl>
+      <en>philemon</en>
+      <fr>phm</fr>
+    </language>
+  </row>
+  <row>
+    <input>de brief aan de hebreeën</input>
+    <input>the letter to the hebrews</input>
+    <input>hebrews</input>
+    <input>heb</input>
+    <input>hebr</input>
+    <input>hébr</input>
+    <input>hbr</input>
+    <input>hb</input>
+    <input>he</input>
+    <input>hé</input>
+    <input>h</input>
+    <input>hebrejcem</input>
+    <input>hebrews</input>
+    <input>hebreeërs</input>
+    <input>hebreeers</input>
+    <input>hebreeën</input>
+    <input>hebreeen</input>
+    <input>hebräer</input>
+    <input>hebreos</input>
+    <code>
+      <usfm>HEB</usfm>
+      <crosswire_org>hebrews</crosswire_org>
+      <vatican>Hebrews</vatican>
+      <diebibel_de>hebr</diebibel_de>
+      <unbound_biola_edu>58N</unbound_biola_edu>
+      <usccb_org>hebrews</usccb_org>
+      <laparola_net>Ebrei</laparola_net>
+      <bibliacatolica_com>65</bibliacatolica_com>
+      <osis>Heb</osis>
+      <biblija_net>Hebr</biblija_net>
+      <can>58</can>
+      <rkbijbel>hebreeen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De brief aan de Hebreeën</nl>
+      <en>The Letter to the Hebrews</en>
+    </spoken>
+    <language>
+      <nl>heb</nl>
+      <en>heb</en>
+      <fr>he</fr>
+    </language>
+  </row>
+  <row>
+    <input>de brief van jakobus</input>
+    <input>the letter of james</input>
+    <input>james</input>
+    <input>jak</input>
+    <input>jas</input>
+    <input>jam</input>
+    <input>jm</input>
+    <input>ja</input>
+    <input>jc</input>
+    <input>jac</input>
+    <input>jacq</input>
+    <input>iac</input>
+    <input>stg</input>
+    <input>st</input>
+    <input>jakob</input>
+    <input>james</input>
+    <input>jakobus</input>
+    <input>santiago</input>
+    <code>
+      <usfm>JAS</usfm>
+      <crosswire_org>james</crosswire_org>
+      <vatican>James</vatican>
+      <diebibel_de>jak</diebibel_de>
+      <unbound_biola_edu>59N</unbound_biola_edu>
+      <usccb_org>james</usccb_org>
+      <laparola_net>Giacomo</laparola_net>
+      <bibliacatolica_com>66</bibliacatolica_com>
+      <osis>Jas</osis>
+      <biblija_net>Jam</biblija_net>
+      <can>59</can>
+      <rkbijbel>jacobus</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De brief van Jakobus</nl>
+      <en>The Letter of James</en>
+    </spoken>
+    <language>
+      <nl>jak</nl>
+      <en>jas</en>
+      <fr>jc</fr>
+    </language>
+  </row>
+  <row>
+    <input>de eerste brief van petrus</input>
+    <input>the first letter of peter</input>
+    <input>1 peter</input>
+    <input>1 pt</input>
+    <input>1 pet</input>
+    <input>1 petr</input>
+    <input>1 pe</input>
+    <input>1 pi</input>
+    <input>1 p</input>
+    <input>1 peter</input>
+    <input>1 petrus</input>
+    <input>1 pedro</input>
+    <input>1peter</input>
+    <input>1pt</input>
+    <input>1pet</input>
+    <input>1petr</input>
+    <input>1pe</input>
+    <input>1pi</input>
+    <input>1p</input>
+    <input>1peter</input>
+    <input>1petrus</input>
+    <input>1pedro</input>
+    <code>
+      <usfm>1PE</usfm>
+      <crosswire_org>1peter</crosswire_org>
+      <vatican>1 Peter</vatican>
+      <diebibel_de>1.petr</diebibel_de>
+      <unbound_biola_edu>60N</unbound_biola_edu>
+      <usccb_org>1peter</usccb_org>
+      <laparola_net>1 Pietro</laparola_net>
+      <bibliacatolica_com>67</bibliacatolica_com>
+      <osis>1Pet</osis>
+      <biblija_net>1 Pt</biblija_net>
+      <can>60</can>
+      <rkbijbel>1petrus</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De eerste brief van Petrus</nl>
+      <en>The First Letter of Peter</en>
+    </spoken>
+    <language>
+      <nl>1 pet</nl>
+      <en>1 pet</en>
+      <fr>1 pi</fr>
+    </language>
+  </row>
+  <row>
+    <input>de tweede brief van petrus</input>
+    <input>the second letter of peter</input>
+    <input>2 peter</input>
+    <input>2 pt</input>
+    <input>2 pet</input>
+    <input>2 petr</input>
+    <input>2 pe</input>
+    <input>2 pi</input>
+    <input>2 p</input>
+    <input>2 peter</input>
+    <input>2 petrus</input>
+    <input>2 pedro</input>
+    <input>2peter</input>
+    <input>2pt</input>
+    <input>2pet</input>
+    <input>2petr</input>
+    <input>2pe</input>
+    <input>2pi</input>
+    <input>2p</input>
+    <input>2peter</input>
+    <input>2petrus</input>
+    <input>2pedro</input>
+    <code>
+      <usfm>2PE</usfm>
+      <crosswire_org>2peter</crosswire_org>
+      <vatican>2 Peter</vatican>
+      <diebibel_de>2.petr</diebibel_de>
+      <unbound_biola_edu>61N</unbound_biola_edu>
+      <usccb_org>2peter</usccb_org>
+      <laparola_net>2 Pietro</laparola_net>
+      <bibliacatolica_com>68</bibliacatolica_com>
+      <osis>2Pet</osis>
+      <biblija_net>2 Pt</biblija_net>
+      <can>61</can>
+      <rkbijbel>2petrus</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De tweede brief van Petrus</nl>
+      <en>The Second Letter of Peter</en>
+    </spoken>
+    <language>
+      <nl>2 pet</nl>
+      <en>2 pet</en>
+      <fr>2 pi</fr>
+    </language>
+  </row>
+  <row>
+    <input>de eerste brief van johannes</input>
+    <input>the first letter of john</input>
+    <input>1 john</input>
+    <input>1 jn</input>
+    <input>1 jan</input>
+    <input>1 joh</input>
+    <input>1 jo</input>
+    <input>1 j</input>
+    <input>1 io</input>
+    <input>1 iv</input>
+    <input>1 john</input>
+    <input>1 janez</input>
+    <input>1 johannes</input>
+    <input>1 jean</input>
+    <input>1 juan</input>
+    <input>1john</input>
+    <input>1jn</input>
+    <input>1jan</input>
+    <input>1joh</input>
+    <input>1jo</input>
+    <input>1j</input>
+    <input>1io</input>
+    <input>1iv</input>
+    <input>1john</input>
+    <input>1janez</input>
+    <input>1johannes</input>
+    <input>1jean</input>
+    <input>1juan</input>
+    <code>
+      <usfm>1JN</usfm>
+      <crosswire_org>1john</crosswire_org>
+      <vatican>1 John</vatican>
+      <diebibel_de>1.joh</diebibel_de>
+      <unbound_biola_edu>62N</unbound_biola_edu>
+      <usccb_org>1john</usccb_org>
+      <laparola_net>1 Giovanni</laparola_net>
+      <bibliacatolica_com>69</bibliacatolica_com>
+      <osis>1John</osis>
+      <biblija_net>1 Jo</biblija_net>
+      <can>62</can>
+      <rkbijbel>1johannes</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De eerste brief van Johannes</nl>
+      <en>The First Letter of John</en>
+    </spoken>
+    <language>
+      <nl>1 joh</nl>
+      <en>1 jn</en>
+      <fr>1 jn</fr>
+    </language>
+  </row>
+  <row>
+    <input>de tweede brief van johannes</input>
+    <input>the second letter of john</input>
+    <input>2 john</input>
+    <input>2 jn</input>
+    <input>2 jan</input>
+    <input>2 joh</input>
+    <input>2 jo</input>
+    <input>2 j</input>
+    <input>2 io</input>
+    <input>2 iv</input>
+    <input>2 john</input>
+    <input>2 janez</input>
+    <input>2 johannes</input>
+    <input>2 jean</input>
+    <input>2 juan</input>
+    <input>2john</input>
+    <input>2jn</input>
+    <input>2jan</input>
+    <input>2joh</input>
+    <input>2jo</input>
+    <input>2j</input>
+    <input>2io</input>
+    <input>2iv</input>
+    <input>2john</input>
+    <input>2janez</input>
+    <input>2johannes</input>
+    <input>2jean</input>
+    <input>2juan</input>
+    <code>
+      <usfm>2JN</usfm>
+      <crosswire_org>2john</crosswire_org>
+      <vatican>2 John</vatican>
+      <diebibel_de>2.joh</diebibel_de>
+      <unbound_biola_edu>63N</unbound_biola_edu>
+      <usccb_org>2john</usccb_org>
+      <laparola_net>2 Giovanni</laparola_net>
+      <bibliacatolica_com>70</bibliacatolica_com>
+      <osis>2John</osis>
+      <biblija_net>2 Jo</biblija_net>
+      <can>63</can>
+      <rkbijbel>2johannes</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De tweede brief van Johannes</nl>
+      <en>The Second Letter of John</en>
+    </spoken>
+    <language>
+      <nl>2 joh</nl>
+      <en>2 jn</en>
+      <fr>2 jn</fr>
+    </language>
+  </row>
+  <row>
+    <input>de derde brief van johannes</input>
+    <input>the third letter of john</input>
+    <input>3 john</input>
+    <input>3 jn</input>
+    <input>3 jan</input>
+    <input>3 joh</input>
+    <input>3 jo</input>
+    <input>3 j</input>
+    <input>3 io</input>
+    <input>3 iv</input>
+    <input>3 john</input>
+    <input>3 janez</input>
+    <input>3 johannes</input>
+    <input>3 jean</input>
+    <input>3 juan</input>
+    <input>3john</input>
+    <input>3jn</input>
+    <input>3jan</input>
+    <input>3joh</input>
+    <input>3jo</input>
+    <input>3j</input>
+    <input>3io</input>
+    <input>3iv</input>
+    <input>3john</input>
+    <input>3janez</input>
+    <input>3johannes</input>
+    <input>3jean</input>
+    <input>3juan</input>
+    <code>
+      <usfm>3JN</usfm>
+      <crosswire_org>3john</crosswire_org>
+      <vatican>3 John</vatican>
+      <diebibel_de>3.joh</diebibel_de>
+      <unbound_biola_edu>64N</unbound_biola_edu>
+      <usccb_org>3john</usccb_org>
+      <laparola_net>3 Giovanni</laparola_net>
+      <bibliacatolica_com>71</bibliacatolica_com>
+      <osis>3John</osis>
+      <biblija_net>3 Jo</biblija_net>
+      <can>64</can>
+      <rkbijbel>3johannes</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De derde brief van Johannes</nl>
+      <en>The Third Letter of John</en>
+    </spoken>
+    <language>
+      <nl>3 joh</nl>
+      <en>3 jn</en>
+      <fr>3 jn</fr>
+    </language>
+  </row>
+  <row>
+    <input>de brief van judas</input>
+    <input>the letter of jude</input>
+    <input>jude</input>
+    <input>jud</input>
+    <input>juda</input>
+    <input>jude</input>
+    <input>jd</input>
+    <input>ju</input>
+    <input>iud</input>
+    <input>judas</input>
+    <code>
+      <usfm>JUD</usfm>
+      <crosswire_org>jude</crosswire_org>
+      <vatican>jude</vatican>
+      <diebibel_de>jud</diebibel_de>
+      <unbound_biola_edu>65N</unbound_biola_edu>
+      <usccb_org>jude</usccb_org>
+      <laparola_net>Giuda</laparola_net>
+      <bibliacatolica_com>72</bibliacatolica_com>
+      <osis>Jude</osis>
+      <biblija_net>Jd</biblija_net>
+      <can>65</can>
+      <rkbijbel>judas</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De brief van Judas</nl>
+      <en>The Letter of Jude</en>
+    </spoken>
+    <language>
+      <nl>jud</nl>
+      <en>jude</en>
+      <fr>jd</fr>
+    </language>
+  </row>
+  <row>
+    <input>de openbaring van johannes</input>
+    <input>apocalypse</input>
+    <input>revelation</input>
+    <input>raz</input>
+    <input>rev</input>
+    <input>ap</input>
+    <input>apc</input>
+    <input>apo</input>
+    <input>apoc</input>
+    <input>apok</input>
+    <input>apk</input>
+    <input>op</input>
+    <input>openb</input>
+    <input>offb</input>
+    <input>otk</input>
+    <input>razodetje</input>
+    <input>apokalipsa</input>
+    <input>revelation</input>
+    <input>openbaring</input>
+    <input>apokalyps</input>
+    <input>offenbarung</input>
+    <input>apocalipsis</input>
+    <code>
+      <usfm>REV</usfm>
+      <crosswire_org>revelation</crosswire_org>
+      <vatican>Revelation</vatican>
+      <diebibel_de>offb</diebibel_de>
+      <unbound_biola_edu>66N</unbound_biola_edu>
+      <usccb_org>revelation</usccb_org>
+      <laparola_net>Apocalisse</laparola_net>
+      <bibliacatolica_com>73</bibliacatolica_com>
+      <osis>Rev</osis>
+      <biblija_net>Rev</biblija_net>
+      <can>66</can>
+      <rkbijbel>apokalyps</rkbijbel>
+    </code>
+    <spoken>
+      <nl>De Openbaring van Johannes</nl>
+      <en>Apocalypse</en>
+    </spoken>
+    <language>
+      <nl>op</nl>
+      <en>rev</en>
+      <fr>ap</fr>
+    </language>
+  </row>
+  <row>
+    <input>esther</input>
+    <input>ester</input>
+    <input>esther (greek)</input>
+    <input>estg</input>
+    <input>esg</input>
+    <input>estgr</input>
+    <input>esthgr</input>
+    <input>estgrec</input>
+    <input>estd</input>
+    <input>estdc</input>
+    <input>gkest</input>
+    <input>addesth</input>
+    <input>stest</input>
+    <input>estera(gr)</input>
+    <input>estera(grška)</input>
+    <input>esther(gr)</input>
+    <input>esther(greek)</input>
+    <input>ester(griechisch)</input>
+    <input>ester(griego)</input>
+    <code>
+      <usfm>ESG</usfm>
+      <crosswire_org>esther</crosswire_org>
+      <vatican>Esther</vatican>
+      <unbound_biola_edu>69A</unbound_biola_edu>
+      <usccb_org>esther</usccb_org>
+      <laparola_net>Ester (greco + ebraico)</laparola_net>
+      <osis>AddEsth</osis>
+      <biblija_net>GkEst</biblija_net>
+    </code>
+    <spoken>
+      <nl>Ester</nl>
+      <en>Esther</en>
+    </spoken>
+    <language>
+      <nl>ester</nl>
+      <en>esther</en>
+      <fr>estgrec</fr>
+    </language>
+  </row>
+  <row>
+    <input>judit</input>
+    <input>judith</input>
+    <input>jdt</input>
+    <input>jdth</input>
+    <input>idt</input>
+    <input>judita</input>
+    <input>judit</input>
+    <code>
+      <usfm>JDT</usfm>
+      <crosswire_org>judith</crosswire_org>
+      <vatican>Judith</vatican>
+      <unbound_biola_edu>68A</unbound_biola_edu>
+      <usccb_org>judith</usccb_org>
+      <laparola_net>Giuditta</laparola_net>
+      <osis>Jdt</osis>
+      <biblija_net>Jdth</biblija_net>
+      <can>68</can>
+      <rkbijbel>judit</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Judit</nl>
+      <en>Judith</en>
+    </spoken>
+    <language>
+      <nl>judit</nl>
+      <en>judith</en>
+      <fr>jdt</fr>
+    </language>
+  </row>
+  <row>
+    <input>tobit</input>
+    <input>tob</input>
+    <input>tb</input>
+    <input>tobija</input>
+    <code>
+      <usfm>TOB</usfm>
+      <crosswire_org>tobit</crosswire_org>
+      <vatican>Tobit</vatican>
+      <diebibel_de>tob</diebibel_de>
+      <unbound_biola_edu>67A</unbound_biola_edu>
+      <usccb_org>tobit</usccb_org>
+      <laparola_net>Tobia</laparola_net>
+      <osis>Tob</osis>
+      <biblija_net>Tb</biblija_net>
+      <can>67</can>
+      <rkbijbel>tobit</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Tobit</nl>
+      <en>Tobit</en>
+    </spoken>
+    <language>
+      <nl>tobit</nl>
+      <en>tobit</en>
+      <fr>tb</fr>
+    </language>
+  </row>
+  <row>
+    <input>het eerste boek makkabeeën</input>
+    <input>the first book of maccabees</input>
+    <input>1 maccabees</input>
+    <input>1 maccabees</input>
+    <input>1 mkb</input>
+    <input>1 mak</input>
+    <input>1 makk</input>
+    <input>1 mc</input>
+    <input>1 mac</input>
+    <input>1 macc</input>
+    <input>1 mcc</input>
+    <input>1 ma</input>
+    <input>1 m</input>
+    <input>1 makabejci</input>
+    <input>1 maccabees</input>
+    <input>1 makkabeeën</input>
+    <input>1 makkabeeen</input>
+    <input>1 makkabeeërs</input>
+    <input>1 makkabeeers</input>
+    <input>1 makkabäer</input>
+    <input>1 macabeos</input>
+    <input>1maccabees</input>
+    <input>1mkb</input>
+    <input>1mak</input>
+    <input>1makk</input>
+    <input>1mc</input>
+    <input>1mac</input>
+    <input>1macc</input>
+    <input>1mcc</input>
+    <input>1ma</input>
+    <input>1m</input>
+    <input>1makabejci</input>
+    <input>1maccabees</input>
+    <input>1makkabeeën</input>
+    <input>1makkabeeen</input>
+    <input>1makkabeeërs</input>
+    <input>1makkabeeers</input>
+    <input>1makkabäer</input>
+    <input>1macabeos</input>
+    <code>
+      <usfm>1MA</usfm>
+      <crosswire_org>1maccabees</crosswire_org>
+      <vatican>1 Maccabees</vatican>
+      <diebibel_de>1.makk</diebibel_de>
+      <unbound_biola_edu>77A</unbound_biola_edu>
+      <usccb_org>1maccabees</usccb_org>
+      <laparola_net>1 Maccabei</laparola_net>
+      <bibliacatolica_com>22</bibliacatolica_com>
+      <osis>1Macc</osis>
+      <biblija_net>1 Macc</biblija_net>
+      <can>72</can>
+      <rkbijbel>1makkabeeen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het eerste boek Makkabeeën</nl>
+      <en>The First Book of Maccabees</en>
+    </spoken>
+    <language>
+      <nl>het eerste boek makkabeeën</nl>
+      <en>1 maccabees</en>
+      <fr>1 m</fr>
+    </language>
+  </row>
+  <row>
+    <input>het tweede boek makkabeeën</input>
+    <input>the second book of maccabees</input>
+    <input>2 maccabees</input>
+    <input>2 maccabees</input>
+    <input>2 mkb</input>
+    <input>2 mak</input>
+    <input>2 makk</input>
+    <input>2 mc</input>
+    <input>2 mac</input>
+    <input>2 macc</input>
+    <input>2 mcc</input>
+    <input>2 ma</input>
+    <input>2 m</input>
+    <input>2 makabejci</input>
+    <input>2 maccabees</input>
+    <input>2 makkabeeën</input>
+    <input>2 makkabeeen</input>
+    <input>2 makkabeeërs</input>
+    <input>2 makkabeeers</input>
+    <input>2 makkabäer</input>
+    <input>2 macabeos</input>
+    <input>2maccabees</input>
+    <input>2mkb</input>
+    <input>2mak</input>
+    <input>2makk</input>
+    <input>2mc</input>
+    <input>2mac</input>
+    <input>2macc</input>
+    <input>2mcc</input>
+    <input>2ma</input>
+    <input>2m</input>
+    <input>2makabejci</input>
+    <input>2maccabees</input>
+    <input>2makkabeeën</input>
+    <input>2makkabeeen</input>
+    <input>2makkabeeërs</input>
+    <input>2makkabeeers</input>
+    <input>2makkabäer</input>
+    <input>2macabeos</input>
+    <code>
+      <usfm>2MA</usfm>
+      <crosswire_org>2maccabees</crosswire_org>
+      <vatican>2 Maccabees</vatican>
+      <diebibel_de>2.makkabaeer</diebibel_de>
+      <unbound_biola_edu>78A</unbound_biola_edu>
+      <usccb_org>2maccabees</usccb_org>
+      <laparola_net>2 Maccabei</laparola_net>
+      <bibliacatolica_com>23</bibliacatolica_com>
+      <osis>2Macc</osis>
+      <biblija_net>2 Macc</biblija_net>
+      <can>73</can>
+      <rkbijbel>2makkabeeen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het tweede boek Makkabeeën</nl>
+      <en>The Second Book of Maccabees</en>
+    </spoken>
+    <language>
+      <nl>het tweede boek makkabeeën</nl>
+      <en>2 maccabees</en>
+      <fr>2 m</fr>
+    </language>
+  </row>
+  <row>
+    <input>het derde boek makkabeeën</input>
+    <input>the third book of maccabees</input>
+    <input>3 maccabees</input>
+    <input>3 maccabees</input>
+    <input>3 mkb</input>
+    <input>3 mak</input>
+    <input>3 makk</input>
+    <input>3 mc</input>
+    <input>3 mac</input>
+    <input>3 macc</input>
+    <input>3 mcc</input>
+    <input>3 ma</input>
+    <input>3 m</input>
+    <input>3 makabejci</input>
+    <input>3 maccabees</input>
+    <input>3 makkabeeën</input>
+    <input>3 makkabeeen</input>
+    <input>3 makkabeeërs</input>
+    <input>3 makkabeeers</input>
+    <input>3 makkabäer</input>
+    <input>3 macabeos</input>
+    <input>3maccabees</input>
+    <input>3mkb</input>
+    <input>3mak</input>
+    <input>3makk</input>
+    <input>3mc</input>
+    <input>3mac</input>
+    <input>3macc</input>
+    <input>3mcc</input>
+    <input>3ma</input>
+    <input>3m</input>
+    <input>3makabejci</input>
+    <input>3maccabees</input>
+    <input>3makkabeeën</input>
+    <input>3makkabeeen</input>
+    <input>3makkabeeërs</input>
+    <input>3makkabeeers</input>
+    <input>3makkabäer</input>
+    <input>3macabeos</input>
+    <code>
+      <usfm>3MA</usfm>
+      <crosswire_org>3maccabees</crosswire_org>
+      <vatican>3 Maccabees</vatican>
+      <unbound_biola_edu>79A</unbound_biola_edu>
+      <usccb_org>3maccabees</usccb_org>
+      <osis>3Macc</osis>
+      <biblija_net>3 Macc</biblija_net>
+      <rkbijbel>3makkabeeen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het derde boek Makkabeeën</nl>
+      <en>The Third Book of Maccabees</en>
+    </spoken>
+    <language>
+      <nl>het derde boek makkabeeën</nl>
+      <en>3 maccabees</en>
+      <fr>3 m</fr>
+    </language>
+  </row>
+  <row>
+    <input>het vierde boek makkabeeën</input>
+    <input>the fourth book of maccabees</input>
+    <input>4 maccabees</input>
+    <input>4 maccabees</input>
+    <input>4 mkb</input>
+    <input>4 mak</input>
+    <input>4 makk</input>
+    <input>4 mc</input>
+    <input>4 mac</input>
+    <input>4 macc</input>
+    <input>4 mcc</input>
+    <input>4 ma</input>
+    <input>4 m</input>
+    <input>4 makabejci</input>
+    <input>4 maccabees</input>
+    <input>4 makkabeeën</input>
+    <input>4 makkabeeen</input>
+    <input>4 makkabeeërs</input>
+    <input>4 makkabeeers</input>
+    <input>4 makkabäer</input>
+    <input>4 macabeos</input>
+    <input>4maccabees</input>
+    <input>4mkb</input>
+    <input>4mak</input>
+    <input>4makk</input>
+    <input>4mc</input>
+    <input>4mac</input>
+    <input>4macc</input>
+    <input>4mcc</input>
+    <input>4ma</input>
+    <input>4m</input>
+    <input>4makabejci</input>
+    <input>4maccabees</input>
+    <input>4makkabeeën</input>
+    <input>4makkabeeen</input>
+    <input>4makkabeeërs</input>
+    <input>4makkabeeers</input>
+    <input>4makkabäer</input>
+    <input>4macabeos</input>
+    <code>
+      <usfm>4MA</usfm>
+      <crosswire_org>4maccabees</crosswire_org>
+      <vatican>4 Maccabees</vatican>
+      <unbound_biola_edu>80A</unbound_biola_edu>
+      <usccb_org>4maccabees</usccb_org>
+      <osis>4Macc</osis>
+      <biblija_net>4 Macc</biblija_net>
+      <rkbijbel>4makkabeeen</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Het vierde boek Makkabeeën</nl>
+      <en>The Fourth Book of Maccabees</en>
+    </spoken>
+    <language>
+      <nl>het vierde boek makkabeeën</nl>
+      <en>4 maccabees</en>
+      <fr>4 m</fr>
+    </language>
+  </row>
+  <row>
+    <input>wijsheid</input>
+    <input>the book of wisdom</input>
+    <input>wisdom</input>
+    <input>mdr</input>
+    <input>modr</input>
+    <input>wis</input>
+    <input>wisd</input>
+    <input>weish</input>
+    <input>wijsh</input>
+    <input>w</input>
+    <input>sg</input>
+    <input>sag</input>
+    <input>sap</input>
+    <input>sb</input>
+    <input>sab</input>
+    <input>sv</input>
+    <input>mudr</input>
+    <input>jkd</input>
+    <input>modrost</input>
+    <input>wisdom</input>
+    <input>weisheit</input>
+    <input>sabiduría</input>
+    <code>
+      <usfm>WIS</usfm>
+      <crosswire_org>Wisdom</crosswire_org>
+      <vatican>Wisdom</vatican>
+      <diebibel_de>weish</diebibel_de>
+      <unbound_biola_edu>70A</unbound_biola_edu>
+      <usccb_org>Wisdom</usccb_org>
+      <laparola_net>Sapienza</laparola_net>
+      <bibliacatolica_com>27</bibliacatolica_com>
+      <osis>Wis</osis>
+      <biblija_net>Wisd</biblija_net>
+      <can>69</can>
+      <rkbijbel>wijsheid</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Wijsheid</nl>
+      <en>The Book of Wisdom</en>
+    </spoken>
+    <language>
+      <nl>wijsheid</nl>
+      <en>the book of wisdom</en>
+      <fr>sg</fr>
+    </language>
+  </row>
+  <row>
+    <input>wijsheid van jezus sirach</input>
+    <input>sirach</input>
+    <input>sir</input>
+    <input>si</input>
+    <input>sirah</input>
+    <input>eclo</input>
+    <input>ecclesiasticus</input>
+    <input>ecclesiastique</input>
+    <input>ecclésiastique</input>
+    <input>eclesiástico</input>
+    <code>
+      <usfm>SIR</usfm>
+      <crosswire_org>Sirach</crosswire_org>
+      <vatican>Sirach</vatican>
+      <diebibel_de>sach</diebibel_de>
+      <unbound_biola_edu>71A</unbound_biola_edu>
+      <usccb_org>Sirach</usccb_org>
+      <laparola_net>Siracide</laparola_net>
+      <bibliacatolica_com>28</bibliacatolica_com>
+      <osis>Sir</osis>
+      <biblija_net>Si</biblija_net>
+      <can>70</can>
+      <rkbijbel>jezussirach</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Wijsheid van Jezus Sirach</nl>
+      <en>Sirach</en>
+    </spoken>
+    <language>
+      <nl>wijsheid van jezus sirach</nl>
+      <en>sirach</en>
+      <fr>si</fr>
+    </language>
+  </row>
+  <row>
+    <input>baruch</input>
+    <input>bar</input>
+    <input>ba</input>
+    <input>baruh</input>
+    <input>baruc</input>
+    <code>
+      <usfm>BAR</usfm>
+      <crosswire_org>baruch</crosswire_org>
+      <vatican>Baruch</vatican>
+      <unbound_biola_edu>72A</unbound_biola_edu>
+      <usccb_org>baruch</usccb_org>
+      <laparola_net>Baruc</laparola_net>
+      <bibliacatolica_com>32</bibliacatolica_com>
+      <osis>Bar</osis>
+      <biblija_net>Ba</biblija_net>
+      <can>71</can>
+      <rkbijbel>baruch</rkbijbel>
+    </code>
+    <spoken>
+      <nl>Baruch</nl>
+      <en>Baruch</en>
+    </spoken>
+    <language>
+      <nl>baruch</nl>
+      <en>baruch</en>
+      <fr>ba</fr>
+    </language>
+  </row>
+</root>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." default="all" name="Tridentijns Lectionarium">
+ <property name="saxon-pe.location.ant" value="/home/vic/Programs/jar/saxon9he.jar"/>
+ <property name="project.home.ant" value="/home/vic/Drive/GelovenLeren/Summa/build/"/>
+
+ <!-- before running this build, start bibleref-standalone (see README.txt there) -->
+
+ <target name="all" depends="pdf"/>
+ 
+ <target name="markdown">
+  <xslt style="missaal-eo-markdown.xslt" in="missaal-eo-markdown.xslt" out="missaal-eo.markdown">
+   <classpath location="${saxon-pe.location.ant}" />
+  </xslt>
+ </target>
+
+ <target name="pdf" depends="markdown">
+  <apply executable="pandoc" dest=".">
+   <srcfile/>
+   <arg line="-f"/>
+   <arg line="markdown"/>
+   <arg line="-o"/>
+   <targetfile/>
+   <fileset dir="." includes="missaal-eo.markdown"/>
+   <globmapper from="*.markdown" to="*.pdf"/>
+  </apply>
+ </target>
+  
+</project>

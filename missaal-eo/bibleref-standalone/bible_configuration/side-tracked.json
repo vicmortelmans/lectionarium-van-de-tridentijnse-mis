@@ -1,0 +1,12 @@
+"getbible": {
+    "name": "getbible",
+    "bookskey": "osis",
+    "editionskey": "getbible",
+    "step": [{
+        "-nr": "1",
+        "type": "json",
+        "url": "https://getbible.net/json?passage=$book%20$chapter:$passage&version=$edition&raw=true",
+        "parser": "def parser(json):\n  c = json['book'][0]['chapter'];return c[c.keys()[0]]['verse']"
+    }]
+},
+# the above is sidetracked because I've configured it to use OSIS book names, but it doesn't understand "Exod" as a book name (it does understand "Exo", but that's not OSIS)
