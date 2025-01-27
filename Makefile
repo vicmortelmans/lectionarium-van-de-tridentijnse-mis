@@ -9,7 +9,7 @@ mkdir:
 
 markdown_files:
 	rm -rf markdown
-	mdsplit -l 2 -t -o markdown missaal-eo.markdown
+	python3 mdsplit.py -l 2 -t -o markdown missaal-eo.markdown
 	cp index.md markdown
 	rm -f markdown/missaal-eo.markdown
 
