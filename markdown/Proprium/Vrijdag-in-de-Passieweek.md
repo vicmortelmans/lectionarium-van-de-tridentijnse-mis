@@ -1,8 +1,0 @@
-## Vrijdag in de Passieweek
-
-*Jeremia 17:13-18*
-Jahweh, hoop van Israël! Die U verlaten, komen te schande, Die tegen mij zich verzetten, staan opgeschreven ten dode, Omdat ze Jahweh verzaken, de bron van de levende wateren! Genees mij, Jahweh, dan word ik gezond; Kom mij te hulp, dan word ik gered: Want Gij zijt mijn glorie! Zie, ze zeggen tot mij: Waar blijft dan toch het woord van Jahweh? Ach, laat het in vervulling gaan! Ik heb niet aangedrongen Op onheil bij U, Naar de dag van jammer niet verlangd, Gij weet het! Wat mij over de lippen kwam, Was afkomstig van U! Wees Gij dan mijn ondergang niet, Gij mijn toevlucht op de dag van jammer. Laat mijn vervolgers beschaamd staan, niet ik; Zij worden gebroken, niet ik. Breng over hen de dag van jammer, Verpletter ze ten einde toe. 
-
-*Het Evangelie volgens Johannes 11:47-54*
-Toen riepen de opperpriesters en farizeën de Hoge Raad bijeen. Ze zeiden: Wat doen we? Want die man doet veel wonderen. Als we Hem zó laten begaan, zullen ze allemaal in Hem geloven; dan zullen de Romeinen komen, en ons land en volk verdelgen. Maar één hunner, Káifas, die dat jaar de hogepriester was, sprak tot hen: Weet gij geen uitkomst? Beseft gij dan niet, dat het goed voor u is, dat één mens sterft voor het heil van het volk, en niet het hele volk te gronde gaat? Dit zei hij niet uit zichzelf. Maar als hogepriester van dat jaar profeteerde hij, dat Jesus sterven zou voor het heil van het volk; en niet voor het volk alleen, maar ook om de verstrooide kinderen Gods bijeen te brengen. Van die dag af waren ze besloten, Hem te doden. Daarom trad Jesus niet meer in het openbaar onder de Joden op, maar trok Hij Zich terug in een streek nabij de woestijn, in een stad, Efrem genaamd; en daar bleef Hij met zijn leerlingen. 
-

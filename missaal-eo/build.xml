@@ -16,6 +16,7 @@
  <target name="pdf" depends="markdown">
   <apply executable="pandoc" dest=".">
    <srcfile/>
+   <arg line="--pdf-engine=pdflatex"/>
    <arg line="-f"/>
    <arg line="markdown"/>
    <arg line="-o"/>

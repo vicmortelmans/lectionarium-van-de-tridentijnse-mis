@@ -1,2 +1,0 @@
-User-Agent: *
-Sitemap: https://lectionarium.gelovenleren.net/sitemap.xml

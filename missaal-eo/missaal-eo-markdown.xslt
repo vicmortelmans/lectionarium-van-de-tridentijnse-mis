@@ -7,7 +7,20 @@
     <xsl:variable name="books" select="doc('books.xml')/root"/>
     <xsl:variable name="can" select="doc('canisius-met-correcties.xml')/dataroot"/>
     <xsl:variable name="ord" select="doc('Gewone Gebeden van de Mis - bible.xml')/data"/>
+    <xsl:variable name="images" select="doc('missaal-eo-image-titles.xml')/data"/>
     <xsl:template match="/">
+      <!--report images that are not included-->
+      <xsl:message>
+          <xsl:text>Images not included:</xsl:text>
+          <xsl:text>&#10;</xsl:text>
+          <xsl:for-each select="$images/*">
+              <xsl:if test="not($index/*[coordinates=current()/id])">
+                  <xsl:value-of select="file"/>
+                  <xsl:text>&#10;</xsl:text>
+              </xsl:if>
+          </xsl:for-each>
+      </xsl:message>
+      <!--start rendering output-->
       <xsl:text>---&#10;</xsl:text>
       <xsl:text>title: Lectionarium van de Tridentijnse Mis&#10;</xsl:text>
       <xsl:text>lang: nl&#10;</xsl:text>
@@ -23,9 +36,12 @@
       <xsl:text>    \fancyfoot[CE,CO]{\small{\thepage}}&#10;</xsl:text>
       <xsl:text>    \fancyhead[LO,LE,RO,RE]{}&#10;</xsl:text>
       <xsl:text>    \fancyfoot[LO,LE,RO,RE]{}&#10;</xsl:text>
+      <xsl:text>    \usepackage{caption}&#10;</xsl:text>
+      <xsl:text>    \DeclareCaptionFormat{empty}{}&#10;</xsl:text>
+      <xsl:text>    \captionsetup{format=empty}&#10;</xsl:text>
       <xsl:text>...&#10;</xsl:text>
       <xsl:text>&#10;</xsl:text>
-      <xsl:text>De teksten in dit lectionarium komen overeen met de lezingen die worden voorgeschreven in het missaal van de Tridentijnse Mis, onder het pontificaat van paus Benedictus XVI ook gekend als de Buitengewone Vorm van de Latijnse Ritus. De Nederlandse vertalingen zijn genomen uit de Petrus Canisius bijbelvertaling, een  vertaling uit de grondtekst in opdracht van de Apologetische Vereniging 'Petrus Canisius' ondernomen met goedkeuring van de hoogwaardige bisschoppen van Nederland (oorspronkelijke uitgave 1939). De integrale tekst van deze vertaling vindt men op https://bijbel.gelovenleren.net.&#10;</xsl:text>
+      <xsl:text>De teksten in dit lectionarium komen overeen met de lezingen die worden voorgeschreven in het missaal van de Tridentijnse Mis, onder het pontificaat van paus Benedictus XVI ook gekend als de Buitengewone Vorm van de Latijnse Ritus. De Nederlandse vertalingen zijn genomen uit de Petrus Canisius bijbelvertaling, een  vertaling uit de grondtekst in opdracht van de Apologetische Vereniging 'Petrus Canisius' ondernomen met goedkeuring van de hoogwaardige bisschoppen van Nederland (oorspronkelijke uitgave 1939). De integrale tekst van deze vertaling vindt men op https://bijbel.gelovenleren.net. De afbeeldingen bij de evangelieteksten zijn genomen uit /Evangelicae historiae imagines: ex ordine evangeliorum, quæ toto anno in missæ sacrificio recitantur, in ordinem temporis vitæ Christi digest/ (Antwerpen, Jerónimo Nadal sj, 1593).&#10;</xsl:text>
       <xsl:text>&#10;</xsl:text>
       <xsl:text># Proprium&#10;</xsl:text>
       <xsl:text>&#10;</xsl:text>
@@ -59,17 +75,20 @@
             <xsl:with-param name="refs" select="epistle"/>
             <xsl:with-param name="type" select="'Epistel'"/>
             <xsl:with-param name="name" select="$name"/>
+            <xsl:with-param name="coordinates" select="coordinates"/>
         </xsl:call-template>
         <xsl:call-template name="passage">
             <xsl:with-param name="refs" select="gospel"/>
             <xsl:with-param name="type" select="'Evangelie'"/>
             <xsl:with-param name="name" select="$name"/>
+            <xsl:with-param name="coordinates" select="coordinates"/>
         </xsl:call-template>
     </xsl:template>
     <xsl:template name="passage">
         <xsl:param name="refs"/>
         <xsl:param name="type"/>
         <xsl:param name="name"/>
+        <xsl:param name="coordinates"/>
         <xsl:for-each select="tokenize($refs, '\|')">
             <xsl:variable name="epistle_ref" select="."/>
             <xsl:variable name="epistle_verses" select="doc(concat('http://localhost:8080/yql/bibleref?language=nl&amp;xml=true&amp;bibleref=', $epistle_ref))/query/results/biblerefs"/>
@@ -80,6 +99,12 @@
                 <xsl:message>No bibleref in nl for <xsl:value-of select="$epistle_ref"/></xsl:message>
             </xsl:if>
             <xsl:variable name="book_can" select="$books/row[code/osis = $book_osis]/code/can"/>
+            <xsl:if test="$type='Evangelie'">
+                <xsl:for-each select="$images/*[id=$coordinates]">
+                    <xsl:text>![image](images/</xsl:text><xsl:value-of select="file"/><xsl:text>)</xsl:text>
+                    <xsl:text>&#10;&#10;</xsl:text>
+                </xsl:for-each>
+            </xsl:if>
             <xsl:text>*</xsl:text><xsl:value-of select="$epistle_ref_nl"/><xsl:text>*</xsl:text>
             <xsl:text>&#10;</xsl:text>
             <xsl:for-each select="$epistle_verses/bibleref">

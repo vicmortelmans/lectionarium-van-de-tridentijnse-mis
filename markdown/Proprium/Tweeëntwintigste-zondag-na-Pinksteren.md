@@ -1,8 +1,0 @@
-## Tweeëntwintigste zondag na Pinksteren
-
-*De brief aan de Filippenzen 1:6-11*
-Want ik heb het vaste vertrouwen, dat Hij, die in u het goede werk is begonnen, het ook zal voltooien tot op de Dag van Christus Jesus. Want het is niet meer dan billijk, dat ik zó over u allen denk, daar ik u ronddraag in mijn hart, en daar gij allen deelgenoot aan mijn genade zijt, zowel in mijn boeien als in de verdediging en bevestiging van het Evangelie. God is mijn getuige, hoe ik met de hartelijke liefde van Christus Jesus naar u allen verlang. En ik bid, dat uw liefde steeds meer moge winnen aan kennis en zedelijk inzicht, om scherp het goed van het kwaad te onderscheiden; en dat gij op de Dag van Christus rein en onberispelijk moogt zijn, beladen met de vrucht der gerechtigheid, die door Jesus Christus is verworven, tot eer en glorie van God. 
-
-*Het Evangelie volgens Matteüs 22:15-21*
-Daarop gingen de farizeën heen, en beraadslaagden, hoe ze Hem in zijn eigen woorden zouden verstrikken. Ze zonden hun leerlingen met de aanhangers van Herodes op Hem af met de vraag: Meester, we weten, dat Gij oprecht zijt, de weg van God naar waarheid leert, en niemand naar de ogen ziet; want Gij kent geen aanzien des persoons. Zeg ons dus: wat dunkt U; is het geoorloofd den keizer belasting te betalen, of niet? Jesus kende hun boosheid, en sprak: Huichelaars, wat stelt gij Mij op de proef? Laat Mij de cijnspenning zien. Ze hielden Hem een tienling voor. Jesus zeide hun: Wiens beeld en randschrift is dit? Ze zeiden: Van den keizer. Hij sprak tot hen: Geeft dan den keizer, wat den keizer toekomt; en geeft aan God, wat God toekomt. 
-

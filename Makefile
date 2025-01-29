@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-all: mkdir markdown_files toc_postprocess copy_cname copy_resources htmls calendar sitemap 
+all: mkdir markdown_files toc_postprocess copy_cname copy_resources copy_images calendar sitemap htmls
 
 mkdir:
 	mkdir -p docs
@@ -21,6 +21,9 @@ toc_postprocess:
 
 copy_resources:
 	cp -r resources docs
+
+copy_images:
+	cp -r missaal-eo/images docs/Proprium
 
 copy_cname:
 	cp CNAME docs

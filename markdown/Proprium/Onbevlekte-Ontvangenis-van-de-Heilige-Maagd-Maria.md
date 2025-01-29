@@ -1,8 +1,0 @@
-## Onbevlekte Ontvangenis van de Heilige Maagd Maria
-
-*Spreuken 8:22-35*
-Jahweh schiep mij als zijn eerste gewrocht, Als het eerste werk, dat Hij ooit heeft gemaakt; Van oudsher ben ik gevormd, Van den beginne, vóór de eerste tijden der aarde. Toen er nog geen oceanen waren. was ik geboren, Toen er nog geen bronnen, rijk aan water, bestonden; Eer de bergen waren neergelaten, Eer de heuvels ontstonden, werd ik geboren, Eer Hij de aarde had gemaakt en de velden, En alle grondstoffen der wereld. Toen Hij de hemel welfde, was ik aanwezig, Toen Hij een kring trok rond het vlak van de oceaan; Toen Hij daarboven de wolken bevestigde, En de bronnen van de oceaan begonnen te stromen; Toen Hij de zee haar grenzen stelde, Dat de wateren haar oevers niet zouden overschrijden; Toen Hij de fundamenten der aarde legde: Was ik bij Hem als een troetelkind, Was ik elke dag zijn vermaak, Dartelde ik heel de tijd onder zijn ogen, Spelend op zijn wereldrond, En mij vermakend met de kinderen der mensen. Welnu dan kinderen luistert naar mij; Gelukkig zij, die mijn wegen bewaren; Hoort naar de lessen, weest wijs, en verwerpt ze niet. En de wacht houden aan de posten van mijn poorten. Gelukkig de mens, die naar mij luistert, Die elke dag aan mijn deuren waken, Wie mij vindt, heeft het leven gevonden, En welbehagen verkregen van Jahweh; 
-
-*Het Evangelie volgens Lucas 1:26-28*
-In de zesde maand werd de engel Gábriël door God naar een stad van Galilea gezonden, Názaret genaamd, tot een maagd, die verloofd was aan een man, die Josef heette, en uit het huis van David was; de naam van de maagd was Maria. De engel trad bij haar binnen, en sprak: Wees gegroet, vol van genade. De Heer is met u; gij zijt de gezegende onder de vrouwen. 
-

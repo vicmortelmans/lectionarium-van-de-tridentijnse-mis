@@ -1,8 +1,0 @@
-## Twintigste zondag na Pinksteren
-
-*De brief aan de Efeziërs 5:15-21*
-Ziet dus nauwlettend toe, hoe ge u gedraagt: niet als dwazen, maar als wijzen; benut de gunstige gelegenheid, want de tijden zijn boos. Weest daarom niet onverstandig, maar tracht de wil des Heren te verstaan. Bedrinkt u niet aan de wijn, want dit voert tot losbandigheid; maar wordt vol van den Geest. Spreekt tot elkander in psalmen, lofzangen en geestelijke liederen; zingt en juicht in uw hart voor den Heer; betuigt zonder ophouden voor alles uw dank aan God en den Vader, in de naam van Jesus Christus onzen Heer. Weest elkander onderdanig in de vreze van Christus. 
-
-*Het Evangelie volgens Johannes 4:46-53*
-Zo kwam Hij dan opnieuw in Kana van Galilea, waar Hij het water in wijn had veranderd. Nu woonde er te Kafárnaum een zekere hofbeambte, wiens zoon ziek lag. Toen hij vernam, dat Jesus uit Judea naar Galilea gekomen was, ging hij naar Hem toe, en verzocht Hem, zijn zoon te komen genezen; want die lag op sterven. Maar Jesus sprak tot hem: Zo gij geen tekenen en wonderen ziet, gelooft gij niet. De hofbeambte zei Hem: Heer, kom mee, eer mijn kind dood is. Jesus sprak tot hem: Ga heen, uw zoon is gezond. De man geloofde het woord, dat Jesus hem zeide, en ging heen. Maar reeds onderweg kwamen zijn dienaars hem tegen en zeiden, dat zijn zoon weer gezond was. Hij vroeg hen naar het uur, waarop de beterschap was ingetreden. Ze zeiden hem: Gisteren, te zeven uur, heeft de koorts hem verlaten. De vader erkende, dat dit juist het uur was, waarop Jesus hem had gezegd: Uw zoon is gezond. En hij geloofde met heel zijn gezin. 
-

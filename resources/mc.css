@@ -144,4 +144,6 @@ div.gs-title {
 .gsc-thumbnail-inside {
   text-align: left;
 }
-
+figcaption {
+  display: none;
+}
