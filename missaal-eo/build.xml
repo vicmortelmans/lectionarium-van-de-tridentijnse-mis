@@ -26,4 +26,9 @@
   </apply>
  </target>
   
+ <target name="clean">
+   <delete file="missaal-eo.pdf"/>
+   <delete file="missaal-eo.markdown"/>
+ </target>
+
 </project>

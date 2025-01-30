@@ -9,6 +9,7 @@ mkdir:
 
 markdown_files:
 	rm -rf markdown
+	cp missaal-eo/missaal-eo.markdown .
 	python3 mdsplit.py -l 2 -t -o markdown missaal-eo.markdown
 	cp index.md markdown
 	rm -f markdown/missaal-eo.markdown
@@ -46,7 +47,9 @@ htmls: $(patsubst markdown/%.md,docs/%.html,$(wildcard markdown/*.md) $(wildcard
 
 calendar:
 	java net.sf.saxon.Transform -s:calendar-eo.xml -xsl:calendar-redirects.xslt -o:dummy.xml
+	rm -f dummy.xml
 
 clean: 
 	rm -rf markdown
 	rm -rf docs
+	rm missaal-eo.markdown
