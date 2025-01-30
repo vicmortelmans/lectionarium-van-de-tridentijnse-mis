@@ -1,5 +1,5 @@
 1. =missaal-eo= has an ant =build.xml= that
-   1. uses =missaal-eo-markdown.xslt= to convert =canisius-met-correcties.xml= combined with liturgy and bible lookup tables to =missaal-eo.markdown=
+   1. uses =missaal-eo-markdown.xslt= to convert =canisius-met-correcties.xml= combined with liturgy and bible lookup tables and an index of Nadal's images to =missaal-eo.markdown=
       1. uses =bilberef-standalone= to run a web server that allows queries to "http://localhost:8080/yql/bibleref?language=nl&amp;xml=true&amp;bibleref="
    2. uses =pandoc= to convert that to =missaal-eo.pdf=.
 2. [[https://github.com/vicmortelmans/lectionarium-van-de-tridentijnse-mis][vicmortelmans/lectionarium-van-de-tridentijnse-mis]] has a =Makefile+ that
@@ -28,6 +28,7 @@ Build workflow:
 9. cd ..
 10. make clean
 11. make
+12. make htmls
 
 A sitemap is generated.
 
