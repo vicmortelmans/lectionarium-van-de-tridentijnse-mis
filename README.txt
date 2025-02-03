@@ -17,9 +17,9 @@ The =docs= directory is served by github-pages.
 
 Build workflow:
 
-1. python3 -m venv env
+1. python3 -m venv env (*)
 2. source env/bin/activate
-3. pip install -r requirements.txt
+3. pip install -r requirements.txt (*)
 4. cd missaal-eo/bibleref-standalone
 5. python main.py &
 6. cd ..
@@ -29,6 +29,8 @@ Build workflow:
 10. make clean
 11. make
 12. make htmls
+
+(*) only needed when there's no "env" directory
 
 A sitemap is generated.
 
