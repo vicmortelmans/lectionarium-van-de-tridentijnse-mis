@@ -15,6 +15,7 @@ book = ''
 localbook = ''
 spokenbook = ''
 osisbook = ''
+canbook = ''
 bookoutlinerecord = {}
 tolerance = ''
 with open('bible_configuration/books.json') as books_file:
@@ -95,6 +96,14 @@ def getosisbook(bookrecord):
             return bookrecord["code"][code]
     else:
         logging.error("No osis code found for %s" % bookrecord["input"][0])
+
+
+def getcanbook(bookrecord):
+    for code in bookrecord["code"]:
+        if code == "can":
+            return bookrecord["code"][code]
+    else:
+        logging.error("No can(isius) code found for %s" % bookrecord["input"][0])
 
 
 def getlocalbook(bookrecord, lang):
@@ -240,12 +249,13 @@ def verseinbook(chapter, verse):
     return sum
 
 
-def listrecord(book, chapter, verse, phrase, osisbook, remainingverses):
+def listrecord(book, chapter, verse, phrase, osisbook, canbook, remainingverses):
     v = verseinbook(chapter, verse)
     return {
         'book': book,
         'localbook': localbook,
         'osisbook': osisbook,
+        'canbook': canbook,
         'chapterversereference': chapterversereference,
         'verseinbook': v,
         'chapter': chapter,
@@ -289,11 +299,11 @@ def parse_range(mode, rng):
                     phrases = "abcdefghijkl"
                     for phrase in char_range(begin['verse']['phrase'], end['verse']['phrase']):
                         logging.info("adding [1] %s | %s | %s%s | %s" % (book, chapter, begin['verse']['number'], phrase, osisbook))
-                        list.append(listrecord(book, chapter, begin['verse']['number'], phrase, osisbook, end['verse']['remainingverses']))
+                        list.append(listrecord(book, chapter, begin['verse']['number'], phrase, osisbook, canbook, end['verse']['remainingverses']))
                 else:
                     # if neither begin or end verse have a phrase letter
                     logging.info("adding [2] %s | %s | %s%s | %s" % (book, chapter, begin['verse']['number'], begin['verse']['phrase'], osisbook))
-                    list.append(listrecord(book, chapter, begin['verse']['number'], begin['verse']['phrase'], osisbook, end['verse']['remainingverses']))
+                    list.append(listrecord(book, chapter, begin['verse']['number'], begin['verse']['phrase'], osisbook, canbook, end['verse']['remainingverses']))
             else:
                 # if begin and end verse are different
                 phrase = ''
@@ -302,7 +312,7 @@ def parse_range(mode, rng):
                 elif chapter == end['chapter'] and versenumber == end['verse']['number']:
                     phrase = '-' + end['verse']['phrase'] if end['verse']['phrase'] else ''
                 logging.info("adding [3] %s | %s | %s%s | %s" % (book, chapter, versenumber, phrase, osisbook))
-                list.append(listrecord(book, chapter, versenumber, phrase, osisbook, end['verse']['remainingverses']))
+                list.append(listrecord(book, chapter, versenumber, phrase, osisbook, canbook, end['verse']['remainingverses']))
     return list
 
 
@@ -324,6 +334,7 @@ def parse_reference(bibleref, language="en", tolerance_param="false"):
     global localbook
     global spokenbook
     global osisbook
+    global canbook
     global bookoutlinerecord
     global tolerance
     tolerance = tolerance_param
@@ -342,6 +353,7 @@ def parse_reference(bibleref, language="en", tolerance_param="false"):
     book = book + split2['before']
     bookrecord = find_book(book)
     osisbook = getosisbook(bookrecord)
+    canbook = getcanbook(bookrecord)
     if language:
         localbook = getlocalbook(bookrecord, language)
         spokenbook = getspokenbook(bookrecord, language)
