@@ -13,17 +13,18 @@ Sample result:
   <results>
     <biblerefs>
       <bibleref>
-        <book>2 Thess</book>
-        <localbook>2 tes</localbook>
-        <osisbook>2Thess</osisbook>
-        <chapterversereference>1:4-13</chapterversereference>
-        <verseinbook>4</verseinbook>
+        <book>Mt</book>
+        <localbook>mt</localbook>
+        <osisbook>Matt</osisbook>
+        <canbook>40</canbook>
+        <chapterversereference>1:1-2</chapterversereference>
+        <verseinbook>1</verseinbook>
         <chapter>1</chapter>
-        <verse>4</verse>
+        <verse>1</verse>
         <phrase></phrase>
-        <osisref>2Thess.1.4</osisref>
-        <sequence>2Thess1001004</sequence>
-        <remainingverses>-1</remainingverses>
-        <spoken>de tweede brief aan de tessalonicenzen</spoken>
+        <osisref>Matt.1.1</osisref>
+        <sequence>Matt1001001</sequence>
+        <remainingverses>23</remainingverses>
+        <spoken>het evangelie volgens matte&#252;s</spoken>
       </bibleref>
       ...
